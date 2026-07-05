@@ -1,0 +1,658 @@
+LLM Grammar Audit — gemma2:9b
+Total: 3640 | Errors: 384 | API errors: 1
+================================================================================
+
+vergessen | perfekt_ich: 'vergessen' → 'vergessen' | Partizip II for 'vergessen' is 'vergessen', not 'vergessenen'.
+verlassen | perfekt_ich: 'verlassen' → 'verlassen' | The Partizip II of 'verlassen' is 'verlassen', not 'verlass'.
+unterbrechen | du: 'unterbrauchst' → 'unterbricht' | Separable verbs split the prefix in conjugated forms.
+schneien | ich: 'schneie' → 'schneien' | Incorrect present tense conjugation for 'ich'.
+wehen | perfekt_ich: 'geweht' → 'gewehen' | Incorrect Partizip II for 'wehen'
+empfangen | perfekt_ich: 'empfangen' → 'er empfangen' | Partizip II for regular verbs is ge- + stem + -t
+verdienen | perfekt_ich: 'verdients' → 'verdient' | Partizip II of regular verbs is ge- + stem + -t
+sich langweilen | perfekt_ich: 'mich langweiled' → 'habe mich langweilen' | Incorrect Partizip II for separable verbs. It should be 'ge- + prefix + stem'
+untersuchen | perfekt_ich: 'untersucht' → 'untersucht' | Partizip II of separable verbs has the prefix moved to the end: untersucht
+erfinden | du: 'erfundenst' → 'erfindest' | Incorrect conjugation for du. It should be 'erfindest'.
+beantworten | perfekt_ich: 'beantwortet' → 'beantwortet' | Partizip II for separable verbs is 'aufgemacht', not 'beantwortet'
+benutzen | perfekt_ich: 'benutzt' → 'benutzt' | The Partizip II of benutzen is benutzt, not benutz.
+erlauben | perfekt_ich: 'erlaubt' → 'erlaubt' | Partizip II of 'erlauben' is 'erlaubt'
+gefallen | ich: 'gefalle' → 'gefalle' | Incorrect conjugation for 'ich'. It should be 'gefalle'.
+gefallen | du: 'gefallst' → 'fällt' | Incorrect conjugation for 'du'. It should be 'fällt'.
+gefallen | er/sie/es: 'gefallen' → 'fällt' | Incorrect conjugation for 'er/sie/es'. It should be 'fällt'.
+gefallen | wir: 'gefallen' → 'fallen' | Incorrect conjugation for 'wir'. It should be 'fallen'.
+gefallen | ihr: 'gefallt' → 'fällt' | Incorrect conjugation for 'ihr'. It should be 'fällt'.
+gefallen | Sie: 'gefallen' → 'fallen' | Incorrect conjugation for 'Sie'. It should be 'fallen'.
+genügen | perfekt_ich: 'genügt' → 'genug' | Partizip II of 'genügen' is 'genugt'
+geschehen | ich: 'geschehe' → 'geschieht' | Strong verb, vowel change in ich
+unterstützen | perfekt_ich: 'unterstützt' → 'unterstützt' | Partizip II of -ieren verbs is  -iert, not -t
+misstrauen | perfekt_ich: 'misstraut' → 'gemisstraut' | Irregular verb, use 'ge-' + stem + '-t'
+entschuldigen | perfekt_ich: 'mich entschuldigt' → 'sich entschuldigt' | The reflexive pronoun 'sich' is needed in the perfect tense of 'entschuldigung'.
+nicken | perfekt_ich: 'gekniect' → 'geknickt' | Incorrect Partizip II formation for nicken.
+entlassen | perfekt_ich: 'entlassen' → 'entlassen' | Partizip II for inseparable prefix verbs is stem + -t
+abbrechen | du: 'brauchst ab' → 'brauchst ab' | The correct conjugation for 'abbrechen' in the second person singular is 'brauchst ab'.
+anbraten | ich: 'brate an' → 'bräute an' | Strong verb, vowel change in du/er
+anmachen | ich: 'mache an' → 'mache an' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | ich: 'esse auf' → 'ich esse auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | du: 'isst auf' → 'du isst auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | er/sie/es: 'isst auf' → 'er/sie/es isst auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | wir: 'essen auf' → 'wir essen auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | ihr: 'esst auf' → 'ihr esst auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufessen | Sie: 'essen auf' → 'Sie essen auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufheben | du: 'hebt auf' → 'hebst auf' | The separable prefix 'auf' should be attached to the end of the verb stem in the du form.
+aufheben | er/sie/es: 'hebt auf' → 'hebt auf' | The separable prefix 'auf' should be attached to the end of the verb stem in the er/sie/es form.
+ausruhen | ich: 'ruhe aus' → 'ruhe aus' | Inseparable prefixes never split off.
+ausruhen | du: 'ruhst aus' → 'ruhst aus' | Correct conjugation
+ausruhen | er/sie/es: 'ruht aus' → 'ruht aus' | Correct conjugation
+ausruhen | wir: 'ruhen aus' → 'ruhen aus' | Correct conjugation
+ausruhen | ihr: 'ruht aus' → 'ruht aus' | Correct conjugation
+ausruhen | Sie: 'ruhen aus' → 'ruhen aus' | Correct conjugation
+ausruhen | perfekt_ich: 'ausgeruht' → 'ausgeruht' | Correct conjugation
+beachten | perfekt_ich: 'beachtet' → 'beachtet' | Partizip II of beachten is beachtet, not beachtet.
+bedanken | perfekt_ich: 'mich bedankt' → 'sich bedankt' | The reflexive pronoun 'sich' is used in the perfect tense of 'bedanken'.
+beeinflussen | ich: 'beeinflusse' → 'beeinflusst' | Present tense conjugation error: -e ending for ich is incorrect.
+befolgen | perfekt_ich: 'befolgt' → 'befolgt' | Partizip II of 'befolgen' is 'befolgt', not 'befolgt'
+beraten | perfekt_ich: 'beraten' → 'beratent' | Partizip II of -ieren verbs is stem + -t
+bereiten | perfekt_ich: 'bereitet' → 'bereitgemacht' | Partizip II of separable verbs has ge- between prefix and stem
+empfinden | perfekt_ich: 'engempft' → 'empfunden' | Incorrect Partizip II for 'empfinden'
+enthalten | du: 'enthältst' → 'enthaltst' | Incorrect spelling of 'halt'
+enthalten | ich: 'enthalte' → 'enthält' | Present tense conjugation is incorrect
+entlaufen | ihr: 'entrennt' → 'entlaufen' | Inseparable prefixes never split. It should be entlaufen.
+entlaufen | perfekt_ich: 'entlaufen' → 'entlaufen' | Partizip II for inseparable prefix verbs is stem + -en
+erhalten | perfekt_ich: 'erhalten' → 'gehalten' | Partizip II of 'erhalten' is 'gehalten'
+ermöglichen | perfekt_ich: 'ermöglicht' → 'ermöglicht' | Partizip II of 'ermöglichen' is ermöglicht, not ermöglicht.
+funktionieren | perfekt_ich: 'funktioniert' → 'hat funktioniert' | Partizip II is incorrect for separable verbs
+stattfinden | ich: 'finde statt' → 'findet statt' | Subject-verb agreement error. 'Ich' should agree with the verb 'finden'.
+vergeben | perfekt_ich: 'vergeben' → 'vergeben' | The Partizip II of 'vergeben' is 'vergeben', not 'vergab'.
+abklingen | ich: 'klingst ab' → 'klingt ab' | Strong verb, vowel change in du/er
+aufteilen | ich: 'teile auf' → 'teile auf' | The prefix should split off in the conjugated form.
+aufteilen | du: 'teilst auf' → 'teilst auf' | The prefix should split off in the conjugated form.
+aufteilen | er/sie/es: 'teilt auf' → 'teilt auf' | The prefix should split off in the conjugated form.
+aufteilen | wir: 'teilen auf' → 'teilen auf' | The prefix should split off in the conjugated form.
+aufteilen | ihr: 'teilt auf' → 'teilt auf' | The prefix should split off in the conjugated form.
+aufteilen | Sie: 'teilen auf' → 'teilen auf' | The prefix should split off in the conjugated form.
+ausrechnen | ich: 'rechnen aus' → 'rechne aus' | Separable verbs: prefix splits off in conjugated forms.
+ausrechnen | du: 'rechnest aus' → 'rechnest aus' |
+ausrechnen | er/sie/es: 'rechnet aus' → 'rechnet aus' |
+ausrechnen | wir: 'rechnen aus' → 'rechnen aus' |
+ausrechnen | ihr: 'rechnet aus' → 'rechnet aus' |
+ausrechnen | Sie: 'rechnen aus' → 'rechnen aus' |
+ausrechnen | perfekt_ich: 'ausgerechnet' → 'ausgerechnet' |
+ausrichten | perfekt_ich: 'ausrichtende' → 'ausgerichtet' | Partizip II of separable verbs: ge- between prefix and stem
+bearbeiten | perfekt_ich: 'bearbeitet' → 'bearbeitet' | Partizip II for separable verbs is 'ge-' + prefix + stem
+berichtigen | ihr: 'berichtet' → 'berichtigen' | ihr uses the same conjugation as Sie
+beteiligen | perfekt_ich: 'be tertarik' → 'beteiligt' | Incorrect Partizip II for 'beteiligen'
+beurteilen | perfekt_ich: 'beurteilt' → 'beurteilt' | Partizip II of separable verbs has 'ge-' between prefix and stem
+eingeben | ich: 'gebe ein' → 'gibst ein' | Incorrect conjugation for 'du' form of the verb.
+eingeben | du: 'gibst ein' → 'gibst ein' |
+eingeben | er/sie/es: 'gibt ein' → 'gibt ein' |
+eingeben | wir: 'geben ein' → 'geben ein' |
+eingeben | ihr: 'gebt ein' → 'gebt ein' |
+eingeben | Sie: 'geben ein' → 'geben ein' |
+eingeben | perfekt_ich: 'eingegeben' → 'einggegeben' | Incorrect spelling of the past participle.
+einplanen | ich: 'plane ein' → 'einplanen' | Separable verbs: prefix splits off in conjugated forms.
+einplanen | du: 'planst ein' → 'plant ein' | Separable verbs: prefix splits off in conjugated forms.
+einplanen | er/sie/es: 'plant ein' → 'plant ein' | Separable verbs: prefix splits off in conjugated forms.
+einplanen | wir: 'planen ein' → 'einplanen' | Separable verbs: prefix splits off in conjugated forms.
+einplanen | ihr: 'plant ein' → 'einplant' | Separable verbs: prefix splits off in conjugated forms.
+einplanen | Sie: 'planen ein' → 'einplanen' | Separable verbs: prefix splits off in conjugated forms.
+einteilen | ich: 'teile ein' → 'teile ein' | Inseparable prefixes never split off.
+einteilen | du: 'teilst ein' → 'teilst ein' | Inseparable prefixes never split off.
+einteilen | er/sie/es: 'teilt ein' → 'teilt ein' | Inseparable prefixes never split off.
+einteilen | wir: 'teilen ein' → 'teilen ein' | Inseparable prefixes never split off.
+einteilen | ihr: 'teilt ein' → 'teilt ein' | Inseparable prefixes never split off.
+einteilen | Sie: 'teilen ein' → 'teilen ein' | Inseparable prefixes never split off.
+einteilen | perfekt_ich: 'eingeteilt' → 'einteilt' | Partizip II for inseparable prefix verbs is stem + -t
+entschließen | du: 'entschließest' → 'entschließt' | Du/Er/Sie uses -t ending in present tense
+fortschreiten | du: 'schreitest' → 'schrittest' | Strong verb, vowel change in du/er
+freimachen | du: 'freimähest' → 'freimachst' | Separable verbs: prefix splits off in conjugated forms.
+freimachen | perfekt_ich: 'gemacht' → 'aufgemacht' | Separable non-ieren: ge- between prefix and stem
+freilassen | perfekt_ich: 'gefreit' → 'frei' | Partizip II of separable verbs: ge- between prefix and stem
+hämmern | perfekt_ich: ' gehammers' → 'gehammers' | Partizip II for -ern verbs is stem + -t, not stem + -s
+jubeln | du: 'jubelt' → 'jubelst' | Incorrect conjugation for du in the present tense.
+jubeln | er/sie/es: 'jubelt' → 'jubelt' | Correct conjugation, but should be consistent with 'du'
+jubeln | ihr: 'jubelt' → 'jubelt' | Correct conjugation, but should be consistent with 'du'
+jubeln | perfekt_ich: 'gejubelt' → 'gejubelt' | Correct conjugation
+knipsen | du: 'knissest' → 'knipst' | Incorrect conjugation for du. It should be 'knipst'.
+kooperieren | perfekt_ich: 'kooperiert' → 'geko cooperated' | Partizip II for -ieren verbs is ge- + stem + -t
+lauschen | perfekt_ich: 'gehört' → 'gelauscht' | Partizip II of lauschen is gelauscht, not gehört.
+mitteilen | du: 'teilst mit' → 'teilst mit' | No error
+riechen | perfekt_ich: 'geruht' → 'geruchten' | Incorrect Partizip II for 'riechen'
+ruhen | perfekt_ich: 'gebrochen' → 'ruhen' | The past participle of 'ruhen' is 'erruht', not 'gebrochen'.
+sich bedanken | perfekt_ich: 'mich bedankt' → 'hat sich bedankt' | Partizip II needs auxiliary verb 'haben' in the Perfekt tense.
+sich einigen | ich: 'einige mich' → 'einigen sich' | Separable verbs split the prefix in conjugated forms.
+sich einigen | du: 'einigst dich' → 'einigt euch' | The conjugation for 'ihr' is incorrect.
+sich einigen | perfekt_ich: 'geeinigt' → 'eingestimmt' | The correct Partizip II for 'sich einigen' is 'eingestimmt'.
+sich verspäten | ich: 'verspätete mich' → 'verspäte mich' | Incorrect conjugation of 'sich verspäten' in the present tense. It should be 'ich verspäte mich'.
+überlegen | perfekt_ich: 'überlegt' → 'überlegen' | Partizip II of 'überlegen' is 'überlegt', not 'überlegen'
+überprüfen | perfekt_ich: 'überprüft' → 'überprüft' | Partizip II of -ieren verbs is always the stem + -t
+übertragen | perfekt_ich: 'übertragen' → 'übertragen' | Partizip II should be übertragen for separable verbs.
+umgehen | ich: 'gehe um' → 'umgehe' | Incorrect conjugation for 'gehen'. It's 'umgehen' in the present tense.
+unterhalten | perfekt_ich: 'unterhalten' → 'beunterhalten' | Partizip II of separable verbs: ge- between prefix and stem
+verändern | perfekt_ich: 'verändert' → 'geändert' | Partizip II of separable verbs has 'ge-' prefix
+verbessern | perfekt_ich: 'verbessert' → 'verbessert' | Partizip II of separable verbs is 'ge-' + prefix + stem
+verdoppeln | du: 'verdoppelt' → 'verdoppeln' | Separable verbs split the prefix in conjugated forms.
+verdoppeln | er/sie/es: 'verdoppelt' → 'verdoppelt' | No error
+verdoppeln | ihr: 'verdoppelt' → 'verdoppeln' | Separable verbs split the prefix in conjugated forms.
+verdoppeln | perfekt_ich: 'verdoppelt' → 'verdoppelt' | No error
+verkürzen | ich: 'verkürze' → 'verkürze' | Missing umlaut on 'u'
+verschicken | er/sie/es: 'verschiebt' → 'verschickt' | Incorrect conjugation for 3rd person singular present tense.
+verzichten | perfekt_ich: 'verzichtet' → 'verzichtet' | Partizip II of verzichten is verzichtet, not verzichtet.
+voranschreiten | ich: 'schreiten vor' → 'vorschritt' | Incorrect conjugation of the separable prefix verb.
+voranschreiten | du: 'schreitest voran' → 'schrittest voran' | Incorrect conjugation of the separable prefix verb.
+voranschreiten | er/sie/es: 'schreitet voran' → 'schritt voran' | Incorrect conjugation of the separable prefix verb.
+vormerken | ich: 'vor merke' → 'vormerkt' | Incorrect conjugation in present tense. It should be 'vormerkt'.
+weitergeben | ich: 'werde weitergeben' → 'gibst weiter' | Incorrect conjugation for 'weitergeben' in the present tense. It follows the pattern of strong verbs.
+zumuten | ich: 'mute zu' → 'zumute' | Incorrect conjugation for 'ich'. It should be 'zumute'.
+zumuten | du: 'mutest zu' → 'zumutest' | Incorrect conjugation for 'du'. The prefix splits off.
+zumuten | er/sie/es: 'mutet zu' → 'zumentiert' | Incorrect conjugation for 'er/sie/es'. The prefix splits off.
+ansparen | ich: 'spare an' → 'spare' | Separable verbs: prefix splits off in conjugated forms.
+ansparen | du: 'sparst an' → 'sparst' | Separable verbs: prefix splits off in conjugated forms.
+ansparen | er/sie/es: 'spart an' → 'spart' | Separable verbs: prefix splits off in conjugated forms.
+ansparen | wir: 'sparen an' → 'sparen' | Separable verbs: prefix splits off in conjugated forms.
+ansparen | ihr: 'spart an' → 'spart' | Separable verbs: prefix splits off in conjugated forms.
+ansparen | Sie: 'sparen an' → 'sparen' | Separable verbs: prefix splits off in conjugated forms.
+aufforsten | ich: 'forste auf' → 'ich forste auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufforsten | du: 'forstest auf' → 'du forst auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aufforsten | er/sie/es: 'forstet auf' → 'er forstet auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+ausdehnen | ich: 'dehne aus' → 'dehnen aus' | Separable verbs: prefix splits off in conjugated forms.
+benehmen | perfekt_ich: 'benommen' → 'benommen' | Partizip II of 'benehmen' is 'benommen', not 'benommen'
+einbinden | ich: 'bin einbindend' → 'binde ein' | Incorrect conjugation for 'einbinden' in the present tense. It should be 'binde ein'.
+einschleifen | perfekt_ich: 'einge-' → 'eingeschleift' | Separable prefix verbs need ge- between prefix and stem in Partizip II
+ergeben | perfekt_ich: 'ergeben' → 'ergeben' | Partizip II of 'ergeben' is 'ergeben', not 'ergeb'.
+ermahnen | du: 'ermahnt' → 'ermahntest' | Present tense du ending should be -est, not -t
+erschöpfen | perfekt_ich: 'ermüdet' → 'erschöpft' | Partizip II of erschöpfen is erschöpft, not ermüdet.
+erstaunen | ich: 'erstaunte' → 'erstaue' | Incorrect conjugation for 'ich' in present tense.
+erstaunen | perfekt_ich: 'erstaunt' → 'erstaunert' | Incorrect Partizip II form. It should be 'erstaunert'.
+genesen | ich: 'genese' → 'genesen' | Incorrect conjugation for 'ich'. It should be 'genesen'.
+geraten | du: 'geratest' → 'gerattest' | Incorrect ending for du form.
+geraten | ihr: 'geratet' → 'geratet' | Correct
+mucken | ich: 'mucke' → 'mucke' | The stem should be 'muck' not 'muc'
+rechen | du: 'rechest' → 'rechnest' | Incorrect ending for du form of regular verb.
+rechen | er/sie/es: 'recht' → 'rechnet' | Incorrect ending for er/sie/es form of regular verb.
+rechen | ihr: 'recht' → 'rechnet' | Incorrect ending for ihr form of regular verb.
+schweißen | du: 'schweist' → 'schweißt' | Strong verb, vowel change in du/er
+schrubben | perfekt_ich: 'geputzt' → 'geschrubbt' | Partizip II of schrubben is geschrubbt, not geputzt
+umsehen | ich: 'schaue um' → 'sehen um' | Present tense conjugation incorrect. Should be 'sehen'
+verheiraten | perfekt_ich: 'verheiratet' → 'geheiratet' | Partizip II of separable verbs has 'ge-' prefix
+versehen | perfekt_ich: 'versehen' → 'versehen' | Partizip II of separable verbs has the prefix moved to the end: versehen = versehen
+verstoßen | perfekt_ich: 'verstoßen' → 'verstoßen' | Partizip II for separable verbs is 'ge-' + prefix + stem
+vertragen | perfekt_ich: 'vertragen' → 'vertragen' | Partizip II of vertragen is 'vertragen', not 'vertragen'.
+vortäuschen | perfekt_ich: 'vortäuschend' → 'vortäuschen' | Partizip II for separable verbs is prefix + stem + -t
+wachhalten | perfekt_ich: 'gewachthält' → 'gewachthält' | Incorrect Partizip II formation for separable verbs.
+zukleben | ich: 'klebe zu' → 'zukleben' | Separable verbs: prefix splits off in conjugated forms.
+zukleben | du: 'klebst zu' → 'klebst zu' | None
+zukleben | er/sie/es: 'klebt zu' → 'klebt zu' | None
+zukleben | wir: 'kleben zu' → 'zukleben' | Separable verbs: prefix splits off in conjugated forms.
+zukleben | ihr: 'klebt zu' → 'klebt zu' | None
+zukleben | Sie: 'kleben zu' → 'zukleben' | Separable verbs: prefix splits off in conjugated forms.
+zukleben | perfekt_ich: 'geklebt' → 'zuglebt' | Separable non-ieren: ge- between prefix and stem
+zusammenklappen | ich: 'klappen zusammen' → 'klappt zusammen' | Separable verbs split the prefix in conjugated forms.
+zusammenklappen | du: 'klappst zusammen' → 'klappst zusammen' |
+zusammenklappen | er/sie/es: 'klappt zusammen' → 'klappt zusammen' |
+zusammenklappen | wir: 'klappen zusammen' → 'klappen zusammen' |
+zusammenklappen | ihr: 'klappt zusammen' → 'klappt zusammen' |
+zusammenklappen | Sie: 'klappen zusammen' → 'klappen zusammen' |
+zusammenklappen | perfekt_ich: 'zusammengeklappt' → 'zusammengeklappt' |
+anlasten | ich: 'laste an' → 'anlasten' | Separable verbs: prefix stays with the verb in present tense.
+anlasten | du: 'lastest an' → 'anlastest' | Separable verbs: prefix stays with the verb in present tense.
+anlasten | er/sie/es: 'lastet an' → 'anlasten' | Separable verbs: prefix stays with the verb in present tense.
+anlasten | wir: 'lasten an' → 'anlasten' | Separable verbs: prefix stays with the verb in present tense.
+anlasten | ihr: 'lastet an' → 'anlasten' | Separable verbs: prefix stays with the verb in present tense.
+anlasten | Sie: 'lasten an' → 'anlasten' | Separable verbs: prefix stays with the verb in present tense.
+anprobieren | ich: 'probiere an' → 'anprobiere' | Separable verbs split the prefix in conjugated forms.
+anprobieren | du: 'probierst an' → 'anprobierst' | Separable verbs split the prefix in conjugated forms.
+anprobieren | er/sie/es: 'probiert an' → 'anprobiert' | Separable verbs split the prefix in conjugated forms.
+anprobieren | wir: 'probieren an' → 'anprobieren' | Separable verbs split the prefix in conjugated forms.
+anprobieren | ihr: 'probiert an' → 'anprobieren' | Separable verbs split the prefix in conjugated forms.
+anprobieren | Sie: 'probieren an' → 'anprobieren' | Separable verbs split the prefix in conjugated forms.
+auffrischen | er/sie/es: 'frischt auf' → 'frischt auf' | Inseparable prefix, should be 'frischt' not 'frischt auf'
+betragen | perfekt_ich: 'betragen' → 'betragen' | Partizip II for 'betragen' is 'betragen', not 'betrag'.
+einengen | perfekt_ich: 'eingedrangenen' → 'eingengt' | Partizip II of separable verbs: ge- between prefix and stem
+eintauchen | perfekt_ich: 'eingetankt' → 'eingetaucht' | Incorrect Partizip II for eintauchen
+einwirken | ich: 'wirkt ein' → 'wirkt ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | du: 'wirkt ein' → 'wirkt ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | er/sie/es: 'wirkt ein' → 'wirkt ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | wir: 'wirken ein' → 'wirken ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | ihr: 'wirkt ein' → 'wirkt ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | Sie: 'wirken ein' → 'wirken ein' | The prefix 'ein-' is inseparable and should not be split.
+einwirken | perfekt_ich: 'eingewirkt' → 'eingewirkt' | Correct conjugation for the perfect participle.
+erschließen | perfekt_ich: 'eröffnet' → 'eröffnet' | The Partizip II of erschließen is 'eröffnet', not 'eröffne'
+rückgängig machen | ich: 'rückgängig mache' → 'rückgängig mache' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+sich eignen | ich: 'eigne mich' → 'eigent sich' | Separable prefixes split in conjugated forms.
+sich eignen | du: 'eignest dich' → 'eigent dich' | Separable prefixes split in conjugated forms.
+sich eignen | wir: 'eigenen uns' → 'eigent sich' | Consistent conjugation for all persons.
+sich gewöhnen | perfekt_ich: 'mich gewöhnt' → 'sich gewöhnt' | The reflexive pronoun 'sich' is used in the perfect participle of reflexive verbs.
+sich lohnen | ich: 'lohne mich' → 'lohnt sich' | Separable verbs: prefix splits off in conjugated forms.
+sich lohnen | du: 'lohnst dich' → 'lohnt sich' | Separable verbs: prefix splits off in conjugated forms.
+sich lohnen | wir: 'lohnen uns' → 'lohnen sich' | Separable verbs: prefix splits off in conjugated forms.
+sich lohnen | ihr: 'lohnt euch' → 'lohnen sich' | Separable verbs: prefix splits off in conjugated forms.
+sich lohnen | Sie: 'lohnen sich' → 'lohnen sich' | No error
+sich verlassen | perfekt_ich: 'verlassen' → 'sich verlassen' | Partizip II needs to include the reflexive pronoun 'sich'
+tilgen | perfekt_ich: 'getilgt' → 'getilgt' | The Partizip II of 'tilgen' is actually 'getilgt', not 'getilgt'.
+vorenthalten | du: 'enthältst vor' → 'vorderhältst' | Separable prefix, moves to the end.
+vorenthalten | er/sie/es: 'enthält vor' → 'vorderhält' | Separable prefix, moves to the end.
+vorenthalten | ihr: 'enthaltet vor' → 'vorderhaltet' | Separable prefix, moves to the end.
+vorenthalten | Sie: 'enthalten vor' → 'vorderhalten' | Separable prefix, moves to the end.
+zustehen | perfekt_ich: 'zugestanden' → 'zustehend' | Partizip II of 'zustehen' is 'zustehend', not 'zugestanden'.
+abdriften | ich: 'driefe' → 'abdrifts' | Incorrect conjugation for 'abdriften' in the present tense. It should be 'abdrifts'.
+abgehen | ich: 'gehe' → 'abgehe' | Incorrect conjugation for the infinitive 'abgehen'
+abkommen | ich: 'komme ab' → 'komm ab' | Incorrect conjugation for 'ich'. It should be 'komm ab'.
+abkommen | du: 'kommst ab' → 'kommst ab' |
+abkommen | er/sie/es: 'kommt ab' → 'kommt ab' |
+abkommen | wir: 'kommen ab' → 'kommen ab' |
+abkommen | ihr: 'kommt ab' → 'kommt ab' |
+abkommen | Sie: 'kommen ab' → 'kommen ab' |
+abkommen | perfekt_ich: 'abgekommen' → 'abgekommen' |
+aufbewahren | du: 'bewaehrst auf' → 'bewahrst auf' | Incorrect spelling of 'wahrst'
+aufeinandertreffen | perfekt_ich: 'aufeinandertreffen' → 'aufeinandertreffen' | Partizip II should be aufeinandergetroffen
+ausbreiten | du: 'braithst' → 'breitest' | Incorrect spelling of 'breitest'
+beanspruchen | perfekt_ich: 'beansprucht' → 'beansprucht' | Partizip II for separable verbs is 'beansprucht'
+bemessen | ich: 'bemesse' → 'bemesse' | Incorrect stem vowel
+bemessen | perfekt_ich: 'gemes sen' → 'gemeßt' | Partizip II incorrect
+berücksichtigen | perfekt_ich: 'berücksichtigt' → 'berücksichtigt' | Partizip II of Berücksichtigen is berücksichtigt, not berücksichtigt.
+einklingen | ich: 'klingt ein' → 'einklingt' | Separable verbs split the prefix in conjugated forms.
+einklingen | du: 'klingst ein' → 'klingst ein' | None
+einklingen | er/sie/es: 'klingt ein' → 'klingt ein' | None
+einklingen | wir: 'klingen ein' → 'einklingen' | Separable verbs split the prefix in conjugated forms.
+einklingen | ihr: 'klingt ein' → 'klingt ein' | None
+einklingen | Sie: 'klingen ein' → 'einklingen' | Separable verbs split the prefix in conjugated forms.
+einklingen | perfekt_ich: 'eingeklungen' → 'eingeklingt' | Partizip II for separable verbs: ge- between prefix and stem
+einsparen | ich: 'spare ein' → 'einsparst' | Separable verbs: prefix splits off in conjugated forms.
+einsparen | du: 'sparst ein' → 'sparstein' | Separable verbs: prefix splits off in conjugated forms.
+einsparen | er/sie/es: 'spart ein' → 'spart ein' | Correct conjugation
+einsparen | wir: 'sparen ein' → 'einsparren' | Separable verbs: prefix splits off in conjugated forms.
+einsparen | ihr: 'spart ein' → 'spartet ein' | Separable verbs: prefix splits off in conjugated forms.
+einsparen | Sie: 'sparen ein' → 'einsparren' | Separable verbs: prefix splits off in conjugated forms.
+einsparen | perfekt_ich: 'gespart' → 'eingespart' | Separable non-ieren: ge- between prefix and stem
+ermüden | perfekt_ich: 'ermüdet' → 'ermüdet' | Partizip II of 'ermüden' is 'ermüdet', not 'ermüdet'
+erschaffen | perfekt_ich: 'erschaffen' → 'erschaffen' | Partizip II should be erschaffen for separable verbs.
+gleichstellen | perfekt_ich: 'geglichen' → 'gleichgestellt' | Partizip II of 'gleichstellen' is 'gleichgestellt', not 'geglichen'.
+gutschreiben | ich: 'schreibe gutz' → 'gutschreibe' | Separable prefix should be at the end: gutschreiben → ich gutschreibe
+mindern | ihr: 'minderung' → 'mindert' | Incorrect conjugation for 'ihr'. It should follow the same pattern as 'er/sie/es'.
+neigen | perfekt_ich: 'gekippt' → 'gekippt' | neigen is a strong verb, the perfect participle is gekippt
+nieten | perfekt_ich: 'genietet' → 'genagelt' | Incorrect Partizip II for 'niete' (to nail). It should be 'genagelt', not 'genietet'.
+sich beschweren | ich: 'beschwere mich' → 'beschwert sich' | The reflexive verb 'sich beschweren' requires the reflexive pronoun 'sich' in all conjugations.
+der Akt | article: 'der' → 'die' | Der Akt is feminine.
+der April | article: 'der' → 'der' |
+der April | plural: 'die April' → 'die Apríle' | Incorrect plural form
+der Ausblick | article: 'der' → 'der' |
+der Ausblick | plural: 'die Ausblicke' → 'die Ausblicke' |
+der Beamer | article: 'der' → 'der' | The noun 'Beamer' is masculine.
+der Beamer | plural: 'die Beamer' → 'die Beamer' | Correct plural form
+der Biber | article: 'der' → 'die' | Der Biber is feminine.
+der Cent | article: 'der' → 'der' |
+der Cent | plural: 'die Cent' → 'die Cents' | Plural of 'Cent' is 'Cents'.
+der Commit | article: 'der' → 'die' | Commit is a feminine noun.
+der CT-Scan | article: 'der' → 'der' | CT-Scan is a masculine noun.
+der CT-Scan | plural: 'die CT-Scans' → 'die CT-Scans' |
+der Deckel | article: 'der' → 'die' | Der Deckel is feminine.
+der Dezember | article: 'der' → 'der' | Der Dezember is masculine.
+der Dezember | plural: 'die Dezember' → 'die Dezembers' | The plural of 'Dezember' is 'Dezember'.
+der Dramatiker | article: 'der' → 'die' | Der Dramatiker is feminine.
+der Dramatiker | plural: 'die Dramatikerinnen' → 'die Dramatiker' | The plural of Dramatiker should be Dramatiker, not Dramatikerinnen.
+der Dschungel | article: 'der' → 'der' |
+der Dschungel | plural: 'die Dschungel' → 'die Dschungeln' | Incorrect pluralization
+der Dünger | article: 'der' → 'der' |
+der Dünger | plural: 'die Dünger' → 'die Dünger' |
+das Eisen | plural: 'die Eisen' → 'das Eisen' | The plural of 'Eisen' is unchanged.
+der Elektriker | article: 'der' → 'die' | Der Elektriker is feminine.
+der Elektriker | plural: 'die Elektrikerinnen' → 'die Elektriker' | The plural of Elektriker is Elektriker, not Elektrikerinnen.
+der Epilog | article: 'der' → 'der' |
+der Epilog | plural: 'die Epilogs' → 'die Epilogs' |
+die Ernährung | plural: 'die Ernährungen' → 'die Ernährungs' | Incorrect plural formation for nouns ending in -ung.
+der Euro | article: 'der' → 'der' |
+der Euro | plural: 'die Euro' → 'die Euro' |
+der Farmer | article: 'der' → 'der' | Farmer is masculine.
+der Farmer | plural: 'die Farmer' → 'die Bauern' | The plural of Farmer is Bauer.
+das Fazit | plural: 'die Fazite' → 'die Fazit' | Plural of 'Fazit' is 'Fazit'
+der Februar | article: 'der' → 'der' |
+der Februar | plural: 'die Februare' → 'die Februar' | Incorrect plural form
+das Feedback | plural: 'die Feedbacks' → 'kein Plural' | Feedback is uncountable
+der LKW | article: 'der' → 'der' | LKW is masculine
+der LKW | plural: 'die LKWs' → 'die LKWs' |
+der Lärmpegel | article: 'der' → 'der' | The noun 'Lärmpegel' is masculine.
+der Löwenzahn | article: 'der' → 'die' | Löwenzahn is feminine.
+der Mai | article: 'der' → 'der' |
+der Mai | plural: 'die Mais' → 'die Maien' | Incorrect plural form
+der Merge | article: 'der' → 'die' | Nouns starting with 'M' are usually feminine.
+der Mittwoch | article: 'der' → 'der' |
+der Mittwoch | plural: 'die Mittwoche' → 'die Mittwochs' | Plural of 'Mittwoch' is 'Mittwochs'
+der Montag | article: 'der' → 'der' |
+der Montag | plural: 'die Montage' → 'die Montags' | Plural of 'Montag' is 'Montags'
+der MRT | article: 'der' → 'der' | MRT is masculine
+der MRT | plural: 'die MRTs' → 'die MRTE' | Plural of 'MRT' is 'MRTE'
+der November | article: 'der' → 'der' | November is masculine
+der Nutzen | article: 'der' → 'der' |
+der Nutzen | plural: 'die Nutzen' → 'die Nutzen' |
+der Oktober | article: 'der' → 'der' |
+der Oktober | plural: 'die Oktober' → 'die Oktobers' | Plural of nouns ending in -er is usually formed by adding -s
+der Optiker | article: 'der' → 'die' | Der Optiker is feminine.
+der Optiker | plural: 'die Optikerinnen' → 'die Optiker' | The plural of Optiker should be Optiker, not Optikerinnen.
+der Photovoltaik | article: 'der' → 'die' | Photovoltaik is a feminine noun.
+der Photovoltaik | plural: 'die Photovoltaik' → 'die Photovoltaiken' | The plural of -ik nouns is usually -en
+der Pinsel | article: 'der' → 'die' | Der Pinsel is feminine.
+der PKW | article: 'der' → 'der' | PKW is masculine
+der PKW | plural: 'die PKWs' → 'die PKWs' |
+die Pragmatik | plural: 'die Pragmatikken' → 'die Pragmatik' | Nouns ending in -ik form their plural by adding -en.
+der Priester | article: 'der' → 'der' | The article 'der' is correct for the singular masculine noun 'Priester'.
+der Priester | plural: 'die Priester' → 'die Priester' | The plural form 'die Priester' is correct.
+das Prozent | article: 'das' → 'das' |
+das Prozent | plural: 'die Prozent' → 'die Prozent' |
+das Puder | plural: 'die Puder' → 'kein Plural' | Puder is uncountable
+der Rabbiner | article: 'der' → 'die' | Der Rabbiner is feminine.
+der Rauch | article: 'der' → 'der' |
+der Rauch | plural: 'die Rauche' → 'die Rauch' | Plural of 'Rauch' is 'Rauch'.
+der Reifenwechsel | article: 'der' → 'der' |
+der Reifenwechsel | plural: 'die Reifenwechsel' → 'die Reifenwechsle' | Incorrect pluralization
+der Rentner | article: 'der' → 'die' | Der Rentner is feminine.
+der Rentner | plural: 'die Rentnerinnen' → 'die Rentner' | The plural of 'Rentner' is 'Rentner', not 'Rentnerinnen'.
+der Schnupfen | article: 'der' → 'die' | Noun 'Schnupfen' is feminine.
+der Schraubenzieher | article: 'der' → 'der' |
+der Schraubenzieher | plural: 'die Schraubenzieher' → 'die Schraubenzieher' |
+der September | article: 'der' → 'der' | September is masculine
+der Führer | plural: 'die Führerinnen' → 'die Führer' | The plural of 'Führer' is 'Führer', not 'Führerinnen'.
+die Geduld | plural: 'die Gedulden' → 'keine Plural' | Geduld is uncountable
+der Spieler | article: 'der' → 'die' | Spieler is feminine.
+der Sport | article: 'der' → 'der' |
+der Sport | plural: 'kein Plural' → 'die Sport' | Sport is a masculine noun, so its plural is 'die Sport'.
+das Stereotyp | plural: 'die Stereotype' → 'die Stereotypen' | Incorrect pluralization.  Nouns ending in -Typ usually form the plural with -e.
+das Steuer | plural: 'die Steuer' → 'die Steuer' | The plural of 'das Steuer' is 'die Steuer'
+das Gif | article: 'das' → 'das' |
+das Gif | plural: 'die Gifs' → 'die Gifte' | Incorrect plural form
+der Glaube | article: 'der' → 'der' |
+der Glaube | plural: 'die Glauben' → 'die Glaubens' | Plural of -e ending nouns is usually -en
+der Golf | article: 'der' → 'der' |
+der Golf | plural: 'die Golfe' → 'die Golfs' | Incorrect plural form
+der Strukturwandel | article: 'der' → 'die' | Nouns referring to processes or changes are usually feminine.
+der Strukturwandel | plural: 'die Strukturwandel' → 'die Strukturwandel' |
+der Hagel | article: 'der' → 'die' | Hagel is feminine.
+der Teenager | article: 'der' → 'der' | Teenager is masculine.
+der Teenager | plural: 'die Teenager' → 'die Teenager' |
+das Teiler | article: 'das' → 'die' | Nouns referring to female persons are feminine.
+das Teiler | plural: 'die Teilerinnen' → 'die Teiler' | The plural of 'Teiler' is formed by adding '-er' to the singular form.
+der Tempel | article: 'der' → 'die' | Der Tempel is feminine.
+der Tennis | article: 'der' → 'der' |
+der Tennis | plural: 'kein Plural' → 'die Tennisse' | Nouns ending in -is usually form the plural with -e
+der Terminplaner | article: 'der' → 'die' | Terminplaner is a noun ending in -er, which is typically feminine.
+der Teufel | article: 'der' → 'der' | The noun 'Teufel' is masculine.
+der Teufel | plural: 'die Teufel' → 'die Teufel' | Correct plural form
+der Hummer | article: 'der' → 'die' | Der Hummer is feminine.
+der Hummer | plural: 'die Hummer' → 'die Hummern' | The plural of Hummer is Hummern.
+der Hurrikan | article: 'der' → 'die' | Hurrikan is feminine.
+der Trainer | article: 'der' → 'die' | Der Trainer is feminine.
+der Trainer | plural: 'die Trainerinnen' → 'die Trainer' | Trainerinnen refers to female trainers, while the plural of Trainer should be Trainer.
+der Unterricht | article: 'der' → 'der' |
+der Unterricht | plural: 'kein Plural' → 'die Unterrichts' | Unterricht is a masculine noun, so its plural is 'die Unterrichts'.
+der Januar | article: 'der' → 'der' | Januar is masculine
+der Juli | article: 'der' → 'der' | Juli is masculine
+der Juli | plural: 'die Julis' → 'die Juli' | Months are usually pluralized by adding -e
+der Juni | article: 'der' → 'der' | Juni is masculine
+der Kellner | article: 'der' → 'die' | Der Kellner is feminine.
+der Kellner | plural: 'die Kellnerinnen' → 'die Kellner' | Kellnerinnen is the plural of 'female waiter', not 'waiter'.
+der Ketchup | article: 'der' → 'die' | Ketchup is a feminine noun.
+der Klempner | article: 'der' → 'die' | Der Klempner is a masculine noun, but the plural form uses 'die' which is feminine.
+der Klimawandel | article: 'der' → 'der' |
+der Klimawandel | plural: 'die Klimawandel' → 'die Klimawandel' |
+der Konsens | article: 'der' → 'der' |
+der Konsens | plural: 'die Konsense' → 'die Konsensen' | Plural of -ens is -en
+der Winkel | article: 'der' → 'der' |
+der Winkel | plural: 'die Winkel' → 'die Winkel' |
+die Wirtschaft | plural: 'die Wirtschaften' → 'die Wirtschafts' | Incorrect pluralization of 'Wirtschaft'
+der Wissenschaftler | article: 'der' → 'die' | Der Wissenschaftler is masculine, but the plural form uses 'die'.
+das Wohlbefinden | plural: 'die Wohlbefindens' → 'die Wohlbefinden' | Plural of nouns ending in -en/-ionen is the same as singular form
+der Koran | article: 'der' → 'der' | The Koran is masculine.
+der Koran | plural: 'die Korane' → 'die Korane' | Correct plural form
+der Käfer | article: 'der' → 'die' | Der Käfer is feminine.
+das Ladekabel | article: 'das' → 'das' | None
+das Ladekabel | plural: 'die Ladekabel' → 'die LadeKabel' | Capitalization error
+der Überblick | article: 'der' → 'der' |
+der Überblick | plural: 'die Überblicke' → 'die Überblicke' |
+das Cloud-Computing | article: 'das' → 'die' | Nouns referring to concepts are usually feminine.
+das Cloud-Computing | plural: 'die Cloud-Computings' → 'die Cloud-Computings' |
+der Kalkulationsfehler | article: 'der' → 'die' | Noun referring to a feminine concept.
+Der Hamster | article: 'der' → 'der' |
+Der Hamster | plural: 'die Hamster' → 'die Hamster' |
+Der Igel | article: 'der' → 'die' | The noun 'Igel' is feminine.
+Der Cousin | article: 'der' → 'die' | Der Cousin is feminine.
+Der Onkel | article: 'der' → 'der' |
+Der Onkel | plural: 'die Onkel' → 'die Onkel' |
+Der Fahrer | article: 'der' → 'die' | Der Fahrer is feminine.
+Der Manager | article: 'der' → 'die' | Der Manager is feminine.
+Der Manager | plural: 'die Managerinnen und die Manager' → 'die Managerinnen' | The plural of 'Manager' is 'Managerin'.
+Der Forscher | article: 'der' → 'die' | Der Forscher is feminine.
+Der Gärtner | article: 'der' → 'die' | Der Gärtner is feminine.
+Der Programmierer | article: 'der' → 'der' |
+Der Programmierer | plural: 'die Programmierer' → 'die Programmierer' |
+Der Rücken | article: 'der' → 'der' |
+Der Rücken | plural: 'die Rücken' → 'die Rücken' |
+Der Kleiderbügel | article: 'der' → 'die' | Nouns referring to objects are feminine.
+Das Essen | plural: 'die Essen' → 'das Essen' | Essen is uncountable and does not have a plural form.
+Der Käse | article: 'der' → 'der' |
+Der Käse | plural: 'die Käse' → 'die Käses' | Plural of 'Käse' is 'Käse'
+Der Knoblauch | article: 'der' → 'die' | Knoblauch is feminine.
+Der Brokkoli | article: 'der' → 'die' | Brokkoli is feminine.
+Der Blumenkohl | article: 'der' → 'die' | Blumenkohl is feminine.
+Der Mais | article: 'der' → 'die' | Der Mais is feminine.
+Der Kohl | article: 'der' → 'der' |
+Der Kohl | plural: 'kein Plural' → 'die Kohls' | Kohl is a noun that takes the plural 'die Kohls'
+Der Spargel | article: 'der' → 'die' | Spargel is feminine.
+Die Pasta | plural: 'die Pastas' → 'die Pasten' | Incorrect plural form for 'Pasta'
+Der Schinken | article: 'der' → 'die' | Schinken is feminine.
+Der Honig | article: 'der' → 'die' | Honig is feminine.
+Der Zucker | article: 'der' → 'der' |
+Der Zucker | plural: 'die Zucker' → 'die Zuckers' | Plural of nouns ending in -er is usually formed by adding -s
+Der Pfeffer | article: 'der' → 'der' |
+Der Pfeffer | plural: 'die Pfeffer' → 'die Pfeffern' | Incorrect plural form
+Der Essig | article: 'der' → 'die' | Essig is feminine.
+Der Kaffee | article: 'der' → 'die' | Kaffee is feminine.
+Der Tee | article: 'der' → 'die' | Tee is feminine.
+Das Wasser | plural: 'die Wasser' → 'das Wasser' | Wasser is uncountable and does not have a plural form.
+Der Kakao | article: 'der' → 'die' | Kakao is a feminine noun.
+Der Espresso | article: 'der' → 'der' |
+Der Espresso | plural: 'die Espressos' → 'die Espressos' |
+Der Cappuccino | article: 'der' → 'die' | Cappuccino is feminine.
+Der Sekt | article: 'der' → 'der' |
+Der Sekt | plural: 'die Sekte' → 'die Sekte' |
+Der Champagner | article: 'der' → 'der' |
+Der Champagner | plural: 'die Champagner' → 'die Champagner' |
+Der Joghurt | article: 'der' → 'die' | Nouns referring to food are typically feminine.
+Der Keller | article: 'der' → 'der' | Keller is masculine.
+Der Keller | plural: 'die Keller' → 'die Keller' | Correct plural form
+Der Schlüssel | article: 'der' → 'der' |
+Der Schlüssel | plural: 'die Schlüssel' → 'die Schlüssel' |
+Der Herd | article: 'der' → 'der' |
+Der Herd | plural: 'die Herde' → 'die Herde' |
+Der Toaster | article: 'der' → 'der' |
+Der Toaster | plural: 'die Toaster' → 'die Toaster' |
+Der Wasserkocher | article: 'der' → 'der' |
+Der Wasserkocher | plural: 'die Wasserkocher' → 'die Wasserkocher' |
+Der Mixer | article: 'der' → 'der' |
+Der Mixer | plural: 'die Mixer' → 'die Mixer' |
+Der Bilderrahmen | article: 'der' → 'die' | Nouns referring to objects are feminine.
+Der Bilderrahmen | plural: 'die Bilderrahmen' → 'die Bilderrahmen' |
+Der Stecker | article: 'der' → 'der' |
+Der Stecker | plural: 'die Stecker' → 'die Stecker' |
+Der Kugelschreiber | article: 'der' → 'der' | Der Kugelschreiber is masculine.
+Der Kugelschreiber | plural: 'die Kugelschreiber' → 'die Kugelschreiber' |
+Der Radiergummi | article: 'der' → 'der' |
+Der Radiergummi | plural: 'die Radiergummis' → 'die Radiergummis' |
+Der Computer | article: 'der' → 'der' |
+Der Computer | plural: 'die Computer' → 'die Computer' |
+Der Drucker | article: 'der' → 'der' | Der Drucker is masculine.
+Der Drucker | plural: 'die Drucker' → 'die Drucker' | Correct plural form.
+Der Roboter | article: 'der' → 'der' | Der Roboter is masculine.
+Der Roboter | plural: 'die Roboter' → 'die Roboter' | Correct plural form
+Der Fernseher | article: 'der' → 'der' |
+Der Fernseher | plural: 'die Fernseher' → 'die Fernseher' |
+Der Scanner | article: 'der' → 'der' |
+Der Scanner | plural: 'die Scanner' → 'die Scanner' |
+Der Router | article: 'der' → 'der' | Router is masculine.
+Der Router | plural: 'die Router' → 'die Router' | Correct plural form
+Der Ordner | article: 'der' → 'der' |
+Der Ordner | plural: 'die Ordner' → 'die Ordner' |
+Der Hubschrauber | article: 'der' → 'der' | Der Hubschrauber is masculine.
+Der Roller | article: 'der' → 'der' |
+Der Roller | plural: 'die Roller' → 'die Roller' |
+Der Wagen | article: 'der' → 'der' |
+Der Wagen | plural: 'die Wagen' → 'die Wagen' |
+Der Tunnel | article: 'der' → 'die' | Tunnels are feminine.
+Der Tunnel | plural: 'die Tunnel' → 'die Tunnel' | None
+Der Pullover | article: 'der' → 'die' | Der Pullover is feminine.
+Der Gürtel | article: 'der' → 'die' | Gürtel is a feminine noun.
+Der Regen | article: 'der' → 'der' | Der Regen is masculine.
+Der Regen | plural: 'die Regen' → 'die Regen' | Correct plural form
+Der Himmel | article: 'der' → 'der' | Der Himmel is masculine.
+Der Himmel | plural: 'die Himmel' → 'die Himmels' | The plural of Himmel is Himmels
+Der Schnee | article: 'der' → 'der' |
+Der Schnee | plural: 'kein Plural' → 'die Schnees' | Snow is a countable noun in this context
+Der Donner | article: 'der' → 'der' | Der Donner is masculine.
+Der Donner | plural: 'die Donner' → 'die Donners' | The plural of Donner is Donners.
+Das Klima | plural: 'die Klimas' → 'die Klimata' | Incorrect plural form. The noun 'Klima' has a feminine singular and plural form of 'Klimata'.
+Der Sommer | article: 'der' → 'der' | Sommer is masculine
+Der Winter | article: 'der' → 'der' | Der Winter is masculine.
+Der Winter | plural: 'die Winter' → 'die Winters' | The plural of Winter is Winters
+Das Wissen | plural: 'die Wissen' → 'Wissen' | Nouns ending in -wissen are uncountable and do not have a plural form.
+Der Fehler | article: 'der' → 'der' |
+Der Fehler | plural: 'die Fehler' → 'die Fehler' |
+Der Artikel | article: 'der' → 'der' |
+Der Artikel | plural: 'die Artikel' → 'die Artikel' |
+Der Morgen | article: 'der' → 'der' | Morgen is masculine
+Der Morgen | plural: 'die Morgen' → 'die Morgen' | Correct plural form
+eingestalten | ich: 'gestalte ein' → 'eingestaltest' | Incorrect conjugation for the present tense. It should be 'eingestaltest'.
+eingestalten | du: 'gestaltest ein' → 'eingestaltst' | Incorrect conjugation for the present tense. It should be 'eingestaltst'.
+eingestalten | er/sie/es: 'gestaltet ein' → 'eingestaltet' | Incorrect conjugation for the present tense. It should be 'eingestaltet'.
+eingestalten | wir: 'gestalten ein' → 'eingegestalten' | Incorrect conjugation for the present tense. It should be 'eingegestalten'.
+eingestalten | ihr: 'gestaltest ein' → 'eingestaltst' | Incorrect conjugation for the present tense. It should be 'eingestaltst'.
+eingestalten | Sie: 'gestalten ein' → 'eingegestalten' | Incorrect conjugation for the present tense. It should be 'eingegestalten'.
+erraten | perfekt_ich: 'erraten' → 'gerraten' | Partizip II of erraten is gerät, not erraten
+evaluieren | perfekt_ich: 'evaluiert' → 'eingevaluiert' | Separable prefix, ge- between prefix and stem
+exploitieren | perfekt_ich: 'exploitiert' → 'ausgebeutet' | Exploitieren is an irregular verb with a different perfect participle.
+freihalten | ich: 'halte frei' → 'halte frei' | Inseparable prefixes never split off.
+laborieren | perfekt_ich: 'laboriert' → 'gearbeitet' | Laborieren is a separable verb, so the Partizip II should be 'gearbeitet'.
+modernisieren | ich: 'modernise' → 'modernise' | Missing 'e' at the end of the stem.
+päsentieren | perfekt_ich: 'präsentiert' → 'präsentiert' | No ge- for -ieren verbs, stem + -t
+päsentieren | du: 'präsentierst' → 'präsentierst' | Missing 'e' before 'ierst'
+revolutionäre | perfekt_ich: 'revolutioniert' → 'ge revolutioniert' | Irregular verbs with separable prefixes use 'ge-' before the stem.
+rühren | ich: 'rüre' → 'rühre' | Incorrect stem vowel in present tense ich.
+schmücken | du: 'schmeckst' → 'schmückst' | Incorrect conjugation for 'du'. It should be schmückst.
+selektieren | ich: 'selektioniere' → 'selektiere' | Incorrect conjugation for 'ich'. It should be 'selektiere'.
+übersteuern | perfekt_ich: 'übersteuert' → 'übergesteuert' | Partizip II of regular verbs ends in -t, not -ert
+unterbinden | perfekt_ich: 'geunterbnden' → 'unterbunden' | Incorrect Partizip II formation for separable verbs.
+kumulieren | ich: 'kumulieren' → 'kumuliere' | Incorrect conjugation for 'ich'. It should be 'kumuliere'.
+konzeptionalisieren | ich: 'konzeptionalisieren' → 'konzeptionalisieren' | '-ieren' verbs do not take ge-, stem+-t. It should be konzeptionalisiert
+logarithmieren | perfekt_ich: 'logarithmiert' → 'gelogarithmiert' | Partizip II for -ieren verbs: NO ge-, stem+-t
+sensibelisieren | ich: 'sensibelisiere' → 'sensibelisiert' | Incorrect conjugation for the first person singular present tense.
+abändern | ich: 'ändere ab' → 'abänder' | Incorrect conjugation for 'ich'. It should be 'abänder' not 'ändere ab'.
+ausnutzen | du: 'nützt aus' → 'nutzt aus' | Strong verb, vowel change in du/er
+ausprägen | du: 'extremst aus' → 'äußerst aus' | Incorrect spelling of 'äußerst'
+brechen | du: 'braucht' → 'brauchst' | Incorrect conjugation for 'du'. Should be 'brauchst'.
+dikutieren | ich: 'dikutiere' → 'dikutieren' | Missing 'e' before '-st/-t'
+grundlegen | ich: 'lege grund' → 'lege grund' | Missing the -e ending for ich in the present tense.
+grundlegen | du: 'legst grund' → 'legst grund' | Missing the -e ending for du in the present tense.
+grundlegen | er/sie/es: 'legt grund' → 'legt grund' | Missing the -e ending for er/sie/es in the present tense.
+grundlegen | wir: 'legen grund' → 'legen grund' | Missing the -e ending for wir in the present tense.
+grundlegen | ihr: 'legen grund' → 'legt grund' | Missing the -e ending for ihr in the present tense.
+grundlegen | Sie: 'legen grund' → 'legen grund' | Missing the -e ending for Sie in the present tense.
+heraufbeschwören | du: 'heraufbeschworst' → 'heraufbeschwöre' | Incorrect conjugation for du form of the verb.
+nominieren | ich: 'nomiiniere' → 'nominieren' | Incorrect spelling
+persiflieren | perfekt_ich: 'persifliert' → 'persifliiert' | Partizip II of -ieren verbs is formed with stem + -iert
+scharfstellen | ich: 'scharf stelle' → 'scharfstellt' | Missing the -e- before -st for verbs ending in -t/-d
+analyssieren | perfekt_ich: 'analysiert' → 'analysiert' | Partizip II for -ieren verbs is analysiert, not analysiert.
+schlüsseln | ich: 'schlüssle' → 'schlüsseln' | Regular -eln verbs contract in the ich form: schlüssele
+dissoziieren | perfekt_ich: 'dissoziiert' → 'dissoziiert' | The Partizip II for -ieren verbs is formed with stem + -t, not stem + -en
+fortentwickeln | du: 'entwickelst fort' → 'entwickelst' | Separable prefixes move to the end.
+fortentwickeln | er/sie/es: 'entwickelt fort' → 'entwickelt' | Separable prefixes move to the end.
+fortentwickeln | wir: 'entwickeln fort' → 'entwickeln' | Separable prefixes move to the end.
+fortentwickeln | ihr: 'entwickelt fort' → 'entwickelt' | Separable prefixes move to the end.
+fortentwickeln | Sie: 'entwickeln fort' → 'entwickeln' | Separable prefixes move to the end.
+fundieren | ich: 'fündiere' → 'fundiere' | Incorrect stem vowel in present tense conjugation.
+fundieren | du: 'fündierst' → 'fundierst' | Incorrect stem vowel in present tense conjugation.
+fundieren | er/sie/es: 'fündiert' → 'fundiert' | Incorrect stem vowel in present tense conjugation.
+verantworten | perfekt_ich: 'verantwortet' → 'verantwortet' | Partizip II for separable verbs is 'aufgemacht', not 'verantwortet'
+imitieren | perfekt_ich: 'imitiert' → 'imitiert' | Partizip II for -ieren verbs is imitiert, not imitiert
+interagieren | perfekt_ich: 'interagiert' → 'interagiert' | Partizip II for -ieren verbs is  interagiert, not interagiert
+fortpflanzen | ich: 'pflanzen fort' → 'pflanze fort' | Incorrect conjugation of the verb 'fortpflanzen' in the present tense, ich form.
+fortpflanzen | du: 'pflanzt fort' → 'pflanzt fort' |
+fortpflanzen | er/sie/es: 'pflanzt fort' → 'pflanzt fort' |
+fortpflanzen | wir: 'pflanzen fort' → 'pflanzen fort' |
+fortpflanzen | ihr: 'pflanzt fort' → 'pflanzt fort' |
+fortpflanzen | Sie: 'pflanzen fort' → 'pflanzen fort' |
+fortpflanzen | perfekt_ich: 'fortgepflanzt' → 'fortgepflanzt' |
+propagieren | perfekt_ich: 'propagiert' → 'propagiert' | Partizip II for -ieren verbs is  präsentiert, not propagiert
+beziffern | ich: 'beziefe' → 'beziffern' | Incorrect conjugation for 'ich'. It should be 'beziffern'.
+beherrschen | perfekt_ich: 'besiegt' → 'beherrscht' | The correct Partizip II for 'beherrschen' is 'beherrscht', not 'besiegt'.
+bereichern | perfekt_ich: 'bereichert' → 'bereichert' | Partizip II of 'bereichern' is 'bereichert'
+gelten | ich: 'gelte' → 'gilt' | Present tense conjugation of 'gelten' is 'gilt' for all persons except 'wir'.
+entsprechen | du: 'entsprechend' → 'entspricht' | Present tense conjugation error: 'entspricht' is the correct form for du.
+entsprechen | ihr: 'entsprechend' → 'entsprechen' | Present tense conjugation error: 'entsprechen' is the correct form for ihr.
+regredieren | du: 'regrediert' → 'regredierst' | Present tense conjugation error: -st ending is incorrect.
+regredieren | er/sie/es: 'regrediert' → 'regrediert' | Correct
+regredieren | ihr: 'regrediert' → 'regrediert' | Correct
+regredieren | perfekt_ich: 'regrediert' → 'regrediert' | Correct
+revisionieren | ich: 'revisioniere' → 'revisionieriere' | Missing 'i' after 'revis'
+erringen | ich: 'erringe' → 'erringe' | Strong verb, vowel change in ich
+beben | du: 'bebsts' → 'bebst' | Incorrect conjugation of 'du'. It should be 'bebst'.
+beben | perfekt_ich: 'gebebt' → 'gebben' | Incorrect Partizip II. The correct form is 'gebben'.
+betrachten | perfekt_ich: 'betrachtet' → 'begesehen' | Partizip II of betrachten is 'gesehen', not 'betrachtet'.
+behindern | perfekt_ich: 'behindert' → 'behindert' | Partizip II of 'behindern' is 'behindert'
+beinhalten | perfekt_ich: 'enthalten' → 'enthaltend' | Partizip II of -halten verbs is ge- + stem + -t
+bewachen | perfekt_ich: 'bewacht' → 'bewachtet' | Partizip II of regular verbs ends in -et, not -t
+wegbringen | ich: 'bringe weg' → 'bringst weg' | Incorrect conjugation for du in the present tense.
+wegbringen | du: 'bringst weg' → 'bringst weg' | Correct
+wegbringen | er/sie/es: 'bringt weg' → 'bringt weg' | Correct
+wegbringen | wir: 'bringen weg' → 'bringen weg' | Correct
+wegbringen | ihr: 'bringt weg' → 'bringt weg' | Correct
+wegbringen | Sie: 'bringen weg' → 'bringen weg' | Correct
+wegbringen | perfekt_ich: 'weggebracht' → 'weggebracht' | Correct
+bedingen | ich: 'beding' → 'bedinge' | Incorrect conjugation for 'ich'. It should be 'bedinge' not 'beding'.
+voraussagen | ich: 'voraussage' → 'voraussage' | The present tense conjugation of 'voraussagen' is 'voraussagen', not 'voraussage'.
+vollstrecken | ich: 'vollstrecke' → 'vollstrecke' | Missing 'e' before '-ckst'
+entsorgen | perfekt_ich: 'entfernt' → 'entorgt' | Partizip II of entsorgen is entorgt, not entfernt.
+bestimnmen | ihr: 'bestimmet' → 'bestimmt' | Incorrect conjugation for 'ihr'. It should be 'bestimmt'.
+sehnen | du: 'sehnt dich' → 'sehnt dich' | Strong verb, vowel change in du/er
+liebhaben | ich: 'liebhabe' → 'lieben' | Regular -en verbs in the present tense conjugate as 'ich liebe', not 'ich liebhabe'.
+nachschaffen | du: 'nachschchaffung' → 'nachschchaffungst' | Missing -st ending for du form
+bedrängen | du: 'bedringst' → 'bedrängst' | Incorrect conjugation of the du form.
+bedrängen | ihr: 'bedrngt' → 'bedrängt' | Incorrect spelling and conjugation of the ihr form.
+verschmähen | perfekt_ich: 'verachtet' → 'verachtet' | The Partizip II of verschmähen is verachtet, not verachtet.
+aufbringen | ich: 'bringe auf' → 'bringe auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+beschwören | du: 'beschworst' → 'beschwörst' | Incorrect conjugation of 'du'. Remember the regular -st ending.
+reflexionieren | perfekt_ich: 'reflektiert' → 'reflexioniert' | Partizip II of -ieren verbs is formed with stem + -t
+mitteln | perfekt_ich: 'gemittelt' → 'gemittelt' | Partizip II is correct for mitteln
+ausbrechen | du: 'brauchst aus' → 'brauchst aus' | The correct conjugation for 'ausbrechen' in the second person singular is 'bricht aus', not 'brauchst aus'.
+abbekommen | perfekt_ich: 'abgekriegt' → 'abbekommen' | Incorrect Partizip II for abbekommen.
+stifte | du: 'stiftest' → 'stiftet' | Present tense regular ending for du is -t, not -st
+vervollständigen | perfekt_ich: 'vervollständigt' → 'vervollständigt' | Partizip II for -ieren verbs is vervollständigt, not vervollständigt
+auswerten | ich: 'auswertee' → 'auswerte' | Incorrect present tense conjugation for 'ich'.
+beichten | perfekt_ich: 'beichtet' → 'beichtet' | Partizip II for 'beichten' is 'beichtet', not 'beichtet'
+auskennen | ich: 'kenne aus' → 'aus kenne' | Separable prefixes move to the end of conjugated forms.
+auskennen | du: 'kennst aus' → 'aus kennst' | Separable prefixes move to the end of conjugated forms.
+auskennen | er/sie/es: 'kennt aus' → 'aus kennt' | Separable prefixes move to the end of conjugated forms.
+auskennen | wir: 'kennen aus' → 'aus kennen' | Separable prefixes move to the end of conjugated forms.
+auskennen | ihr: 'kennt aus' → 'aus kennt' | Separable prefixes move to the end of conjugated forms.
+auskennen | Sie: 'kennen aus' → 'aus kennen' | Separable prefixes move to the end of conjugated forms.
+auskennen | perfekt_ich: 'ausgekannt' → 'ausgekannt' |
+auffassen | ich: 'fassen auf' → 'fasste auf' | Separable verbs: prefix splits off in conjugated forms and moves to the END.
+aushändigen | du: 'aushändigst' → 'aushändigt' | Separable verbs split the prefix in conjugated forms.
+aushändigen | ihr: 'aushändigt' → 'aushändigen' | Separable verbs split the prefix in conjugated forms.
+vorliegen | ich: 'liegen vor' → 'liegt vor' | Subject-verb agreement error. 'Ich' requires the singular form of the verb.
+vorliegen | wir: 'liegen vor' → 'legen vor' | Incorrect conjugation for plural subject 'wir'.
+der Friede | article: 'der' → 'der' |
+der Friede | plural: 'die Frieden' → 'die Friedens' | Plural of 'Friede' is 'Frieden'.
+der Bodensatz | article: 'der' → 'der' |
+der Bodensatz | plural: 'die Bodensätze' → 'die Bodensäntze' | Incorrect pluralization
+der Impetus | article: 'der' → 'der' |
+der Impetus | plural: 'die Impeten' → 'die Impulse' | Incorrect plural form
+der Status quo | article: 'der' → 'der' |
+der Status quo | plural: 'die Statu quo' → 'die Status quo' | Incorrect plural form
+der Fokus | article: 'der' → 'der' |
+der Fokus | plural: 'die Fokusse' → 'die Foki' | Incorrect plural form
+der Tod | article: 'der' → 'der' |
+der Tod | plural: 'die Tode' → 'die Todes' | Plural of 'Tod' is 'Toten'
+der Terrorismus | article: 'der' → 'der' |
+der Terrorismus | plural: 'die Terrorismen' → 'die Terrorismen' |
+der Wille | article: 'der' → 'der' |
+der Wille | plural: 'die Willen' → 'die Willen' |
+der Sieger | article: 'der' → 'die' | Der Sieger is incorrect, it should be die Sieger.
+der Verlierer | article: 'der' → 'die' | Nouns denoting people are usually feminine.
+der Zweifel | article: 'der' → 'der' |
+der Zweifel | plural: 'die Zweifel' → 'die Zweifel' |

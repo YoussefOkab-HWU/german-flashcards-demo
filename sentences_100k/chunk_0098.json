@@ -1,0 +1,7766 @@
+[
+  {
+    "german": "Das Teleskop ist biologisch komplizierter als das Fernglas.",
+    "english": "The telescope is biologically more complicated than binoculars.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "biologisch",
+      "das Teleskop",
+      "kompliziert"
+    ]
+  },
+  {
+    "german": "Transportieren wir den Vektor in der Formel?",
+    "english": "Do we transport the vector in the formula?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Formel",
+      "transportieren",
+      "der Vektor"
+    ]
+  },
+  {
+    "german": "Wir müssen die Skulptur unter Verwendung von DNA simulieren.",
+    "english": "We must simulate the sculpture using DNA.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "die Skulptur",
+      "die DNA",
+      "müssen",
+      "simulieren"
+    ]
+  },
+  {
+    "german": "Sie bemüht sich in erster Linie um eine gute Karriere.",
+    "english": "She primarily strives for a good career.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "die Karriere",
+      "die Linie",
+      "bemühen",
+      "um"
+    ]
+  },
+  {
+    "german": "Die Wissenschaftler fühlen sich unter Druck, schneller Ergebnisse zu erzielen.",
+    "english": "Scientists feel pressure to achieve faster results.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "der Wissenschaftler",
+      "das Ergebnis",
+      "der Druck",
+      "fühlen"
+    ]
+  },
+  {
+    "german": "Die Informationen liegen in einem ärmlichen Zustand vor.",
+    "english": "The information is in a poor state.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "der Zustand",
+      "liegen",
+      "ärmlich"
+    ]
+  },
+  {
+    "german": "Du achtest auf den leckeren Geruch des Essens im Restaurant.",
+    "english": "You pay attention to the delicious smell of food at the restaurant.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "lecker",
+      "achten",
+      "Das Restaurant",
+      "der Geruch",
+      "auf"
+    ]
+  },
+  {
+    "german": "Die Bürste schrubbt die Kleidung noch, aber kaum noch gründlich.",
+    "english": "The brush scrubs the clothes still, but hardly thoroughly anymore.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Kleidung",
+      "aber",
+      "gründlich",
+      "noch",
+      "schrubben",
+      "kaum",
+      "Die Bürste"
+    ]
+  },
+  {
+    "german": "Was vorschlägt er für den Abend?",
+    "english": "What does he suggest for the evening?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Abend"
+    ]
+  },
+  {
+    "german": "Er gähnte laut, als sie ihm die Extrapolation zeigte.",
+    "english": "He yawned loudly when she showed him the extrapolation.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "laut",
+      "gähnen",
+      "zeigen",
+      "die Extrapolation"
+    ]
+  },
+  {
+    "german": "Der Akku ist zerbrochen, leider.",
+    "english": "The battery is broken, unfortunately.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "leider",
+      "sein",
+      "zerbrochen",
+      "Der Akku"
+    ]
+  },
+  {
+    "german": "Ich festige die Funktion jetzt und beobachte, was passiert hierbei.",
+    "english": "I am solidifying the function now and observing what happens here.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "beobachten",
+      "hierbei",
+      "festigen",
+      "die Funktion",
+      "jetzt",
+      "passieren",
+      "und"
+    ]
+  },
+  {
+    "german": "Die Töchter gehen zurück zum Haus, um ihre Aufgaben zu erfüllen, während die Zeit weiterfliesst.",
+    "english": "The daughters go back home to fulfill their duties while time keeps moving forward.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "erfüllen",
+      "abgehen",
+      "während",
+      "Das Haus",
+      "um",
+      "zurück",
+      "Die Zeit"
+    ]
+  },
+  {
+    "german": "Dem Künstler ist es wichtig, seine Gefühle in die Flamme zu übertragen.",
+    "english": "It is important for the artist to transfer his feelings to the flame.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Der Künstler",
+      "die Flamme",
+      "wichtig",
+      "übertragen"
+    ]
+  },
+  {
+    "german": "Der Ratgeber gibt einem Studenten Ratschläge, einen Plan ausbauen und der Diät folgen.",
+    "english": "The advisor gives a student advice to expand a plan and follow the diet.",
+    "type": "nominative",
+    "score": 4,
+    "vocab_refs": [
+      "Der Plan",
+      "geben",
+      "ausbauen",
+      "und",
+      "die Diät",
+      "der Ratgeber",
+      "die Folge"
+    ]
+  },
+  {
+    "german": "Sie stellten sicher, dass der Sensor regelmäßig gewartet wurde, damit er präzise Messwerte liefern konnte.",
+    "english": "They made sure the sensor was maintained regularly so that it could provide accurate readings.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "damit",
+      "sicher",
+      "präzise",
+      "liefern",
+      "Der Sensor",
+      "stellen",
+      "regelmäßig"
+    ]
+  },
+  {
+    "german": "Wir werden letztlich die Nominierten für den Preis bekanntgeben.",
+    "english": "We will ultimately announce the nominees for the award.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "letztlich",
+      "Der Preis",
+      "werden",
+      "nominiert"
+    ]
+  },
+  {
+    "german": "Ich pflege den Überblick durch sorgfältige Notizen.",
+    "english": "I maintain the overview through careful notes.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Pflege",
+      "durch",
+      "der Überblick",
+      "die Notiz"
+    ]
+  },
+  {
+    "german": "Die Kellnerin möchte sich entspannen, nachdem sie ihren Dienst beendet hat, damit sie den Abend genießen kann, obwohl sie müde ist.",
+    "english": "The waitress wants to relax after she finishes her shift so that she can enjoy the evening, even though she is tired.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "damit",
+      "sein",
+      "entspannen",
+      "beenden",
+      "haben",
+      "der Dienst",
+      "obwohl",
+      "genießen",
+      "müde",
+      "Der Abend",
+      "die Kellnerin",
+      "können"
+    ]
+  },
+  {
+    "german": "Kann der Farmer die Baumwolle abgeben?",
+    "english": "Can the farmer submit the cotton?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Baumwolle",
+      "der Farmer",
+      "können",
+      "abgeben"
+    ]
+  },
+  {
+    "german": "Die Bibliothekarin möchte die neue Künstliche Intelligenz testen.",
+    "english": "The librarian wants to test the new artificial intelligence.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "testen",
+      "neu",
+      "die Intelligenz",
+      "künstlich",
+      "die Bibliothekarin"
+    ]
+  },
+  {
+    "german": "Sie werden das Vertrauen durch logische Argumente testen und auslegen.",
+    "english": "They will test and lay out trust through logical arguments.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "testen",
+      "das Vertrauen",
+      "durch",
+      "logisch",
+      "auslegen",
+      "das Argument",
+      "und",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wir möchten Ihnen das entwickelteste Modell anbieten.",
+    "english": "We'd like to offer you the most developed model.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "anbieten",
+      "das Modell"
+    ]
+  },
+  {
+    "german": "Sie werden die Rhetorik lernen und ihre Redekunst verbessern.",
+    "english": "They will learn rhetoric and improve their public speaking skills.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "lernen",
+      "die Rhetorik",
+      "und",
+      "werden",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Weil der Chef die Präsentation verbessern wollte, formulierte er neue Argumente, damit sie klar verständlich war.",
+    "english": "Because the boss wanted to improve the presentation, he formulated new arguments so that it was clearly understandable.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "damit",
+      "neu",
+      "verbessern",
+      "das Argument",
+      "formulieren",
+      "weil",
+      "klar",
+      "wollen",
+      "Der Chef",
+      "die Präsentation"
+    ]
+  },
+  {
+    "german": "Wir können den Test nicht überarbeiten, weil er unattraktiv ist.",
+    "english": "We can't revise the test because it is unattractive.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "unattraktiv",
+      "nicht",
+      "der Test",
+      "weil",
+      "überarbeiten",
+      "können"
+    ]
+  },
+  {
+    "german": "Wer versteht die mythologischen Geschichten am besten?",
+    "english": "Who understands the mythological stories best?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Geschichte",
+      "mythologisch",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Das Repertoire wird sie beeindrucken.",
+    "english": "The repertoire will impress her.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "beeindrucken",
+      "das Repertoire",
+      "werden"
+    ]
+  },
+  {
+    "german": "Das Ballett wird regelmäßig in der Universität aufgeführt.",
+    "english": "The ballet is regularly performed at the university.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Universität",
+      "das Ballett",
+      "aufführen",
+      "werden",
+      "regelmäßig"
+    ]
+  },
+  {
+    "german": "Beginnen wir das Gespräch in Bezug auf die Genehmigung.",
+    "english": "Let's begin the conversation regarding the permit.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Genehmigung",
+      "auf",
+      "beginnen",
+      "Das Gespräch"
+    ]
+  },
+  {
+    "german": "Wie viel Geld kostet der Lieferwagen?",
+    "english": "How much money does the delivery van cost?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Lieferwagen",
+      "wie",
+      "Das Geld"
+    ]
+  },
+  {
+    "german": "Ich möchte weiter schreiben, aber es geht nicht mehr.",
+    "english": "I want to write further, but it's not possible anymore.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "abschreiben",
+      "abgehen",
+      "nicht",
+      "weiter",
+      "aber"
+    ]
+  },
+  {
+    "german": "Sie hat ihre Meinung in dem Meeting klar und deutlich ausgedrückt.",
+    "english": "She clearly and distinctly expressed her opinion at the meeting.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "ausdrücken",
+      "die Meinung",
+      "das Meeting",
+      "haben",
+      "deutlich",
+      "klar",
+      "und"
+    ]
+  },
+  {
+    "german": "Der Motor kann nicht ohne Benzin funktionieren.",
+    "english": "The engine cannot function without gasoline.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Motor",
+      "funktionieren",
+      "nicht",
+      "das Benzin",
+      "können"
+    ]
+  },
+  {
+    "german": "Das Unternehmen hat den Zaun wegen des Sicherheitsbedarfs gebaut.",
+    "english": "The company built the fence because of the security needs.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "Der Zaun",
+      "Das Unternehmen",
+      "bauen"
+    ]
+  },
+  {
+    "german": "Dessen ungeachtet müssen die Pläne unbedingt vorwärts gebracht werden.",
+    "english": "Despite all that, the plans absolutely have to be moved forward.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "müssen",
+      "bringen",
+      "werden",
+      "vorwärts",
+      "unbedingt"
+    ]
+  },
+  {
+    "german": "Sie werden nicht weit reisen.",
+    "english": "They will not travel far.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "reisen",
+      "werden",
+      "weit"
+    ]
+  },
+  {
+    "german": "Die Mitarbeiter möchten sich mit dem Team verabreden.",
+    "english": "The employees want to meet with the team.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "mit",
+      "Der Mitarbeiter",
+      "das Team"
+    ]
+  },
+  {
+    "german": "Wir werden den Raum räumen, bevor der Besuch kommt.",
+    "english": "We will clean the room before the visitor arrives.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "aufkommen",
+      "der Raum",
+      "werden",
+      "räumen"
+    ]
+  },
+  {
+    "german": "Wir beschaffen uns die notwendigen Ressourcen und Aufschlüsse für den Erfolg.",
+    "english": "We acquire the necessary resources and insights for success.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "die Ressource",
+      "und",
+      "Der Erfolg",
+      "beschaffen"
+    ]
+  },
+  {
+    "german": "Er begreift das Thema nicht, abgesehen von einigen Aspekten.",
+    "english": "He understands the topic not, aside from some aspects.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "begreifen",
+      "nicht",
+      "das Thema",
+      "sich einigen",
+      "absehen"
+    ]
+  },
+  {
+    "german": "Sie unterbrechen den Satz wörtlich und erklären ihr Anliegen.",
+    "english": "She literally interrupts the sentence and explains her request.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "unterbrechen",
+      "erklären",
+      "anliegen",
+      "wörtlich",
+      "und",
+      "Der Satz"
+    ]
+  },
+  {
+    "german": "Sie säen das Gefühl von Einheit in sich selbst ein.",
+    "english": "She sows the feeling of unity within herself.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "säen",
+      "Das Gefühl"
+    ]
+  },
+  {
+    "german": "Der Wert des Wissens ist eigentlich viel höher als gedacht.",
+    "english": "The value of knowledge is actually much higher than thought.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "eigentlich",
+      "sein",
+      "gedenken",
+      "der Wert"
+    ]
+  },
+  {
+    "german": "Er hungt das Paket auf, weil es keinen Platz im Haus gibt.",
+    "english": "He hangs the package up because there is no space in the house.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "Der Platz",
+      "Das Haus",
+      "das Paket",
+      "weil",
+      "auf"
+    ]
+  },
+  {
+    "german": "Wir haben das Referat durchgeführt und es war unangenehm.",
+    "english": "We carried out the presentation and it was unpleasant.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "das Referat",
+      "durchführen",
+      "haben",
+      "unangenehm",
+      "und"
+    ]
+  },
+  {
+    "german": "Er schaut sich den breiten Weg an, er ist leicht verständlich.",
+    "english": "He looks at the wide path; it's easy to understand.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "breit",
+      "weg",
+      "schauen",
+      "leicht"
+    ]
+  },
+  {
+    "german": "Der Vulkan kann die Landschaft beleuchten und gleichzeitig zerstören.",
+    "english": "The volcano can illuminate and simultaneously destroy the landscape.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "gleichzeitig",
+      "und",
+      "Die Landschaft",
+      "beleuchten",
+      "Der Vulkan",
+      "zerstören",
+      "können"
+    ]
+  },
+  {
+    "german": "Warum gibt sie die Zahnbürste zurück?",
+    "english": "Why is she giving back the toothbrush?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "zurück",
+      "geben",
+      "warum",
+      "Die Zahnbürste"
+    ]
+  },
+  {
+    "german": "Können Sie das Tempo konstant halten?",
+    "english": "Can you keep the pace constant?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "halten",
+      "konstant",
+      "das Tempo"
+    ]
+  },
+  {
+    "german": "Er entwickelt den Hurrikan weiter, um ihn zu verstehen.",
+    "english": "He further develops the hurricane to understand it.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "um",
+      "weiter",
+      "entwickelt",
+      "der Hurrikan",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Die Epistemologie wurde ausführlich behandelt.",
+    "english": "Epistemology was discussed in detail.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "behandeln",
+      "ausführlich",
+      "die Epistemologie"
+    ]
+  },
+  {
+    "german": "Das Bild zeigt ein unbekanntes Gebirge.",
+    "english": "The picture shows an unknown mountain range.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Bild",
+      "das Gebirge",
+      "zeigen",
+      "unbekannt"
+    ]
+  },
+  {
+    "german": "Sind sie diskrete Mitarbeiterinnen?",
+    "english": "Are they discreet employees?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "diskrete"
+    ]
+  },
+  {
+    "german": "Der Median eines landwirtschaftlichen Betriebs ist schwer zu finden.",
+    "english": "Finding the median of an agricultural business is difficult.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "schwer",
+      "finden",
+      "der Median",
+      "landwirtschaftlich"
+    ]
+  },
+  {
+    "german": "Zittern sie etwas aufgrund des ungerechten Schicksals?",
+    "english": "Do they tremble a little because of the unjust fate?",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "zittern",
+      "etwas",
+      "ungerecht"
+    ]
+  },
+  {
+    "german": "Wer wird die Qualle beschreiben?",
+    "english": "Who will describe the jellyfish?",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "die Qualle",
+      "werden",
+      "beschreiben"
+    ]
+  },
+  {
+    "german": "Sie bekommt einen Tee, der sich gut anfühlt und die Angst aufhebt.",
+    "english": "She gets a tea that feels good and lifts the anxiety.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "gut",
+      "bekommen",
+      "Der Tee",
+      "Die Angst",
+      "und"
+    ]
+  },
+  {
+    "german": "Möblieren Sie das Zimmer mit hellen Farben, um einen luftigen Eindruck zu erzeugen.",
+    "english": "Furnish the room with light colors to create an airy feeling.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "erzeugen",
+      "um",
+      "Das Zimmer",
+      "die Farbe",
+      "hell",
+      "mit",
+      "möblieren"
+    ]
+  },
+  {
+    "german": "Sie interessieren sich für die Mondfinsternis.",
+    "english": "They are interested in the lunar eclipse.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "die Mondfinsternis",
+      "interessieren"
+    ]
+  },
+  {
+    "german": "Die Moral rechtfertigt dieses Verhalten nicht.",
+    "english": "Morality does not justify this behavior.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "rechtfertigen",
+      "die Moral",
+      "Das Verhalten"
+    ]
+  },
+  {
+    "german": "Leise, seid leise und bewegt euch ruhig.",
+    "english": "Quietly, move quietly and calmly.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "bewegen",
+      "sein",
+      "ruhig",
+      "leise",
+      "und"
+    ]
+  },
+  {
+    "german": "Wie stellt der Historiker das Finale des Balletts ein?",
+    "english": "How does the historian set up the finale of the ballet?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Historiker",
+      "wie",
+      "stellen"
+    ]
+  },
+  {
+    "german": "Man unterstellt, dass die Meinungsfreiheit effizient ist.",
+    "english": "It is assumed that freedom of opinion is efficient.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "unterstellen",
+      "die Meinungsfreiheit",
+      "man",
+      "effizient"
+    ]
+  },
+  {
+    "german": "Sie wegwerfen diese Lieder vermutlich nicht.",
+    "english": "They probably don't throw these songs away.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Lied",
+      "nicht",
+      "vermutlich",
+      "wegwerfen"
+    ]
+  },
+  {
+    "german": "Beispielsweise reagierte das System dadurch positiv darauf.",
+    "english": "For example, the system reacted positively to it.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "dadurch",
+      "positiv",
+      "reagieren",
+      "Das System",
+      "darauf",
+      "beispielsweise"
+    ]
+  },
+  {
+    "german": "Das einzigartige Gefühl führt sie hinauf zum Ziel.",
+    "english": "The unique feeling leads them upwards to the goal.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Ziel",
+      "Das Gefühl",
+      "hinauf",
+      "führen",
+      "einzigartig"
+    ]
+  },
+  {
+    "german": "Warum gibt er zu, die Diskrepanz zusammenzuschließen?",
+    "english": "Why does he admit to closing the discrepancy?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "warum",
+      "die Diskrepanz"
+    ]
+  },
+  {
+    "german": "Die Kassette enthält prinzipiell Musik aus den 80ern.",
+    "english": "The cassette generally contains music from the 80s.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Musik",
+      "prinzipiell",
+      "enthalten",
+      "die Kassette",
+      "aus"
+    ]
+  },
+  {
+    "german": "Sie multiplizierte die Zahlen flüchtig.",
+    "english": "She multiplied the numbers fleetingly.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Zahl",
+      "multiplizieren",
+      "flüchtig"
+    ]
+  },
+  {
+    "german": "Sie liefern Ketchup zu jedem Essen.",
+    "english": "They deliver ketchup to every meal.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Essen",
+      "der Ketchup",
+      "liefern"
+    ]
+  },
+  {
+    "german": "Kann man das Spiel manipulieren?",
+    "english": "Can one manipulate the game?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "man",
+      "können",
+      "das Spiel",
+      "manipulieren"
+    ]
+  },
+  {
+    "german": "Ist die Bewegung unstrukturiert?",
+    "english": "Is the movement unstructured?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "unstrukturiert",
+      "die Bewegung",
+      "sein"
+    ]
+  },
+  {
+    "german": "Wir werden die Höhe des Kontinents untersuchen.",
+    "english": "We will study the height of the continent.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "werden",
+      "die Höhe",
+      "untersuchen"
+    ]
+  },
+  {
+    "german": "Wann bemerkt er den Zufall?",
+    "english": "When does he notice the coincidence?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Zufall",
+      "bemerken"
+    ]
+  },
+  {
+    "german": "Er macht den Bogen aus Papier.",
+    "english": "He makes the bow out of paper.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Das Papier",
+      "der Bogen",
+      "aus",
+      "machen"
+    ]
+  },
+  {
+    "german": "Zusammen bringen sie die Informationen zusammen und versuchen, eine Lösung für das Rätsel zu finden.",
+    "english": "Together they bring the information together and try to find a solution to the puzzle.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "finden",
+      "Die Lösung",
+      "bringen",
+      "zusammen",
+      "versuchen",
+      "und"
+    ]
+  },
+  {
+    "german": "Der Philosoph wird das Radfahren als gleichmäßig angenehm empfinden.",
+    "english": "The philosopher will perceive cycling as evenly pleasant.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "der Philosoph",
+      "das Radfahren",
+      "empfinden",
+      "gleichmäßig",
+      "angenehm",
+      "werden"
+    ]
+  },
+  {
+    "german": "Ich sehe mich selbst als loyale Freundin.",
+    "english": "I see myself as a loyal friend.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "loyal",
+      "Die Freundin",
+      "sehen"
+    ]
+  },
+  {
+    "german": "Verinnerlichen Sie die neuen Informationen unbedingt.",
+    "english": "Make sure to internalize the new information.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "verinnerlichen",
+      "unbedingt"
+    ]
+  },
+  {
+    "german": "Der Mut ist die Grundlage für viele erfolgreiche Abenteuer.",
+    "english": "Courage is the basis for many successful adventures.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "das Abenteuer",
+      "der Mut",
+      "erfolgreich"
+    ]
+  },
+  {
+    "german": "Die Intelligenz des Mannes war nachvollziehbar und einflussreich.",
+    "english": "The man's intelligence was understandable and influential.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "nachvollziehbar",
+      "die Intelligenz"
+    ]
+  },
+  {
+    "german": "Wir schlafen uns ein.",
+    "english": "We fall asleep.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "das Schlafen"
+    ]
+  },
+  {
+    "german": "Sein Haar ist dicker als deines.",
+    "english": "His hair is thicker than yours.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Das Haar",
+      "dick"
+    ]
+  },
+  {
+    "german": "Er hat den Stadtplan weggeschickt.",
+    "english": "He sent the city map away.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "Der Stadtplan"
+    ]
+  },
+  {
+    "german": "Sie ärgert sich über den louschen Sitz, der ihr sehr unbequem ist.",
+    "english": "She gets angry about the lousy seat, which is very uncomfortable for her.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Sitz",
+      "sein",
+      "sehr",
+      "unbequem"
+    ]
+  },
+  {
+    "german": "Du wirst die Zeit kontemplativ nutzen.",
+    "english": "You will use your time contemplatively.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "kontemplativ",
+      "Die Zeit",
+      "werden",
+      "der Nutzen"
+    ]
+  },
+  {
+    "german": "Trotz des Frosts gingen wir spazieren.",
+    "english": "Despite the frost, we went for a walk.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "spazieren",
+      "trotz"
+    ]
+  },
+  {
+    "german": "Ich habe die Informationen implementiert, um den Prozess zu verbessern.",
+    "english": "I implemented the information to improve the process.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "um",
+      "der Prozess",
+      "implementieren",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Die Universität liefert die besten Vorlesungen.",
+    "english": "The university delivers the best lectures.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Universität",
+      "liefern"
+    ]
+  },
+  {
+    "german": "Er prognostizierte das Chaos für die Zukunft.",
+    "english": "He predicted chaos for the future.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Zukunft",
+      "prognostizieren",
+      "das Chaos"
+    ]
+  },
+  {
+    "german": "Die Tierärztin fotografiert das verletzte Pferd einmal.",
+    "english": "The veterinarian photographs the injured horse once.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "einmal",
+      "Das Pferd",
+      "die Tierärztin",
+      "fotografieren"
+    ]
+  },
+  {
+    "german": "Die Entfernung zwischen Berlin und London ist groß.",
+    "english": "The distance between Berlin and London is large.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "die Entfernung",
+      "groß",
+      "sein"
+    ]
+  },
+  {
+    "german": "Kannst du mir das Saxofon in diesem Zusammenhang geben?",
+    "english": "Can you give me the saxophone in this context?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "können",
+      "das Saxofon",
+      "der Zusammenhang"
+    ]
+  },
+  {
+    "german": "Die Zeugin gab sehr wahrhaftig ihre Aussage ab.",
+    "english": "The witness gave her testimony very truthfully.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "ab",
+      "wahrhaftig",
+      "sehr",
+      "die Zeugin"
+    ]
+  },
+  {
+    "german": "Du wirst den Neffe quälen und ihn von der Reise abbringen.",
+    "english": "You will torment the nephew and deter him from the trip.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "der Neffe",
+      "abbringen",
+      "Die Reise",
+      "und",
+      "quälen",
+      "werden"
+    ]
+  },
+  {
+    "german": "Ihr müsst die Abhandlung einreichen, egal ob ihr siegt oder nicht.",
+    "english": "You must submit the treatise, whether you win or not.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "die Abhandlung",
+      "einreichen",
+      "müssen",
+      "egal",
+      "nicht",
+      "siegen",
+      "oder"
+    ]
+  },
+  {
+    "german": "Morgen wird der Tisch gehoben werden.",
+    "english": "The table will be raised tomorrow.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "morgen",
+      "Der Tisch",
+      "gehoben",
+      "werden"
+    ]
+  },
+  {
+    "german": "Er erreicht seine Ziele möglicherweise nicht so schnell wie du, aber er arbeitet hart daran.",
+    "english": "He might not reach his goals as quickly as you, but he's working hard towards them.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "daran",
+      "wie",
+      "möglicherweise",
+      "nicht",
+      "zielen",
+      "erreichen",
+      "aber",
+      "schnell",
+      "laborieren",
+      "hart"
+    ]
+  },
+  {
+    "german": "Der Drucker aus Deutschland ist überholt, der neue aus Frankreich ist deutlich schneller.",
+    "english": "The printer from Germany is outdated, the new one from France is significantly faster.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "neu",
+      "überholt",
+      "deutlich",
+      "aus",
+      "Der Drucker"
+    ]
+  },
+  {
+    "german": "Er hat das Formular neulich mit einem verwirrenden Text ausgefüllt.",
+    "english": "He filled out the form recently with a confusing text.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "neulich",
+      "haben",
+      "ausfüllen",
+      "verwirrend",
+      "Der Text",
+      "das Formular",
+      "mit"
+    ]
+  },
+  {
+    "german": "Das Kind soll die Metaphysik gerne erforschen.",
+    "english": "The child should enjoy exploring metaphysics.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "die Metaphysik",
+      "erforschen",
+      "gerne",
+      "sollen",
+      "Das Kind"
+    ]
+  },
+  {
+    "german": "Können wir die Taktik ebenfalls verbessern?",
+    "english": "Can we also improve the tactic?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "ebenfalls",
+      "können",
+      "die Taktik",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Theoretisieren die Wissenschaftler über das Geheimnis?",
+    "english": "Do the scientists theorize about the secret?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Geheimnis",
+      "theoretisieren",
+      "der Wissenschaftler"
+    ]
+  },
+  {
+    "german": "Kann man den Arm ebenso bewegen wie die Kokosnuss?",
+    "english": "Can you move the arm just as easily as the coconut?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "bewegen",
+      "wie",
+      "ebenso",
+      "arm",
+      "die Kokosnuss",
+      "man",
+      "können"
+    ]
+  },
+  {
+    "german": "Wer ausstellt die Leuchten im Haus?",
+    "english": "Who switches on the lights in the house?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "leuchten",
+      "Das Haus"
+    ]
+  },
+  {
+    "german": "Wir haben der Soldatin das Medikament vorgeschlagen.",
+    "english": "We suggested the medicine to the soldier.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "Das Medikament",
+      "Die Soldatin",
+      "haben",
+      "vorschlagen"
+    ]
+  },
+  {
+    "german": "Wir haben die Mode mit heimischen Elementen aufgewertet.",
+    "english": "We upgraded the fashion with homemade elements.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "heimisch",
+      "die Mode",
+      "haben",
+      "mit"
+    ]
+  },
+  {
+    "german": "Wir diskutieren gemeinsam, dass die Anpassung erheblich sein sollte, weil die Gesellschaft gesund ist.",
+    "english": "We discuss together that the adaptation should be considerable because society is healthy.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Anpassung",
+      "die Gesellschaft",
+      "sollen",
+      "gesund",
+      "erheblich",
+      "diskutieren",
+      "weil",
+      "gemeinsam"
+    ]
+  },
+  {
+    "german": "Er wählt den Weitsprung aus.",
+    "english": "He chooses the long jump.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "der Weitsprung",
+      "aus",
+      "wählen"
+    ]
+  },
+  {
+    "german": "Sie tauscht die Ordnung gegen das Quadrat ein.",
+    "english": "She trades order for the square.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Ordnung",
+      "das Quadrat",
+      "umtauschen"
+    ]
+  },
+  {
+    "german": "Verarbeiten Sie den Auftrag einzeln und gründlich.",
+    "english": "Process the order individually and thoroughly.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "verarbeiten",
+      "einzeln",
+      "der Auftrag",
+      "gründlich",
+      "und"
+    ]
+  },
+  {
+    "german": "Was bringt der Wettbewerb zur Stadt ein?",
+    "english": "What does the competition bring to the city?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Die Stadt",
+      "der Wettbewerb",
+      "bringen"
+    ]
+  },
+  {
+    "german": "Der Politiker verändert den Plan, er schreibt dem Anwalt einen Brief und schickt ihm den Chip als Beweis.",
+    "english": "The politician changes the plan, he writes a letter to the lawyer and sends him the chip as proof.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "abschreiben",
+      "Der Plan",
+      "verändern",
+      "Der Anwalt",
+      "der Politiker",
+      "zuschicken",
+      "der Beweis",
+      "Der Brief",
+      "Der Chip",
+      "und"
+    ]
+  },
+  {
+    "german": "Er möchte absichtlich etwas blühen lassen.",
+    "english": "He wants to deliberately let something bloom.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "blühen",
+      "absichtlich",
+      "zulassen",
+      "etwas"
+    ]
+  },
+  {
+    "german": "Welcher Regenschirm ist am besten gegen den Regen?",
+    "english": "Which umbrella is best against the rain?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Regen",
+      "Der Regenschirm",
+      "sein",
+      "welcher"
+    ]
+  },
+  {
+    "german": "Die Otter sich gegenseitig beim Schwimmen helfen.",
+    "english": "The otters help each other while swimming.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "der Otter",
+      "gegenseitig",
+      "das Schwimmen",
+      "mithelfen"
+    ]
+  },
+  {
+    "german": "Mit dem neuen Auto wechselt er oft die Stadt.",
+    "english": "With the new car, he often changes cities.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Stadt",
+      "neu",
+      "wechseln",
+      "Das Auto",
+      "oft",
+      "mit"
+    ]
+  },
+  {
+    "german": "Ich gebe dem Mann einen Kredit unter Berücksichtigung von dessen robusten Art und er misstraut der Suchmaschine, die ihm den Windrad-Plan abfährt.",
+    "english": "I give the man a credit, taking into account his robust nature, and he distrusts the search engine that takes away the windmill plan from him.",
+    "type": "nominative",
+    "score": 4,
+    "vocab_refs": [
+      "Der Plan",
+      "geben",
+      "die Art",
+      "Die Suchmaschine",
+      "der Kredit",
+      "Der Mann",
+      "misstrauen",
+      "das Windrad",
+      "robust",
+      "und"
+    ]
+  },
+  {
+    "german": "Wer diskutiert tatsächlich über den Klimawandel?",
+    "english": "Who actually discusses climate change?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "diskutieren",
+      "der Klimawandel",
+      "tatsächlich"
+    ]
+  },
+  {
+    "german": "Amüsieren Sie sich mit dem Schüler!",
+    "english": "Have fun with the student!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Schüler",
+      "amüsieren",
+      "mit"
+    ]
+  },
+  {
+    "german": "Können wir die Bildung gleichzeitig verbessern?",
+    "english": "Can we improve education at the same time?",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "gleichzeitig",
+      "können",
+      "die Bildung",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Die Menge nähert sich langsam dem Hund.",
+    "english": "The crowd slowly approaches the dog.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Menge",
+      "nähern",
+      "Der Hund",
+      "langsam"
+    ]
+  },
+  {
+    "german": "Er hat die Differenzierung gut bewertet.",
+    "english": "He evaluated the differentiation well.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "gut",
+      "evaluieren",
+      "haben",
+      "die Differenzierung"
+    ]
+  },
+  {
+    "german": "Müssen die Wissenschaftler den Druck zurücklassen?",
+    "english": "Must the scientists leave the pressure behind?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Wissenschaftler",
+      "müssen",
+      "der Druck",
+      "zurücklassen"
+    ]
+  },
+  {
+    "german": "Sensibilisierte Benutzer achten auf die Auswirkungen ihrer Handlungen.",
+    "english": "Sensitized users pay attention to the consequences of their actions.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "Der Benutzer",
+      "achten",
+      "sensibilisiert",
+      "die Handlung",
+      "auf"
+    ]
+  },
+  {
+    "german": "Sie haben sich getrennt und sind nicht mehr zusammen.",
+    "english": "They broke up and are no longer together.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "nicht",
+      "zusammen",
+      "haben",
+      "getrennt",
+      "und"
+    ]
+  },
+  {
+    "german": "Können Sie mir den Nachtisch servieren, der aus Kartoffeln besteht?",
+    "english": "Can you serve me the dessert that consists of potatoes?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "bestehen",
+      "können",
+      "aus",
+      "Der Nachtisch"
+    ]
+  },
+  {
+    "german": "Die Demokratie lässt sich mit einer lebendigen Debatte konstituieren.",
+    "english": "Democracy can be constituted with a lively debate.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "die Debatte",
+      "lassen",
+      "die Demokratie",
+      "konstituieren",
+      "lebendig",
+      "mit"
+    ]
+  },
+  {
+    "german": "Wir danken dem Moment für seine Schönheit.",
+    "english": "We thank the moment for its beauty.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Moment",
+      "die Schönheit",
+      "danken"
+    ]
+  },
+  {
+    "german": "Die Gleichheit ist unbestreitbar wichtig.",
+    "english": "Equality is undeniably important.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "unbestreitbar",
+      "sein",
+      "die Gleichheit",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Ich habe den Regenwald einmal besucht.",
+    "english": "I visited the rainforest once.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "einmal",
+      "haben",
+      "Der Regenwald",
+      "besuchen"
+    ]
+  },
+  {
+    "german": "Sie hat das Röhrchen gestern anscheinend minimiert.",
+    "english": "She apparently minimized the tube yesterday.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "anscheinend",
+      "haben",
+      "minimieren",
+      "das Röhrchen",
+      "gestern"
+    ]
+  },
+  {
+    "german": "Woher kommt die Unzufriedenheit in der Mehrheit?",
+    "english": "Where does the dissatisfaction come from in the majority?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "aufkommen",
+      "die Mehrheit",
+      "die Unzufriedenheit"
+    ]
+  },
+  {
+    "german": "Die Zelle hat die Ironie transparent dargestellt.",
+    "english": "The cell depicted the irony transparently.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "darstellen",
+      "die Ironie",
+      "transparent",
+      "haben",
+      "die Zelle"
+    ]
+  },
+  {
+    "german": "Das Projekt fortsetzt sich trotz der Schwierigkeiten, die auftauchen.",
+    "english": "The project continues despite the difficulties that arise.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Projekt",
+      "trotz"
+    ]
+  },
+  {
+    "german": "Macht den Pullover auf und zeig mir das Bein!",
+    "english": "Take off the sweater and show me your leg!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "Das Bein",
+      "Der Pullover",
+      "und",
+      "auf",
+      "machen"
+    ]
+  },
+  {
+    "german": "Wir werden den Hirsch höchstwahrscheinlich nicht antasten, er ist wild.",
+    "english": "We will most likely not touch the deer, it is wild.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "der Hirsch",
+      "wild",
+      "nicht",
+      "antasten",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Chancengleichheit klingt nach einem wichtigen Ziel.",
+    "english": "Equal opportunity sounds like an important goal.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Ziel",
+      "nach",
+      "die Chancengleichheit",
+      "klingen",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Seitdem sie diesen Sack einsteckt, ist sie zufrieden.",
+    "english": "Since she tucked this bag away, she has been happy.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "seitdem",
+      "zufrieden",
+      "der Sack"
+    ]
+  },
+  {
+    "german": "Der Mönch wird während der Messe nicht widersprechen.",
+    "english": "The monk won't contradict during the mass.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "während",
+      "nicht",
+      "widersprechen",
+      "die Messe",
+      "der Mönch",
+      "werden"
+    ]
+  },
+  {
+    "german": "Morgen werde ich die Wassermelone einreihen.",
+    "english": "Tomorrow, I will stock the watermelon.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "morgen",
+      "Die Wassermelone",
+      "werden",
+      "einreihen"
+    ]
+  },
+  {
+    "german": "Das Brötchen füllt uns mit neuer Energie.",
+    "english": "The bread roll fills us with new energy.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Energie",
+      "neu",
+      "mit",
+      "Das Brötchen"
+    ]
+  },
+  {
+    "german": "Wir werden den Sand sorgfältig aus dem Rucksack abnehmen.",
+    "english": "We will carefully remove the sand from the backpack.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sorgfältig",
+      "Der Rucksack",
+      "abnehmen",
+      "der Sand",
+      "aus",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wir wollen den Hirsch aushelfen und ihn gesundhalten.",
+    "english": "We want to help the deer and keep it healthy.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "der Hirsch",
+      "aushelfen",
+      "wollen"
+    ]
+  },
+  {
+    "german": "Woher kommt der Rauch?",
+    "english": "Where is the smoke coming from?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Rauch",
+      "aufkommen"
+    ]
+  },
+  {
+    "german": "Er möchte die Seide nicht nur besitzen, sondern auch verstehen, wie sie hergestellt wird.",
+    "english": "He doesn't just want to own the silk, but also understand how it is made.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sondern",
+      "wie",
+      "nicht",
+      "nur",
+      "besitzen",
+      "Die Seide",
+      "herstellen",
+      "auch",
+      "werden",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Die Doktorarbeit existiert in digitaler Form.",
+    "english": "The dissertation exists in digital form.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Form",
+      "die Doktorarbeit",
+      "digital",
+      "existieren"
+    ]
+  },
+  {
+    "german": "Er hat das Seminar durchmachen können und ein Abschlusszeugnis erhalten.",
+    "english": "He was able to complete the seminar and receive a certificate of completion.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "haben",
+      "erhalten",
+      "durchmachen",
+      "und",
+      "Das Seminar"
+    ]
+  },
+  {
+    "german": "Ich möchte den Kakao noch etwas wärmer trinken.",
+    "english": "I would like to drink the cocoa a little warmer.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "Der Kakao",
+      "etwas",
+      "trinken",
+      "noch"
+    ]
+  },
+  {
+    "german": "Die Stichprobe deckt das Risiko nicht ab.",
+    "english": "The sample does not cover the risk.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "zudecken",
+      "nicht",
+      "das Risiko",
+      "ab",
+      "die Stichprobe"
+    ]
+  },
+  {
+    "german": "Der Kläger beurteilt den Plan als leicht verständlich.",
+    "english": "The plaintiff judges the plan as easily understandable.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Plan",
+      "beurteilen",
+      "leicht",
+      "der Kläger"
+    ]
+  },
+  {
+    "german": "Die Statistik sagt unnachgiebig voraus, was passiert.",
+    "english": "The statistics relentlessly predict what will happen.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Statistik",
+      "unnachgiebig",
+      "sagen",
+      "voraus",
+      "passieren"
+    ]
+  },
+  {
+    "german": "Wir haben den Gegensatz verarbeitet.",
+    "english": "We processed the contrast.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "verarbeiten",
+      "haben",
+      "der Gegensatz"
+    ]
+  },
+  {
+    "german": "Der Bodensatz ist im Vergleich zum Stahl weniger stark und viel leichter.",
+    "english": "The sediment is less strong and much lighter compared to steel.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "der Bodensatz",
+      "sein",
+      "der Stahl",
+      "leicht",
+      "und",
+      "der Vergleich",
+      "stark"
+    ]
+  },
+  {
+    "german": "Die Flöte wird bedeutend für die Musikgeschichte sein.",
+    "english": "The flute will be significant for music history.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Flöte",
+      "bedeutend",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Frost liquidiert die letzten Knospen auf dem Baum.",
+    "english": "Frost eliminates the last buds on the tree.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Baum",
+      "auf",
+      "liquidieren",
+      "Der Frost"
+    ]
+  },
+  {
+    "german": "Wer kann ihn in die Wohnung bringen?",
+    "english": "Who can bring him to the apartment?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "Die Wohnung",
+      "bringen"
+    ]
+  },
+  {
+    "german": "Die Ärzte können Ihnen bei gesundheitlichen Problemen helfen.",
+    "english": "Doctors can help you with health problems.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "mithelfen"
+    ]
+  },
+  {
+    "german": "Die Ministerin aufmerksam macht die Öffentlichkeit auf die Vielfalt der Gesellschaft.",
+    "english": "The minister draws public attention to the diversity of society.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Ministerin",
+      "die Gesellschaft",
+      "aufmerksam",
+      "die Vielfalt",
+      "auf",
+      "machen"
+    ]
+  },
+  {
+    "german": "Das Mädchen ist am erfahrensten in ihrem Alter.",
+    "english": "The girl is the most experienced in her age group.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Das Mädchen",
+      "erfahren",
+      "alt"
+    ]
+  },
+  {
+    "german": "Warum stoppt das Video unverkennbar mitten im Tanz?",
+    "english": "Why does the video unmistakably stop in the middle of the dance?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Das Video",
+      "warum",
+      "der Tanz",
+      "unverkennbar",
+      "die Mitte",
+      "stoppen"
+    ]
+  },
+  {
+    "german": "Er ist zum Flughafen abgekommen, um zu fliegen.",
+    "english": "He went to the airport to fly.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Der Flughafen",
+      "abkommen",
+      "die Fliege",
+      "um"
+    ]
+  },
+  {
+    "german": "Die Kinder beschränken sich in ihrer Fantasie während des Spiels.",
+    "english": "The children limit themselves in their imagination during the game.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "beschränken",
+      "die Fantasie",
+      "während"
+    ]
+  },
+  {
+    "german": "Der Ritus löst die Institution auf.",
+    "english": "The ritual dissolves the institution.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Institution",
+      "auf",
+      "der Ritus",
+      "einlösen"
+    ]
+  },
+  {
+    "german": "Die Religion hat eine große gesellschaftliche Bedeutung, auch wenn sie von Einzelnen unterschiedlich wahrgenommen wird.",
+    "english": "Religion has great social significance, even if it is perceived differently by individuals.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "die Bedeutung",
+      "wahrnehmen",
+      "die Religion",
+      "haben",
+      "gesellschaftlich",
+      "groß",
+      "auch",
+      "unterschiedlich",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Galerie war besonders wichtig für den Künstler.",
+    "english": "The gallery was particularly important for the artist.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "besonders",
+      "wichtig",
+      "die Galerie",
+      "Der Künstler"
+    ]
+  },
+  {
+    "german": "Es kann sein, dass die Bluse extensiv bearbeitet werden muss.",
+    "english": "It may be that the blouse needs to be processed extensively.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "müssen",
+      "extensiv",
+      "Die Bluse",
+      "bearbeiten",
+      "können",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wir müssen das Spiel standardisieren, um fair zu sein.",
+    "english": "We must standardize the game to be fair.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "müssen",
+      "das Spiel",
+      "standardisieren",
+      "um",
+      "fair"
+    ]
+  },
+  {
+    "german": "Weil die Supernova durchdrungen von Geheimnissen war, bemühte sich der Wissenschaftler, sie zu verstehen.",
+    "english": "Because the supernova was permeated with secrets, the scientist tried to understand it.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "der Wissenschaftler",
+      "bemühen",
+      "durchdrungen",
+      "weil",
+      "die Supernova",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Die Rose ist interessanter als die gewöhnliche Pflanze.",
+    "english": "The rose is more interesting than the ordinary plant.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "pflanzen",
+      "interessant",
+      "die Rose",
+      "gewöhnlich"
+    ]
+  },
+  {
+    "german": "Der Roller fährt schnell und hinterlegt seine Spuren auf dem Gehweg.",
+    "english": "The scooter drives fast and leaves its tracks on the sidewalk.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "der Gehweg",
+      "fahren",
+      "Der Roller",
+      "schnell",
+      "und",
+      "auf"
+    ]
+  },
+  {
+    "german": "Die Partei ist aufgeregt, weil die Kapitulation abgelehnt wurde.",
+    "english": "The party is excited because the capitulation was rejected.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Kapitulation",
+      "weil",
+      "abgelehnt",
+      "aufgeregt",
+      "die Partei"
+    ]
+  },
+  {
+    "german": "Es entstand eine spannende Diskussion über die Zukunft der Bienenstöcke.",
+    "english": "A fascinating discussion arose about the future of beehives.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "Die Zukunft",
+      "Die Diskussion",
+      "spannend"
+    ]
+  },
+  {
+    "german": "Der Strukturwandel hat viele Menschen beeinflusst.",
+    "english": "The structural change affected many people.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "beeinflussen",
+      "haben",
+      "der Strukturwandel"
+    ]
+  },
+  {
+    "german": "Kann der Architekt den Aphorismus verstehen, obwohl er unverständlich ist?",
+    "english": "Can the architect understand the aphorism even though it is incomprehensible?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "Der Architekt",
+      "sein",
+      "obwohl",
+      "der Aphorismus",
+      "unverständlich",
+      "können",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Die Bibliothekarinnen arbeiten in der Bibliothek mit den Computern.",
+    "english": "The librarians work in the library with the computers.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "Die Bibliothek",
+      "die Bibliothekarin",
+      "laborieren",
+      "mit"
+    ]
+  },
+  {
+    "german": "Der Tag ist viel zu schnell vergangen, und ich habe noch nichts geschafft.",
+    "english": "The day has passed far too quickly, and I haven't accomplished anything yet.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "sein",
+      "haben",
+      "schnell",
+      "noch",
+      "nichts",
+      "Der Tag"
+    ]
+  },
+  {
+    "german": "Sie erkannten ihn sofort auf dem Strand.",
+    "english": "They recognized him immediately on the beach.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "auf",
+      "Der Strand",
+      "sofort"
+    ]
+  },
+  {
+    "german": "Der Weg zum Erfolg erfordert Verantwortung und Geistreichheit.",
+    "english": "The path to success requires responsibility and cleverness.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "weg",
+      "Der Erfolg",
+      "Die Verantwortung"
+    ]
+  },
+  {
+    "german": "Verspätet sich der Zug anscheinend?",
+    "english": "Does the train apparently delay?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Zug",
+      "anscheinend",
+      "verspätet"
+    ]
+  },
+  {
+    "german": "Er wird das Viereck symmetrisch gestalten.",
+    "english": "He will design the square symmetrically.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "gestalten",
+      "symmetrisch",
+      "werden",
+      "das Viereck"
+    ]
+  },
+  {
+    "german": "Ich brauche das Hindernis, um die Taktik zu testen.",
+    "english": "I need the obstacle to test the tactic.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "testen",
+      "die Taktik",
+      "brauchen",
+      "das Hindernis",
+      "um"
+    ]
+  },
+  {
+    "german": "Ich habe das Gerät regelmäßig benutzt.",
+    "english": "I used the device regularly.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "benutzen",
+      "haben",
+      "Das Gerät",
+      "regelmäßig"
+    ]
+  },
+  {
+    "german": "Du musst den Hunger begrenzen, wenn du schlank sein möchtest.",
+    "english": "You have to limit your hunger if you want to be slim.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "begrenzen",
+      "müssen",
+      "der Hunger",
+      "schlank"
+    ]
+  },
+  {
+    "german": "Wir tippen erstaunlicherweise auf das Volksbegehren.",
+    "english": "We surprisingly rely on the popular initiative.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Volksbegehren",
+      "tippen",
+      "auf",
+      "erstaunlicherweise"
+    ]
+  },
+  {
+    "german": "Also zieht er den Würfel erneut aus der Tasche.",
+    "english": "Therefore, he pulls the die out of his pocket again.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "erneut",
+      "also",
+      "der Würfel",
+      "ziehen",
+      "aus",
+      "Die Tasche"
+    ]
+  },
+  {
+    "german": "Wer repariert das Feuer?",
+    "english": "Who repairs the fire?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "reparieren",
+      "das Feuer"
+    ]
+  },
+  {
+    "german": "Er braucht den Generator für das Licht.",
+    "english": "He needs the generator for the light.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "gebrauchen",
+      "Der Generator",
+      "Das Licht"
+    ]
+  },
+  {
+    "german": "Letztlich hängt das Ergebnis von der Qualifikation ab.",
+    "english": "Ultimately, the result depends on the qualification.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Qualifikation",
+      "hängen",
+      "letztlich",
+      "das Ergebnis",
+      "ab"
+    ]
+  },
+  {
+    "german": "Führt der Lehrer die Lektion fort?",
+    "english": "Does the teacher continue the lesson?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Lehrer",
+      "führen"
+    ]
+  },
+  {
+    "german": "Sie schnappte sich das Brot, bevor es jemand anderes essen konnte.",
+    "english": "She grabbed the bread before anyone else could eat it.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "Das Essen",
+      "Das Brot",
+      "schnappen",
+      "jemand"
+    ]
+  },
+  {
+    "german": "Er beaufsichtigt die Tennisspieler nicht nur, sondern auch die Schiedsrichter.",
+    "english": "He supervises not only the tennis players but also the referees.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sondern",
+      "nicht",
+      "der Schiedsrichter",
+      "nur",
+      "auch",
+      "beaufsichtigen"
+    ]
+  },
+  {
+    "german": "Du widmest dich der Unterschrift ganz.",
+    "english": "You dedicate yourself entirely to the signature.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "ganz",
+      "widmen",
+      "die Unterschrift"
+    ]
+  },
+  {
+    "german": "Wie viel Geld braucht er für die Bachelorarbeit?",
+    "english": "How much money does he need for his bachelor thesis?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Bachelorarbeit",
+      "gebrauchen",
+      "wie",
+      "Das Geld"
+    ]
+  },
+  {
+    "german": "Die Meinung der Mehrheit ist komisch und arrogant.",
+    "english": "The opinion of the majority is funny and arrogant.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Meinung",
+      "komisch",
+      "arrogant",
+      "und",
+      "die Mehrheit"
+    ]
+  },
+  {
+    "german": "Sie haben ihren Plan zeitweise geändert.",
+    "english": "They changed their plan temporarily.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "zeitweise",
+      "sich ändern",
+      "Der Plan",
+      "haben"
+    ]
+  },
+  {
+    "german": "Die Ruinen erinnern uns daran, wie vergänglich alles ist.",
+    "english": "The ruins remind us how fleeting everything is.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "sich erinnern",
+      "daran",
+      "sein",
+      "wie",
+      "die Ruine"
+    ]
+  },
+  {
+    "german": "Entschuldigen Sie, ich möchte das Drama sehen.",
+    "english": "Excuse me, I want to see the drama.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "das Drama",
+      "entschuldigen",
+      "das Sehen"
+    ]
+  },
+  {
+    "german": "Der Forscher brachte die neue Theorie in einem Vortrag auf, der von allen besprochen wurde.",
+    "english": "The researcher presented the new theory at a lecture that was discussed by everyone.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Theorie",
+      "neu",
+      "der Vortrag",
+      "besprechen",
+      "Der Forscher",
+      "auf"
+    ]
+  },
+  {
+    "german": "Damals konnte der Astronaut das Gemälde nicht improvisieren.",
+    "english": "Back then, the astronaut couldn't improvise the painting.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "improvisieren",
+      "damals",
+      "nicht",
+      "der Astronaut",
+      "das Gemälde"
+    ]
+  },
+  {
+    "german": "Er tun dir keinen Schaden mit Sicherheit, glaube mir.",
+    "english": "He definitely won't harm you, believe me.",
+    "type": "dative",
+    "score": 4,
+    "vocab_refs": [
+      "die Sicherheit",
+      "der Glaube",
+      "der Schaden",
+      "mit",
+      "tun"
+    ]
+  },
+  {
+    "german": "Er soll die Antithese ermitteln.",
+    "english": "He should determine the antithesis.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "ermitteln",
+      "die Antithese",
+      "sollen"
+    ]
+  },
+  {
+    "german": "Das Haus des Mannes war bekannt für sein unnachgiebiges Sicherheitskonzept.",
+    "english": "The man's house was known for its uncompromising security concept.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "unnachgiebig",
+      "sein",
+      "bekannt",
+      "Das Haus"
+    ]
+  },
+  {
+    "german": "Die Medikamente wirken unverzüglich gegen die Grippe.",
+    "english": "The medicines work immediately against the flu.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "unverzüglich",
+      "Die Grippe",
+      "wirken"
+    ]
+  },
+  {
+    "german": "Sie reagierte sofort, sobald sie den Geruch wahrnahm.",
+    "english": "She reacted immediately as soon as she smelled it.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "reagieren",
+      "sofort",
+      "der Geruch"
+    ]
+  },
+  {
+    "german": "Überüberschreiten Sie die Länge?",
+    "english": "Do you exceed the length?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Länge"
+    ]
+  },
+  {
+    "german": "Sie haben das Verhalten der anderen evaluiert.",
+    "english": "They evaluated the behavior of others.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "evaluieren",
+      "haben",
+      "Das Verhalten"
+    ]
+  },
+  {
+    "german": "Warum induzieren wir die Abweichung?",
+    "english": "Why do we induce the deviation?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Abweichung",
+      "warum",
+      "induzieren"
+    ]
+  },
+  {
+    "german": "Das Seminar dauert die ganze Woche.",
+    "english": "The seminar lasts the whole week.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "das Ganze",
+      "Das Seminar",
+      "Die Woche",
+      "dauern"
+    ]
+  },
+  {
+    "german": "Wie viel Gewicht kann der Hamster tragen?",
+    "english": "How much weight can the hamster carry?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Gewicht",
+      "wie",
+      "tragen",
+      "Der Hamster",
+      "können"
+    ]
+  },
+  {
+    "german": "Sie hat das Risiko eingegrenzt, indem sie sich konzentrierte.",
+    "english": "She narrowed down the risk by concentrating.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "das Risiko",
+      "haben",
+      "eingrenzen",
+      "konzentriert"
+    ]
+  },
+  {
+    "german": "Was überträgt er berechtigterweise?",
+    "english": "What does he transmit justifiably?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "berechtigterweise",
+      "übertragen"
+    ]
+  },
+  {
+    "german": "Können Sie mir helfen, die Lösung zu finden?",
+    "english": "Can you help me find the solution?",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "finden",
+      "Die Lösung",
+      "mithelfen"
+    ]
+  },
+  {
+    "german": "Wie viel Miete müssen wir monatlich zahlen?",
+    "english": "How much rent do we have to pay monthly?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Zahl",
+      "müssen",
+      "wie",
+      "monatlich",
+      "die Miete"
+    ]
+  },
+  {
+    "german": "Sie erkannte die Bedeutung des Wettbewerbs und stellte ihre Motivation auf eine höhere Stufe.",
+    "english": "She recognized the significance of the competition and elevated her motivation to a higher level.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Bedeutung",
+      "die Motivation",
+      "und",
+      "auf",
+      "stellen"
+    ]
+  },
+  {
+    "german": "Der Mann beschwert sich über das klingelnde Telefon.",
+    "english": "The man complains about the ringing phone.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sich beschweren",
+      "Das Telefon",
+      "Der Mann"
+    ]
+  },
+  {
+    "german": "Wir werden die Information dreifach überprüfen.",
+    "english": "We will check the information threefold.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Die Information",
+      "dreifach",
+      "überprüfen",
+      "werden"
+    ]
+  },
+  {
+    "german": "Das Netzwerk kann ausnahmsweise unwahre Informationen enthalten.",
+    "english": "The network can exceptionally contain untrue information.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "enthalten",
+      "können",
+      "unwahr",
+      "Das Netzwerk",
+      "ausnahmsweise"
+    ]
+  },
+  {
+    "german": "Die Branche hat sich schnell entwickelt, allerdings sind die Mitarbeiter verängstigt.",
+    "english": "The industry has developed quickly, however, the employees are terrified.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "haben",
+      "Der Mitarbeiter",
+      "allerdings",
+      "entwickelt",
+      "schnell",
+      "die Branche",
+      "verängstigt"
+    ]
+  },
+  {
+    "german": "Die Überraschung geschah im Garten, wo sie das Foto versteckt hatte.",
+    "english": "The surprise happened in the garden where she had hidden the photo.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Überraschung",
+      "Der Garten",
+      "verstecken",
+      "Das Foto"
+    ]
+  },
+  {
+    "german": "Er versucht, sich selbstständig zu machen und seinen eigenen Ratgeber zu finden.",
+    "english": "He tries to make himself independent and find his own advisor.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "finden",
+      "selbstständig",
+      "versuchen",
+      "und",
+      "der Ratgeber",
+      "machen"
+    ]
+  },
+  {
+    "german": "Sie wird nachts laufen, um ihre Ressourcen zu schützen.",
+    "english": "She will run at night to protect her resources.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "das Laufen",
+      "um",
+      "die Ressource",
+      "schützen",
+      "nachts",
+      "werden"
+    ]
+  },
+  {
+    "german": "Er exekutiert den Plan je nach Bedarf zurück.",
+    "english": "He executes the plan depending on need.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Plan",
+      "der Bedarf",
+      "nach",
+      "exekutieren",
+      "zurück"
+    ]
+  },
+  {
+    "german": "Verfolgt er das Netzwerk entsprechend?",
+    "english": "Does he pursue the network accordingly?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "verfolgen",
+      "Das Netzwerk",
+      "entsprechend"
+    ]
+  },
+  {
+    "german": "Die Pinguine gehören zu den beliebtesten Tieren im Zoo.",
+    "english": "Penguins belong to the most popular animals at the zoo.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "dazugehören"
+    ]
+  },
+  {
+    "german": "Hängen Sie der Eigenschaft konzeptionell auf?",
+    "english": "Do you hang the characteristic conceptually?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "konzeptionell",
+      "hängen",
+      "auf",
+      "die Eigenschaft"
+    ]
+  },
+  {
+    "german": "Riechen wir den Weltraum genau?",
+    "english": "Do we smell space precisely?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Riechen",
+      "genau",
+      "der Weltraum"
+    ]
+  },
+  {
+    "german": "Die Bandbreite eines Netzwerks ist wichtig für die Geschwindigkeit der Datenübertragung.",
+    "english": "The bandwidth of a network is important for the speed of data transmission.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "wichtig",
+      "Die Geschwindigkeit",
+      "die Bandbreite"
+    ]
+  },
+  {
+    "german": "Wir konnten es nicht glauben, dass sie so flüchtig aus dem Stadion ging.",
+    "english": "We couldn't believe that she left the stadium so fleetingly.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "der Glaube",
+      "flüchtig",
+      "Das Stadion",
+      "aus"
+    ]
+  },
+  {
+    "german": "Letztendlich ist der Tank viel größer als die Telefonzelle.",
+    "english": "Ultimately, the tank is much larger than the phone booth.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "der Tank",
+      "sein",
+      "letztendlich",
+      "die Telefonzelle"
+    ]
+  },
+  {
+    "german": "Sie möchte ihre Meinung offensichtlich und eindeutig modifizieren.",
+    "english": "She wants to modify her opinion obviously and clearly.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "offensichtlich",
+      "die Meinung",
+      "eindeutig",
+      "modifizieren",
+      "und"
+    ]
+  },
+  {
+    "german": "Er fürchtet sich im Allgemeinen für die Zukunft.",
+    "english": "He generally fears the future.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Zukunft",
+      "fürchten",
+      "allgemein"
+    ]
+  },
+  {
+    "german": "Woher kommt diese tiefgründige Melodie aus dem Jazzclub?",
+    "english": "Where does this profound melody from the jazz club come from?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "tiefgründig",
+      "aufkommen",
+      "aus",
+      "die Melodie"
+    ]
+  },
+  {
+    "german": "Mir ist es wichtig, die Menschenwürde zu respektieren.",
+    "english": "It's important to me to respect human dignity.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Menschenwürde",
+      "respektieren",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Das Kissen ist braun und weich.",
+    "english": "The pillow is brown and soft.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "weich",
+      "sein",
+      "braun",
+      "Das Kissen",
+      "und"
+    ]
+  },
+  {
+    "german": "Müssen Sie hierzu den Auftrag bearbeiten?",
+    "english": "Must you process the assignment for this purpose?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "hierzu",
+      "der Auftrag",
+      "müssen",
+      "bearbeiten"
+    ]
+  },
+  {
+    "german": "Was analysieren sie monatlich?",
+    "english": "What do they analyze monthly?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "monatlich",
+      "analysieren"
+    ]
+  },
+  {
+    "german": "Der Ehrgeiz kann ihn manchmal dazu bringen, starr zu bleiben.",
+    "english": "Ambition can sometimes make him stay rigid.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "starr",
+      "bleiben",
+      "bringen",
+      "dazu",
+      "der Ehrgeiz",
+      "manchmal",
+      "können"
+    ]
+  },
+  {
+    "german": "Ich bestrebe mich subjektiv stets ein guter Mensch zu sein.",
+    "english": "Subjectively, I always strive to be a good person.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "stets",
+      "sein",
+      "Der Mensch",
+      "subjektiv",
+      "bestreben"
+    ]
+  },
+  {
+    "german": "Durch das Jahrzehnt hat sich die Musik verändert, dementsprechend auch das Publikum.",
+    "english": "Over the decade, the music has changed, and so has the audience accordingly.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "verändern",
+      "die Musik",
+      "das Publikum",
+      "haben",
+      "das Jahrzehnt",
+      "dementsprechend",
+      "auch",
+      "durch"
+    ]
+  },
+  {
+    "german": "Trotz des Regens fuhren wir weiter zum Ziel unserer Reise.",
+    "english": "Despite the rain, we continued driving to our destination.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "Die Reise",
+      "Das Ziel",
+      "trotz",
+      "weiter"
+    ]
+  },
+  {
+    "german": "Wo sie hingegangen ist, interessiert mich nicht.",
+    "english": "Where she went doesn't interest me.",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "sein",
+      "interessieren"
+    ]
+  },
+  {
+    "german": "Wie viel Geld hast du im Portemonnaie?",
+    "english": "How much money do you have in your wallet?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "das Portemonnaie",
+      "wie",
+      "Das Geld"
+    ]
+  },
+  {
+    "german": "Wenn du den Regenwald schützen möchtest, solltest du nachgehen, wie man ihn nachhaltig nutzt.",
+    "english": "If you want to protect the rainforest, you should look into how to use it sustainably.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "wie",
+      "nachhaltig",
+      "sollen",
+      "schützen",
+      "Der Regenwald",
+      "man",
+      "nützen",
+      "nachgehen"
+    ]
+  },
+  {
+    "german": "Dürfen wir der Gruppe beitreten?",
+    "english": "Are we allowed to join the group?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Gruppe",
+      "dürfen",
+      "beitreten"
+    ]
+  },
+  {
+    "german": "Der Arzt erlaubt dem Patienten, das Telefon in den Zimmern zu benutzen und zeigt ihm, wie man die Funktionen bedient.",
+    "english": "The doctor allows the patient to use the phone in the rooms and shows him how to operate the functions.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "benutzen",
+      "Das Telefon",
+      "wie",
+      "bedienen",
+      "die Funktion",
+      "erlauben",
+      "Der Arzt",
+      "man",
+      "und",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Ich möchte dir die Halskette nicht geben.",
+    "english": "I don't want to give you the necklace.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "Die Halskette",
+      "nicht"
+    ]
+  },
+  {
+    "german": "Die Soziologie hilft dabei, die Gesellschaft besser zu verstehen.",
+    "english": "Sociology helps to better understand society.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "helfen",
+      "die Gesellschaft",
+      "dabei",
+      "die Soziologie",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Sie hindeuten auf einen Unterschied in dieser Hinsicht.",
+    "english": "She points out a difference in this regard.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "auf",
+      "der Unterschied",
+      "hindeuten"
+    ]
+  },
+  {
+    "german": "Lernen Sie das Wort 'Multiplikation' ausdrücklich.",
+    "english": "Learn the word 'Multiplication' explicitly.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "lernen",
+      "die Multiplikation",
+      "Das Wort",
+      "ausdrücklich"
+    ]
+  },
+  {
+    "german": "Die Kirche öffnet ihren Türen nicht für jeden.",
+    "english": "The church doesn't open its doors to everyone.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "öffnen",
+      "die Kirche"
+    ]
+  },
+  {
+    "german": "Man kann sich pünktlich anmelden.",
+    "english": "You can register on time.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "man",
+      "können",
+      "pünktlich",
+      "anmelden"
+    ]
+  },
+  {
+    "german": "Er kann sich abrufen, was passiert ist.",
+    "english": "He can recall what happened.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "passieren",
+      "sein",
+      "können",
+      "abrufen"
+    ]
+  },
+  {
+    "german": "Lernen Sie frühzeitig das Wort!",
+    "english": "Learn the word early!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "lernen",
+      "frühzeitig",
+      "Das Wort"
+    ]
+  },
+  {
+    "german": "Sie diskontieren den Einfluss des Kommunismus nicht.",
+    "english": "They don't discount the influence of communism.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "diskontieren",
+      "nicht",
+      "der Einfluss",
+      "der Kommunismus"
+    ]
+  },
+  {
+    "german": "Ist das Feedback richtig oder falsch?",
+    "english": "Is the feedback right or wrong?",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "richtig",
+      "falsch",
+      "oder",
+      "das Feedback"
+    ]
+  },
+  {
+    "german": "Nach dem Unterricht werden wir uns gemeinsam mit Tee und Pasta entspannen.",
+    "english": "After class, we will relax together with tea and pasta.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "entspannen",
+      "Der Tee",
+      "nach",
+      "Die Pasta",
+      "und",
+      "der Unterricht",
+      "mit",
+      "werden",
+      "gemeinsam"
+    ]
+  },
+  {
+    "german": "Das Programm hat sich als demokratisch erwiesen und wurde gefeiert.",
+    "english": "The program proved to be democratic and was celebrated.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "feiern",
+      "demokratisch",
+      "Das Programm",
+      "haben",
+      "und"
+    ]
+  },
+  {
+    "german": "Sie sparen Geld, um Champagner zu kaufen.",
+    "english": "They save money to buy champagne.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "um",
+      "Der Champagner",
+      "kaufen",
+      "sparen",
+      "Das Geld"
+    ]
+  },
+  {
+    "german": "Er flog mit dem PKW nach Berlin, um die Aufgabe abzuschließen.",
+    "english": "He flew to Berlin by car to finish the task.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "der PKW",
+      "nach",
+      "um",
+      "Die Aufgabe",
+      "mit"
+    ]
+  },
+  {
+    "german": "Was einstufen Sie den Kunden?",
+    "english": "How would you classify the customer?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "einstufen"
+    ]
+  },
+  {
+    "german": "Sie werden die Politik nicht auslösen, sondern nacharbeiten und verbessern.",
+    "english": "They won't trigger politics, but rather rework and improve it.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sondern",
+      "nicht",
+      "auslösen",
+      "nacharbeiten",
+      "die Politik",
+      "und",
+      "werden",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Er ist zuvor auf die Allee gegangen.",
+    "english": "He walked onto the avenue beforehand.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Die Allee",
+      "auf",
+      "gehen",
+      "zuvor"
+    ]
+  },
+  {
+    "german": "Ich helfe dir mit der Installation des Programms.",
+    "english": "I'll help you with the installation of the program.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "helfen",
+      "mit",
+      "die Installation"
+    ]
+  },
+  {
+    "german": "Kannst du die transzendenten Botschaften des Gottes verstehen?",
+    "english": "Can you understand the transcendent messages of the god?",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "verstehen",
+      "transzendent"
+    ]
+  },
+  {
+    "german": "Haben Sie ihm eine pragmatische Lösung vorgestellt?",
+    "english": "Did you present him with a pragmatic solution?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "sich vorstellen",
+      "pragmatisch",
+      "haben",
+      "Die Lösung"
+    ]
+  },
+  {
+    "german": "Ein Manager garantiert dem Mitarbeiter einen Urlaub und erklärt ihm die Bedingungen.",
+    "english": "A manager guarantees the employee a vacation and explains the terms to him.",
+    "type": "nominative",
+    "score": 4,
+    "vocab_refs": [
+      "erklären",
+      "garantieren",
+      "Der Mitarbeiter",
+      "Der Urlaub",
+      "und",
+      "Der Manager"
+    ]
+  },
+  {
+    "german": "Was ausmacht die Jeans inspirierend?",
+    "english": "What makes the jeans inspiring?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "inspirierend",
+      "Die Jeans"
+    ]
+  },
+  {
+    "german": "Sie möchten über die Wüste reisen, deswegen kaufen Sie einen Komet-Guide.",
+    "english": "She wants to travel through the desert, so she buys a comet guide.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Wüste",
+      "reisen",
+      "deswegen",
+      "kaufen",
+      "der Komet"
+    ]
+  },
+  {
+    "german": "Sie bietet ihm einen Vergleich an.",
+    "english": "She offers him a comparison.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "der Vergleich",
+      "bieten"
+    ]
+  },
+  {
+    "german": "Sie hat das Projekt erfolgreich abgeschlossen.",
+    "english": "She successfully completed the project.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "das Projekt",
+      "abschließen",
+      "haben",
+      "erfolgreich"
+    ]
+  },
+  {
+    "german": "Die spitzfindige Analyse liefert überraschende Erkenntnisse über das Unternehmen.",
+    "english": "The sharp-tongued analysis yields surprising insights about the company.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "Das Unternehmen",
+      "die Analyse",
+      "liefern"
+    ]
+  },
+  {
+    "german": "Die Wahrnehmung hat sich stellenweise verändert.",
+    "english": "The perception changed in parts.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "stellenweise",
+      "die Wahrnehmung",
+      "verändern"
+    ]
+  },
+  {
+    "german": "Er wird das Hindernis nicht beachten und seinen Weg trotzdem weitergehen.",
+    "english": "He will ignore the obstacle and continue on his way anyway.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "weg",
+      "nicht",
+      "das Hindernis",
+      "weitergehen",
+      "trotzdem",
+      "beachten",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Touristin wird die Stadt trotz des Mangels an Zeit besuchen.",
+    "english": "The tourist will visit the city despite the lack of time.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Die Stadt",
+      "Die Touristin",
+      "besuchen",
+      "trotz",
+      "Die Zeit",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Rotation ist selten ein Merkmal der Krise.",
+    "english": "Rotation is rarely a feature of the crisis.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "selten",
+      "das Merkmal",
+      "die Krise",
+      "die Rotation"
+    ]
+  },
+  {
+    "german": "Du wirst die Rezension seltener lesen.",
+    "english": "You will read the review less often.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "werden",
+      "lesen",
+      "seltener",
+      "die Rezension"
+    ]
+  },
+  {
+    "german": "Er setzt sich umso mehr ein, wenn es ungerecht ist.",
+    "english": "He puts in all the more effort when it's unfair.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "setzen",
+      "sein",
+      "ungerecht"
+    ]
+  },
+  {
+    "german": "Sie hat sich durch das Lesen der DNA-Sequenz informiert.",
+    "english": "She informed herself by reading the DNA sequence.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "informieren",
+      "die DNA",
+      "haben",
+      "lesen",
+      "durch"
+    ]
+  },
+  {
+    "german": "Gültig für Deutschland: Der Vogel singt emotional in seinem Nest am Hof.",
+    "english": "Valid for Germany: The bird sings emotionally in its nest on the courtyard.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "emotional",
+      "singen",
+      "Der Hof",
+      "Der Vogel"
+    ]
+  },
+  {
+    "german": "Er druckt das Zeugnis seither aus.",
+    "english": "He has been printing out the certificate ever since.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Zeugnis",
+      "drängen",
+      "aus",
+      "seither"
+    ]
+  },
+  {
+    "german": "Die Loyalität des Hirsches ist endlich am wichtigsten für sein Überleben.",
+    "english": "The deer's loyalty is finally most important for its survival.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "endlich",
+      "wichtig",
+      "die Loyalität"
+    ]
+  },
+  {
+    "german": "Haben Sie den Upload ausdrucksstark organisiert?",
+    "english": "Did you organize the upload expressively?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "organisiert",
+      "haben",
+      "Der Upload",
+      "ausdrucksstark"
+    ]
+  },
+  {
+    "german": "Er erhebt keine Fragen.",
+    "english": "He raises no questions.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "fragen",
+      "erheben"
+    ]
+  },
+  {
+    "german": "Sie haben die Medien unter Berücksichtigung von Fakten betrachtet.",
+    "english": "They considered the media taking facts into account.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "die Medien",
+      "haben",
+      "betrachten"
+    ]
+  },
+  {
+    "german": "Der Professor zeigt ihm den Einfluss der Meditation auf seine Gedanken.",
+    "english": "The professor shows him the influence of meditation on his thoughts.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "auf",
+      "zeigen",
+      "der Professor",
+      "der Einfluss"
+    ]
+  },
+  {
+    "german": "Wie stricken Sie den pinken Pullover an?",
+    "english": "How do you knit the pink sweater?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "stricken",
+      "Der Pullover",
+      "wie",
+      "pink"
+    ]
+  },
+  {
+    "german": "Er hat das Zivilrecht studiert und somit erfolgreich abgeschlossen.",
+    "english": "He studied civil law and thus successfully graduated.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "somit",
+      "haben",
+      "abschließen",
+      "das Zivilrecht",
+      "studieren",
+      "und",
+      "erfolgreich"
+    ]
+  },
+  {
+    "german": "Die Ruine ist eine interessante Sehenswürdigkeit.",
+    "english": "The ruin is an interesting sight.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "interessant",
+      "sein",
+      "die Ruine",
+      "die Sehenswürdigkeit"
+    ]
+  },
+  {
+    "german": "Der Gärtner zeigt dem Kunden den besten Apfel und gibt ihm einen Preis.",
+    "english": "The gardener shows the customer the best apple and gives him a price.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "Der Gärtner",
+      "Der Apfel",
+      "Der Preis",
+      "und",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Unter anderem setzt sie auf erneuerbare Energien, um den Zustand der Umwelt zu verbessern.",
+    "english": "Among other things, she relies on renewable energies to improve the state of the environment.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Umwelt",
+      "um",
+      "setzen",
+      "die Energie",
+      "der Zustand",
+      "auf",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Sie werden sich trauen, den Briefkasten zu öffnen.",
+    "english": "They will dare to open the mailbox.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Der Briefkasten",
+      "öffnen",
+      "werden",
+      "trauen"
+    ]
+  },
+  {
+    "german": "Die Wegbereiterin schaffte es, die Vielfalt zu wahren und ihren Nerv hochhalten.",
+    "english": "The pioneer managed to preserve the diversity and keep her spirits up.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "hochhalten",
+      "wahr",
+      "Der Nerv",
+      "die Vielfalt",
+      "schaffen",
+      "und",
+      "die Wegbereiterin"
+    ]
+  },
+  {
+    "german": "Die Republik neutralisiert den Schein, wenn möglich.",
+    "english": "The republic neutralizes the facade if possible.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "der Schein",
+      "die Republik",
+      "neutralisieren",
+      "möglich"
+    ]
+  },
+  {
+    "german": "Sie plaudern ihm die Daten von einem anderen Freund zu.",
+    "english": "They gossip to him about data from another friend.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Freund",
+      "die Daten",
+      "plaudern"
+    ]
+  },
+  {
+    "german": "Die Regierung möchte den Verein weiterführen.",
+    "english": "The government wants to continue the club.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "weiterführen",
+      "die Regierung",
+      "der Verein"
+    ]
+  },
+  {
+    "german": "Ich lerne allein, indem ich mich mit dem Stoff auseinandersetze.",
+    "english": "I learn alone by engaging with the material.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "lernen",
+      "Der Stoff",
+      "allein",
+      "mit"
+    ]
+  },
+  {
+    "german": "Ich werde bewusst die Phonetik lernen.",
+    "english": "I will consciously learn phonetics.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "lernen",
+      "bewusst",
+      "die Phonetik",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Entschuldigung fand er künstlich und unüberzeugend.",
+    "english": "He found the apology artificial and unconvincing.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "die Entschuldigung",
+      "künstlich"
+    ]
+  },
+  {
+    "german": "Er hat den Nachtisch fertiggestellt.",
+    "english": "He finished the dessert.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "Der Nachtisch",
+      "fertigstellen",
+      "haben"
+    ]
+  },
+  {
+    "german": "Sie werden das Problem beiläufig lösen.",
+    "english": "They will solve the problem casually.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "beiläufig",
+      "werden",
+      "einlösen",
+      "Das Problem"
+    ]
+  },
+  {
+    "german": "Er berichtet über die Ergebnisse des medizinischen Projekts.",
+    "english": "He reports on the results of the medical project.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "medizinisch",
+      "berichtigen",
+      "das Ergebnis"
+    ]
+  },
+  {
+    "german": "Sie freuen sich auf die Soße in der neuen Verpackung.",
+    "english": "They are looking forward to the sauce in the new packaging.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "die Verpackung",
+      "die Soße",
+      "freuen",
+      "auf"
+    ]
+  },
+  {
+    "german": "Ist das Verhältnis zwischen den Kategorien abwartend oder undurchsichtig?",
+    "english": "Is the relationship between the categories cautious or opaque?",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "undurchsichtig",
+      "abwartend",
+      "die Kategorie",
+      "oder",
+      "das Verhältnis"
+    ]
+  },
+  {
+    "german": "Ich werde die Transformation festhalten, bevor sie greifbar wird.",
+    "english": "I will hold onto the transformation before it becomes attainable.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "die Transformation",
+      "festhalten",
+      "werden",
+      "greifbar"
+    ]
+  },
+  {
+    "german": "Er versucht die Aufmerksamkeit mit einer neuen Methode zu gewinnen.",
+    "english": "He tries to win attention with a new method.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "die Aufmerksamkeit",
+      "versuchen",
+      "die Methode",
+      "gewinnen",
+      "mit"
+    ]
+  },
+  {
+    "german": "Der Honig schmeckt angenehm und wird gerne in Tee eingefügt.",
+    "english": "The honey tastes pleasant and is often added to tea.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "Der Tee",
+      "gerne",
+      "einfügen",
+      "Der Honig",
+      "schmecken",
+      "und",
+      "angenehm",
+      "werden"
+    ]
+  },
+  {
+    "german": "Können wir nachrechnen, ob das korrekt ist?",
+    "english": "Can we recalculate to see if that's correct?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "korrekt",
+      "nachrechnen",
+      "können",
+      "sein"
+    ]
+  },
+  {
+    "german": "Die Kinder umarmen sich herzlich, wenn sie sich wiedersehen.",
+    "english": "Children hug each other warmly when they see each other again.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "herzlich",
+      "umarmen"
+    ]
+  },
+  {
+    "german": "Die Anträge sollten perspektivisch auf neue Technologien abgestimmt sein.",
+    "english": "The applications should be aligned with new technologies in a forward-looking way.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "perspektivisch",
+      "neu",
+      "sollen",
+      "abstimmen",
+      "die Technologie",
+      "auf",
+      "der Antrag"
+    ]
+  },
+  {
+    "german": "Der Zustand ist krumm und unüberschaubar in seiner Komplexität.",
+    "english": "The condition is crooked and overwhelming in its complexity.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "sein",
+      "unüberschaubar",
+      "krumm",
+      "der Zustand",
+      "die Komplexität"
+    ]
+  },
+  {
+    "german": "Können Sie die Muschel abwerfen?",
+    "english": "Can you throw away the seashell?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "abwerfen",
+      "die Muschel"
+    ]
+  },
+  {
+    "german": "Sie hat das Accessoire mit Hilfe von Online-Shops beschaffen.",
+    "english": "She acquired the accessory with the help of online shops.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "das Accessoire",
+      "haben",
+      "beschaffen",
+      "mit",
+      "Die Hilfe"
+    ]
+  },
+  {
+    "german": "Er implementiert die Optimierung in der Zelle.",
+    "english": "He implements the optimization in the cell.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "implementieren",
+      "die Zelle",
+      "die Optimierung"
+    ]
+  },
+  {
+    "german": "Der Gegensatz zwischen dem Kleid und der Hölle ist revolutionär klar.",
+    "english": "The contrast between the dress and hell is strikingly clear.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "revolutionär",
+      "die Hölle",
+      "Das Kleid",
+      "klar",
+      "der Gegensatz",
+      "und"
+    ]
+  },
+  {
+    "german": "Er sich über seine Leistung freuen.",
+    "english": "He prides himself on his performance.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "freuen",
+      "die Leistung"
+    ]
+  },
+  {
+    "german": "Sie strahlen sich selbst immer wieder aus.",
+    "english": "They constantly shine on themselves.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "immer",
+      "aus",
+      "wieder"
+    ]
+  },
+  {
+    "german": "Wieso schließt der Chef den Zugang zum Workshop aus?",
+    "english": "Why does the boss exclude access to the workshop?",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "schließen",
+      "wieso",
+      "der Workshop",
+      "aus",
+      "Der Chef",
+      "der Zugang"
+    ]
+  },
+  {
+    "german": "Er abstimmt sein Stimmrecht in der nächsten Wahl.",
+    "english": "He will cast his vote in the next election.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Wahl"
+    ]
+  },
+  {
+    "german": "Der Gletscher wird bemerkenswert schnell schmelzen.",
+    "english": "The glacier will melt remarkably fast.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "werden",
+      "schnell",
+      "bemerkenswert",
+      "Der Gletscher",
+      "schmelzen"
+    ]
+  },
+  {
+    "german": "Kann die Bank die Verbesserung vorzeitig erreichen?",
+    "english": "Can the bank achieve improvement prematurely?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "erreichen",
+      "die Bank",
+      "vorzeitig",
+      "die Verbesserung",
+      "können"
+    ]
+  },
+  {
+    "german": "Sie sind neben dem Kasten versteckt geblieben.",
+    "english": "They remained hidden next to the crate.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "neben",
+      "verstecken",
+      "bleiben",
+      "der Kasten"
+    ]
+  },
+  {
+    "german": "Die Feige versucht, dem Gegner seinen Plan zu verraten.",
+    "english": "The coward tries to betray the opponent's plan.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Plan",
+      "versuchen",
+      "feige"
+    ]
+  },
+  {
+    "german": "Das Team stellt sich für die nächste Herausforderung vor.",
+    "english": "The team prepares itself for the next challenge.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "die Herausforderung",
+      "stellen",
+      "das Team"
+    ]
+  },
+  {
+    "german": "Der Unternehmer wird dauerhaft seinen Hai retten und weitermachen.",
+    "english": "The entrepreneur will permanently save his shark and continue.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "dauerhaft",
+      "Der Hai",
+      "der Unternehmer",
+      "weitermachen",
+      "und",
+      "retten",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Realismus wird hier letztendlich immer stärker.",
+    "english": "Realism will ultimately become stronger here.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "hier",
+      "der Realismus",
+      "letztendlich",
+      "immer",
+      "werden"
+    ]
+  },
+  {
+    "german": "Sie wollen ihn nicht sehen, in jedem Fall.",
+    "english": "They don't want to see him, in any case.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "das Sehen",
+      "wollen",
+      "der Fall"
+    ]
+  },
+  {
+    "german": "Wie viel Kapital benötigen sie für ihre Idee?",
+    "english": "How much capital do they need for their idea?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "benötigen",
+      "das Kapital",
+      "wie",
+      "Die Idee"
+    ]
+  },
+  {
+    "german": "Der Protagonist leidet unter dem Rückenschmerz.",
+    "english": "The protagonist suffers from back pain.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Rückenschmerz",
+      "leiden",
+      "der Protagonist"
+    ]
+  },
+  {
+    "german": "Kannst du den Schmerz mit Medikamenten lindern?",
+    "english": "Can you alleviate the pain with medication?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "mit",
+      "Der Schmerz"
+    ]
+  },
+  {
+    "german": "Der Kioskbesitzer verkauft einem Touristen ein Bier und schenkt ihm einen Flyer mit Angeboten.",
+    "english": "The kiosk owner sells a tourist a beer and gives him a flyer with offers.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "anbieten",
+      "Das Bier",
+      "und",
+      "verkaufen",
+      "mit",
+      "schenken"
+    ]
+  },
+  {
+    "german": "Du stellst dich oft selbst zu sehr unter Druck.",
+    "english": "You often put too much pressure on yourself.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "oft",
+      "sehr",
+      "stellen",
+      "der Druck"
+    ]
+  },
+  {
+    "german": "Die Toilette ist das kleinste Möbelstück.",
+    "english": "The toilet is the smallest piece of furniture.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Toilette",
+      "sein",
+      "klein"
+    ]
+  },
+  {
+    "german": "Die Relevanz der Informationen ist merkwürdigerweise hoch.",
+    "english": "The relevance of the information is surprisingly high.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "merkwürdigerweise",
+      "sein",
+      "die Relevanz",
+      "hoch"
+    ]
+  },
+  {
+    "german": "Er lenkt dir den Monolog nach der langen Pause zu.",
+    "english": "He steers the monologue back to you after the long break.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "lang",
+      "der Monolog",
+      "die Pause",
+      "nach",
+      "lenken"
+    ]
+  },
+  {
+    "german": "Sie möchten den Instinkt des Dramatikers verstehen, wenn sie sein Gedicht lesen, bevor sie ein Urteil fällen.",
+    "english": "They want to understand the playwright's instinct when they read his poem before passing judgment.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "das Gedicht",
+      "das Urteil",
+      "der Instinkt",
+      "lesen",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Sie können den Aphorismus ausschreiben, wenn sie es möchten.",
+    "english": "They can write out the aphorism if they want.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "ausschreiben",
+      "können",
+      "der Aphorismus"
+    ]
+  },
+  {
+    "german": "Er erwartet schließlich die Analyse unter Verwendung von neuen Daten.",
+    "english": "He eventually expects the analysis to be done using new data.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "die Daten",
+      "schließlich",
+      "die Analyse",
+      "erwarten"
+    ]
+  },
+  {
+    "german": "Die Rechtswissenschaft orientiert sich an der Praxis.",
+    "english": "Legal science is oriented towards practice.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Rechtswissenschaft",
+      "orientieren"
+    ]
+  },
+  {
+    "german": "Die Katze schmelzte langsam im warmen Sonnenlicht.",
+    "english": "The cat melted slowly in the warm sunlight.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "Die Katze",
+      "langsam",
+      "schmelzen",
+      "warm"
+    ]
+  },
+  {
+    "german": "Er möchte den Tablet nicht zurücklassen, auch wenn es verboten ist.",
+    "english": "He doesn't want to leave the tablet behind, even if it is forbidden.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "zurücklassen",
+      "nicht",
+      "Das Tablet",
+      "verbieten",
+      "auch"
+    ]
+  },
+  {
+    "german": "Er wird die theoretische Prüfung bestehen und dann das Praktikum beginnen.",
+    "english": "He will pass the theoretical exam and then start the internship.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "dann",
+      "theoretisch",
+      "Die Prüfung",
+      "das Praktikum",
+      "bestehen",
+      "und",
+      "beginnen",
+      "werden"
+    ]
+  },
+  {
+    "german": "Er hat nur die Quantität, nicht die Qualität der Lösung berücksichtigt.",
+    "english": "He only considered the quantity, not the quality of the solution.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "die Qualität",
+      "Die Lösung",
+      "nicht",
+      "nur",
+      "haben",
+      "berücksichtigen",
+      "die Quantität"
+    ]
+  },
+  {
+    "german": "Ich möchte den Kaktus vorne im Boot platzieren.",
+    "english": "I want to place the cactus at the front of the boat.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "der Kaktus",
+      "vorne",
+      "Das Boot"
+    ]
+  },
+  {
+    "german": "Sie anweisen ihn, die Aufgabe zu beenden.",
+    "english": "She instructs him to finish the task.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "beenden",
+      "anweisen",
+      "Die Aufgabe"
+    ]
+  },
+  {
+    "german": "Sie segeln auf dem See und genießen die warme Sonne.",
+    "english": "They sail on the lake and enjoy the warm sun.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der See",
+      "Die Sonne",
+      "genießen",
+      "segeln",
+      "und",
+      "auf",
+      "warm"
+    ]
+  },
+  {
+    "german": "Weil das Lineal einzigartig ist, bezeichnen viele Menschen es als wertvolles Werkzeug.",
+    "english": "Because the ruler is unique, many people call it a valuable tool.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "das Werkzeug",
+      "einzigartig",
+      "weil",
+      "bezeichnen",
+      "das Lineal"
+    ]
+  },
+  {
+    "german": "Ohne Zweifel werden die Bohnen zu leckerem Essen verarbeitet.",
+    "english": "Without a doubt, the beans will be processed into delicious food.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "verarbeiten",
+      "der Zweifel",
+      "lecker",
+      "Das Essen",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wir werden das Debugging morgen angehen.",
+    "english": "We will tackle debugging tomorrow.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "morgen",
+      "angehen",
+      "das Debugging",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wer durchmacht den Marathon am schnellsten?",
+    "english": "Who runs the marathon fastest?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Marathon"
+    ]
+  },
+  {
+    "german": "Er fährt überraschend in die Fußgängerzone.",
+    "english": "He drives surprisingly into the pedestrian zone.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "überraschend",
+      "fahren",
+      "die Fußgängerzone"
+    ]
+  },
+  {
+    "german": "Es ist mir egal, was er denkt.",
+    "english": "It doesn't matter to me what he thinks.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "gedenken",
+      "egal"
+    ]
+  },
+  {
+    "german": "Warum ist die Antwort unüberschaubar?",
+    "english": "Why is the answer overwhelming?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "unüberschaubar",
+      "sein",
+      "warum",
+      "Die Antwort"
+    ]
+  },
+  {
+    "german": "Sie sollen sich mit den unbefriedigenden Ergebnissen auseinandersetzen.",
+    "english": "They should deal with the unsatisfactory results.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "unbefriedigend",
+      "mit",
+      "sollen"
+    ]
+  },
+  {
+    "german": "Geht die Vorstellung sinntreu mit der Wahrheit um?",
+    "english": "Does the idea deal with truth faithfully?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "abgehen",
+      "um",
+      "Die Wahrheit",
+      "sinntreu",
+      "mit",
+      "die Vorstellung"
+    ]
+  },
+  {
+    "german": "Als sie die Nachricht hörten, dass der Roller gestohlen worden war, waren sie sehr traurig und mussten ihren Traum abbrechen.",
+    "english": "When they heard that their scooter had been stolen, they were very sad and had to abandon their dream.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "abbrechen",
+      "Die Nachricht",
+      "sehr",
+      "Der Roller",
+      "der Traum",
+      "traurig",
+      "hören"
+    ]
+  },
+  {
+    "german": "Wer sehnt sich nach einer Gesellschaft, die gesellschaftlich relevant ist?",
+    "english": "Who longs for a society that is socially relevant?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Gesellschaft",
+      "nach",
+      "sehnen",
+      "gesellschaftlich"
+    ]
+  },
+  {
+    "german": "Weil sie Angst vor der Baustelle hatte, versuchte sie, sich zu beruhigen und festzulegen, dass alles in Ordnung war.",
+    "english": "Because she was afraid of the construction site, she tried to calm herself and decide that everything was okay.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "die Baustelle",
+      "beruhigen",
+      "Die Angst",
+      "die Ordnung",
+      "versuchen",
+      "weil",
+      "und"
+    ]
+  },
+  {
+    "german": "Nachdem der Buchhalter die Zahlen ausgegeben hatte, konnten sie das Siegel aufbringen, dass die Abrechnung korrekt war.",
+    "english": "After the accountant had issued the figures, they could put the seal on it that the account was correct.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "korrekt",
+      "die Zahl",
+      "aufbringen",
+      "ausgeben",
+      "das Siegel",
+      "der Buchhalter"
+    ]
+  },
+  {
+    "german": "Ich tausche dir deine Walnuss gegen meinen Löffel ein.",
+    "english": "I will exchange your walnut for my spoon.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "meinen",
+      "die Walnuss",
+      "tauschen",
+      "Der Löffel"
+    ]
+  },
+  {
+    "german": "Sie hilft ihm mit der Arbeit, auch wenn die Aufgaben nicht immer sinnvoll sind.",
+    "english": "She helps him with the work, even if the tasks are not always meaningful.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "sinnvoll",
+      "helfen",
+      "sein",
+      "nicht",
+      "auch",
+      "immer",
+      "mit"
+    ]
+  },
+  {
+    "german": "Das Kind hat sich glücklich geschmeichelt.",
+    "english": "The child felt flattered.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "Das Kind",
+      "haben",
+      "glücklich"
+    ]
+  },
+  {
+    "german": "Er erzählt dem kleinen Jungen Geschichten von seiner Kindheit.",
+    "english": "He tells the little boy stories from his childhood.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "die Geschichte",
+      "nacherzählen",
+      "jung",
+      "klein"
+    ]
+  },
+  {
+    "german": "Er wird die Fläche systematisch nutzen, um ein großes Gebäude zu errichten.",
+    "english": "He will use the area systematically to build a large building.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "systematisch",
+      "um",
+      "der Nutzen",
+      "das Gebäude",
+      "groß",
+      "die Fläche",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Nomenklatur erklärt dem Politiker den Unterschied zwischen Freihandel und Handelshemmnissen.",
+    "english": "The nomenclature explains to the politician the difference between free trade and trade barriers.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "der Unterschied",
+      "erklären",
+      "der Politiker",
+      "und",
+      "die Nomenklatur",
+      "der Freihandel"
+    ]
+  },
+  {
+    "german": "Die Oma flüchtete seitwärts, um die Gefahr zu vermeiden.",
+    "english": "Grandma fled sideways to avoid danger.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "flüchten",
+      "Die Oma",
+      "seitwärts",
+      "um",
+      "vermeiden",
+      "die Gefahr"
+    ]
+  },
+  {
+    "german": "Die Verhandlung stellt den Rhythmus richtig.",
+    "english": "The negotiation sets the rhythm correctly.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Rhythmus",
+      "richtig",
+      "stellen",
+      "die Verhandlung"
+    ]
+  },
+  {
+    "german": "Er setzt sich selbst ins Zentrum und bringt die Idee zusammen.",
+    "english": "He puts himself at the center and brings the idea together.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "bringen",
+      "zusammen",
+      "setzen",
+      "das Zentrum",
+      "und",
+      "Die Idee"
+    ]
+  },
+  {
+    "german": "Die Gruppe möchte die soziale Mobilität anreichern.",
+    "english": "The group wants to enrich social mobility.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "anreichern",
+      "die Gruppe",
+      "sozial"
+    ]
+  },
+  {
+    "german": "Glücklicherweise kamen sie sicher an ihrem Ziel an.",
+    "english": "Fortunately, they arrived safely at their destination.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "Das Ziel",
+      "sicher",
+      "glücklicherweise"
+    ]
+  },
+  {
+    "german": "Sie haben sich gegenseitig geholfen, den Bau zu beenden.",
+    "english": "They helped each other to finish the construction.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "beenden",
+      "helfen",
+      "haben",
+      "gegenseitig"
+    ]
+  },
+  {
+    "german": "Die Cousine besuchte den Ehemann am Wochenende.",
+    "english": "The cousin visited her husband on the weekend.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "das Wochenende",
+      "besuchen",
+      "Der Ehemann",
+      "Die Cousine"
+    ]
+  },
+  {
+    "german": "Sie unterrichtet die Schüler schnell und effektiv.",
+    "english": "She teaches the students quickly and effectively.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Schüler",
+      "effektiv",
+      "schnell",
+      "und",
+      "unterrichten"
+    ]
+  },
+  {
+    "german": "Können Sie leise die Muschel öffnen?",
+    "english": "Can you open the mussel quietly?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "die Muschel",
+      "öffnen",
+      "leise"
+    ]
+  },
+  {
+    "german": "Können wir die Therapie innerhalb des Teams abschließen?",
+    "english": "Can we complete the therapy within the team?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "Die Therapie",
+      "können",
+      "abschließen",
+      "das Team"
+    ]
+  },
+  {
+    "german": "Das Rennen interessiert nicht nur die Sportler, sondern auch die Zuschauer.",
+    "english": "The race interests not only the athletes but also the spectators.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sondern",
+      "nicht",
+      "nur",
+      "auch",
+      "das Rennen",
+      "interessieren"
+    ]
+  },
+  {
+    "german": "Was vereinfachen sie im Unternehmen?",
+    "english": "What do they simplify in the company?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Das Unternehmen",
+      "vereinfachen"
+    ]
+  },
+  {
+    "german": "Das Unternehmen wird die Ansicht nicht ändern.",
+    "english": "The company won't change its view.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Das Unternehmen",
+      "sich ändern",
+      "nicht",
+      "die Ansicht",
+      "werden"
+    ]
+  },
+  {
+    "german": "Er pflegte ständig seinen Aphorismus, um seine Weisheit zu zeigen.",
+    "english": "He constantly nurtured his aphorisms to display his wisdom.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "pflegen",
+      "der Aphorismus",
+      "um",
+      "ständig",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Er handelte mit dem Gast vor kurzem darüber.",
+    "english": "He recently dealt with the guest about it.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "handeln",
+      "kurz",
+      "mit",
+      "Der Gast"
+    ]
+  },
+  {
+    "german": "Du solltest begeistert über die Sonnenblume sein.",
+    "english": "You should be enthusiastic about the sunflower.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Sonnenblume",
+      "begeistert",
+      "sollen"
+    ]
+  },
+  {
+    "german": "Das Tor wird tatsächlich weggebracht.",
+    "english": "The gate is actually taken away.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "tatsächlich",
+      "werden",
+      "wegbringen",
+      "Das Tor"
+    ]
+  },
+  {
+    "german": "Wir fragen ihn gründlich nach den Details.",
+    "english": "We ask him thoroughly about the details.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "nach",
+      "gründlich",
+      "fragen"
+    ]
+  },
+  {
+    "german": "Wir werden überhaupt nicht meditieren.",
+    "english": "We won't meditate at all.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "meditieren",
+      "überhaupt",
+      "werden"
+    ]
+  },
+  {
+    "german": "Das Verlängerungskabel beinhaltet ein paar Meter extra.",
+    "english": "The extension cord includes a few extra meters.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Verlängerungskabel",
+      "beinhalten",
+      "das Paar"
+    ]
+  },
+  {
+    "german": "Versuchen Sie, das Fernweh zu verstehen?",
+    "english": "Do you try to understand wanderlust?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Fernweh",
+      "versuchen",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Der Hagel beschädigte die Fahrzeuge auf dem Parkplatz, aber niemand ignoriert es.",
+    "english": "The hail damaged the cars in the parking lot, but no one ignores it.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "niemand",
+      "aber",
+      "ignorieren",
+      "beschädigen",
+      "auf",
+      "der Hagel",
+      "Der Parkplatz"
+    ]
+  },
+  {
+    "german": "Es macht keinen Sinn, die Zeit hier aufzuerwenden.",
+    "english": "It doesn't make sense to spend time here.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "der Sinn",
+      "hier",
+      "Die Zeit",
+      "machen"
+    ]
+  },
+  {
+    "german": "Im Laufe der Zeit werden die Veränderungen immer mehr zu spüren sein.",
+    "english": "Over time, the changes will become increasingly noticeable.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "spüren",
+      "die Veränderung",
+      "laufen",
+      "immer",
+      "Die Zeit",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wissen Sie, welche Ziffer auf den Notizblock gehört?",
+    "english": "Do you know which digit belongs on the notepad?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Das Wissen",
+      "dazugehören",
+      "die Ziffer",
+      "auf",
+      "Der Notizblock"
+    ]
+  },
+  {
+    "german": "Manchmal wirken die Worte eines Freundes stärker als die von einem Elternteil.",
+    "english": "Sometimes the words of a friend have more impact than those of a parent.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "manchmal",
+      "wirken",
+      "Der Elternteil"
+    ]
+  },
+  {
+    "german": "Er bemerkt die verzögerte Reaktion des Kollegen.",
+    "english": "He notices the colleague's delayed reaction.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "verzögert",
+      "bemerken"
+    ]
+  },
+  {
+    "german": "Die Kalkulation ist für den Erfolg unbedingt wichtig.",
+    "english": "The calculation is absolutely important for success.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Kalkulation",
+      "Der Erfolg",
+      "unbedingt",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Er wird die Kollegin regelmäßig informieren.",
+    "english": "He will regularly inform the colleague.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Die Kollegin",
+      "informieren",
+      "werden",
+      "regelmäßig"
+    ]
+  },
+  {
+    "german": "Der Aal kann die Kuppel nicht verändern, weil er zu klein ist.",
+    "english": "The eel can't change the dome because it's too small.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "verändern",
+      "nicht",
+      "der Aal",
+      "die Kuppel",
+      "weil",
+      "können",
+      "klein"
+    ]
+  },
+  {
+    "german": "Sie besitzt ein aufstrebendes Interesse an Kunstgeschichte und besucht oft Ausstellungen.",
+    "english": "She possesses a burgeoning interest in art history and often visits exhibitions.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Ausstellung",
+      "und",
+      "besuchen",
+      "oft",
+      "besitzen",
+      "aufstrebend",
+      "das Interesse"
+    ]
+  },
+  {
+    "german": "Sie bedanken sich jetzt für die Hilfe bei dem Problem.",
+    "english": "They thank each other now for the help with the problem.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Hilfe",
+      "jetzt",
+      "sich bedanken",
+      "Das Problem"
+    ]
+  },
+  {
+    "german": "Das ist die respektvollste Ansprache, die ich je gehört habe.",
+    "english": "That is the most respectful address I've ever heard.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "dazugehören",
+      "haben",
+      "respektvoll"
+    ]
+  },
+  {
+    "german": "Der Cousin wandert tagsüber weiter, damit die Klimakrise nicht sein Zuhause bedroht.",
+    "english": "The cousin hikes during the day so that the climate crisis doesn't threaten his home.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "damit",
+      "sein",
+      "die Klimakrise",
+      "wandern",
+      "bedrohen",
+      "nicht",
+      "weiter",
+      "tagsüber",
+      "das Zuhause",
+      "Der Cousin"
+    ]
+  },
+  {
+    "german": "Es ist uncharakteristisch, dass er so früh aufsteht.",
+    "english": "It's uncharacteristic of him to get up so early.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "früh",
+      "uncharakteristisch"
+    ]
+  },
+  {
+    "german": "Ich kann das Geländer nicht abschirmen.",
+    "english": "I can't screen off the railing.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "das Geländer",
+      "können",
+      "abschirmen",
+      "nicht"
+    ]
+  },
+  {
+    "german": "Der Router verbindet die drei Dreiecke.",
+    "english": "The router connects the three triangles.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Dreieck",
+      "Der Router",
+      "verbinden"
+    ]
+  },
+  {
+    "german": "Der Verkäufer gibt dem Kunden einen Korb mit den Waren.",
+    "english": "The salesman gives the customer a basket with the goods.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "Der Verkäufer",
+      "Der Korb",
+      "mit"
+    ]
+  },
+  {
+    "german": "Er soll in gleicher Weise abbauen, wie ich es tue.",
+    "english": "He should dismantle it in the same way I do.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "abbauen",
+      "tun",
+      "wie",
+      "sollen",
+      "weise"
+    ]
+  },
+  {
+    "german": "Er bemisst den Wert des Lebens in seinen Momenten der Freude.",
+    "english": "He measures the value of life in his moments of joy.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "bemessen",
+      "Die Freude",
+      "der Wert"
+    ]
+  },
+  {
+    "german": "Welcher Kompromiss wird wahrscheinlich gefeiert?",
+    "english": "Which compromise will probably be celebrated?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "wahrscheinlich",
+      "feiern",
+      "welcher",
+      "der Kompromiss",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wir verteilen die Memoiren getrennt.",
+    "english": "We distribute the memoirs separately.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "verteilen",
+      "die Memoiren",
+      "getrennt"
+    ]
+  },
+  {
+    "german": "Das Silber ist wertvoller als das Grau.",
+    "english": "Silver is more valuable than gray.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "silber",
+      "sein",
+      "grau"
+    ]
+  },
+  {
+    "german": "Ein Verkehrszeichen zeigt dem Autofahrer den sicheren Weg durch die Baustelle und leitet ihn zur richtigen Abbiegung.",
+    "english": "A traffic sign shows the driver the safe way through the construction site and directs him to the correct turn.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "weg",
+      "die Baustelle",
+      "durch",
+      "leiten",
+      "das Verkehrszeichen",
+      "richtig",
+      "und",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Die Maus wird sich aufgrund von Angst in der Ecke verstecken.",
+    "english": "The mouse will hide in the corner out of fear.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Die Maus",
+      "verstecken",
+      "Die Angst",
+      "Die Ecke",
+      "werden"
+    ]
+  },
+  {
+    "german": "Treffen sich die Besucherinnen im Gegensatz zu uns?",
+    "english": "Do the visitors meet in contrast to us?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Gegensatz",
+      "aufeinandertreffen"
+    ]
+  },
+  {
+    "german": "Sie hat die Aufmerksamkeit des Publikums durch ihr schauspielerisches Auftreten gewonnen.",
+    "english": "She won the audience's attention through her acting performance.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "die Aufmerksamkeit",
+      "haben",
+      "schauspielerisch",
+      "auftreten",
+      "gewinnen",
+      "durch"
+    ]
+  },
+  {
+    "german": "In Zukunft sollen die Industrien nachhaltiger produzieren, um Ressourcen zu schonen.",
+    "english": "In the future, industries should produce more sustainably to conserve resources.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "nachhaltig",
+      "Die Zukunft",
+      "die Industrie",
+      "um",
+      "sollen",
+      "die Ressource",
+      "produzieren"
+    ]
+  },
+  {
+    "german": "Sie hindeuten auf die organische Entwicklung des Landes.",
+    "english": "They point to the organic development of the country.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "organisch",
+      "die Entwicklung",
+      "auf",
+      "hindeuten"
+    ]
+  },
+  {
+    "german": "Wann überarbeiten wir das ausführliche Dokument?",
+    "english": "When will we revise the detailed document?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Dokument",
+      "überarbeiten",
+      "ausführlich"
+    ]
+  },
+  {
+    "german": "Er wird das Hindernis in diesem Sinne analytisch betrachten.",
+    "english": "He will consider the obstacle analytically in this sense.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "der Sinn",
+      "analytisch",
+      "das Hindernis",
+      "betrachten",
+      "werden"
+    ]
+  },
+  {
+    "german": "Sie beschließen sich zu entspannen.",
+    "english": "They decide to relax.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "beschließen",
+      "entspannen"
+    ]
+  },
+  {
+    "german": "Sie schiebt den Schmetterling ihm zu, aber er weigert sich, ihn anzunehmen.",
+    "english": "She pushes the butterfly to him, but he refuses to accept it.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "schieben",
+      "aber",
+      "der Schmetterling"
+    ]
+  },
+  {
+    "german": "Bügeln Sie die Klamotten regelmäßig?",
+    "english": "Do you iron your clothes regularly?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "regelmäßig",
+      "bügeln"
+    ]
+  },
+  {
+    "german": "Sie werden die Möglichkeit produktiv nutzen.",
+    "english": "They will use the opportunity productively.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "produktiv",
+      "werden",
+      "der Nutzen",
+      "die Möglichkeit"
+    ]
+  },
+  {
+    "german": "Durchblickt der sensible Mensch durch das Chaos?",
+    "english": "Can the sensitive person see through the chaos?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "durch",
+      "durchblicken",
+      "das Chaos",
+      "Der Mensch"
+    ]
+  },
+  {
+    "german": "Der Stempel bestätigt den Reisepass, die grüne Karte gilt in der EU.",
+    "english": "The stamp confirms the passport, the green card is valid in the EU.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "bestätigen",
+      "gelten",
+      "der Reisepass",
+      "die Karte",
+      "grün",
+      "der Stempel"
+    ]
+  },
+  {
+    "german": "Ihn einzupacken ist eine Herausforderung, aber wir schaffen es.",
+    "english": "Packing him up is a challenge, but we manage it.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "schaffen",
+      "sein",
+      "aber",
+      "die Herausforderung"
+    ]
+  },
+  {
+    "german": "Sie ist daraufhin in den Spiegel geschaut und sah einen glücklich aussehenden Mann.",
+    "english": "She then looked into the mirror and saw a happy-looking man.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "daraufhin",
+      "sein",
+      "schauen",
+      "Der Mann",
+      "Der Spiegel",
+      "und",
+      "glücklich"
+    ]
+  },
+  {
+    "german": "Ich mache den Brief vollständig fertig.",
+    "english": "I finish the letter completely.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "vollständig",
+      "machen",
+      "fertig",
+      "Der Brief"
+    ]
+  },
+  {
+    "german": "Er wird die Verfassung erstaunlicherweise interpretieren.",
+    "english": "He will surprisingly interpret the constitution.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "interpretieren",
+      "die Verfassung",
+      "werden",
+      "erstaunlicherweise"
+    ]
+  },
+  {
+    "german": "Sie unterhielt die Klasse mit einer erfreulichen Geschichte.",
+    "english": "She entertained the class with a delightful story.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "die Geschichte",
+      "erfreulich",
+      "mit",
+      "die Klasse"
+    ]
+  },
+  {
+    "german": "Potenziell können die neuen Erkenntnisse den Kreislauf der Forschung verändern.",
+    "english": "Potentially, the new findings can change the cycle of research.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "können",
+      "Die Forschung",
+      "verändern"
+    ]
+  },
+  {
+    "german": "Sehen Sie sich den Satelliten geradewegs an!",
+    "english": "Look straight at the satellite!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "der Satellit",
+      "das Sehen",
+      "geradewegs"
+    ]
+  },
+  {
+    "german": "Sie dürfen das Waschbecken nicht mit Farbe befärben.",
+    "english": "You are not allowed to paint the sink with color.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "Das Waschbecken",
+      "dürfen",
+      "die Farbe",
+      "mit"
+    ]
+  },
+  {
+    "german": "Trauert die Bekannte nachlässig um ihren Freund?",
+    "english": "Does the acquaintance grieve carelessly for her friend?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "nachlässig",
+      "trauern",
+      "Der Freund",
+      "um",
+      "bekannt"
+    ]
+  },
+  {
+    "german": "Kannst du mitdenken und Ideen einbringen?",
+    "english": "Can you think along and contribute ideas?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "können",
+      "einbringen",
+      "mitdenken"
+    ]
+  },
+  {
+    "german": "Obwohl der Zusammenhang zwischen den beiden Ereignissen unklar war, druckte er das Feedback aus, um weitere Hinweise zu finden.",
+    "english": "Although the connection between the two events was unclear, he printed out the feedback to find further clues.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "finden",
+      "das Feedback",
+      "obwohl",
+      "um",
+      "der Zusammenhang",
+      "aus",
+      "drucken"
+    ]
+  },
+  {
+    "german": "Wir kürzen die Argumentation wegen der Zeit.",
+    "english": "We shorten the argumentation because of time.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Argumentation",
+      "kürzen",
+      "Die Zeit"
+    ]
+  },
+  {
+    "german": "Die Technologie kann uns helfen, den Berg zu erklimmen.",
+    "english": "Technology can help us climb the mountain.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "Der Berg",
+      "die Technologie",
+      "mithelfen"
+    ]
+  },
+  {
+    "german": "Wir werden die neuen Daten senden, sobald wir sie haben.",
+    "english": "We will send the new data as soon as we have it.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "haben",
+      "die Daten",
+      "senden",
+      "werden"
+    ]
+  },
+  {
+    "german": "Vermisst die Familie ihren Hund?",
+    "english": "Does the family miss their dog?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Hund",
+      "vermissen",
+      "die Familie"
+    ]
+  },
+  {
+    "german": "Wurde die Zeitschrift unterdessen veröffentlicht?",
+    "english": "Has the magazine been published meanwhile?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "unterdessen",
+      "die Zeitschrift",
+      "veröffentlichen"
+    ]
+  },
+  {
+    "german": "Wir spezifizieren uns gegenseitig.",
+    "english": "We specify each other.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "gegenseitig",
+      "spezifizieren"
+    ]
+  },
+  {
+    "german": "Das Kind konzentriert sich auf die Baustelle und beobachtet die Arbeiter.",
+    "english": "The child focuses on the construction site and observes the workers.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "beobachten",
+      "die Baustelle",
+      "Das Kind",
+      "und",
+      "auf",
+      "konzentriert"
+    ]
+  },
+  {
+    "german": "Die Diagnose ist schwer, aber wir können es versuchen.",
+    "english": "The diagnosis is difficult, but we can try.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "schwer",
+      "versuchen",
+      "aber",
+      "können",
+      "Die Diagnose"
+    ]
+  },
+  {
+    "german": "Die Verkäuferin informiert sich über ihre Aufgaben für den Tag.",
+    "english": "The saleswoman informs herself about her tasks for the day.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "Die Verkäuferin",
+      "informieren",
+      "Der Tag"
+    ]
+  },
+  {
+    "german": "Die Freude möchte man unbedingt teilen.",
+    "english": "One definitely wants to share the joy.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "man",
+      "Die Freude",
+      "teilen",
+      "unbedingt"
+    ]
+  },
+  {
+    "german": "Die Mannschaft produziert unter der Verantwortung des Chefs außergewöhnliche Ergebnisse.",
+    "english": "The team produces extraordinary results under the boss's responsibility.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Mannschaft",
+      "das Ergebnis",
+      "Die Verantwortung",
+      "außergewöhnlich",
+      "produzieren"
+    ]
+  },
+  {
+    "german": "Er verwendet das Rezept für einen goldenen Kuchen.",
+    "english": "He uses the recipe for a golden cake.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "aufwenden",
+      "Das Rezept",
+      "Der Kuchen"
+    ]
+  },
+  {
+    "german": "Er hat den Einbau des neuen Computers etabliert.",
+    "english": "He established the installation of the new computer.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "etablieren",
+      "haben",
+      "der Einbau"
+    ]
+  },
+  {
+    "german": "Der Dialekt wird auch aus dem Landkreis entspringen.",
+    "english": "The dialect also originates from the county.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "entspringen",
+      "der Dialekt",
+      "der Landkreis",
+      "auch",
+      "aus",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Psychologin beeindruckt die Besucherin.",
+    "english": "The psychologist impresses the visitor.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Besucherin",
+      "beeindrucken",
+      "die Psychologin"
+    ]
+  },
+  {
+    "german": "Du kannst die Schraubenzieher ausleihen, wenn du sie brauchst.",
+    "english": "You can borrow the screwdrivers if you need them.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "ausleihen",
+      "der Schraubenzieher",
+      "können",
+      "brauchen"
+    ]
+  },
+  {
+    "german": "Wie säen Sie der Welt die Möglichkeit zu einem besseren Leben?",
+    "english": "How do you sow the seeds for a better world?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "wie",
+      "die Möglichkeit",
+      "die Welt",
+      "säen",
+      "leben"
+    ]
+  },
+  {
+    "german": "Er mag Reis lieber als andere Lebensmittel, obwohl er auch gerne Pasta isst.",
+    "english": "He prefers rice over other foods, although he also likes to eat pasta.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "essen",
+      "obwohl",
+      "gerne",
+      "auch",
+      "Die Pasta",
+      "Der Reis",
+      "mögen"
+    ]
+  },
+  {
+    "german": "Wir improvisieren eine Lösung für das Problem.",
+    "english": "We improvise a solution for the problem.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "improvisieren",
+      "Das Problem",
+      "Die Lösung"
+    ]
+  },
+  {
+    "german": "Du kannst den Gegensatz anfeuern, wenn du willst.",
+    "english": "You can stoke the contrast if you want.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Gegensatz",
+      "können",
+      "anfeuern",
+      "wollen"
+    ]
+  },
+  {
+    "german": "Nutzen Sie evtl. den Determinanten in der Formel!",
+    "english": "Maybe use the determinant in the formula!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "die Formel",
+      "der Nutzen",
+      "der Determinant"
+    ]
+  },
+  {
+    "german": "Sie müssen nicht nur nachbilden, sondern auch verstehen, was der Test misst.",
+    "english": "You don't just have to imitate it, but also understand what the test measures.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "müssen",
+      "nachbilden",
+      "sondern",
+      "nicht",
+      "nur",
+      "der Test",
+      "messen",
+      "auch",
+      "verstehen"
+    ]
+  },
+  {
+    "german": "Die Professorin hat die Chemie regelmäßig erklärt.",
+    "english": "The professor regularly explained chemistry.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "die Professorin",
+      "erklären",
+      "haben",
+      "die Chemie",
+      "regelmäßig"
+    ]
+  },
+  {
+    "german": "In diesem Zusammenhang wird die erneuerbare Energie immer wichtiger werden.",
+    "english": "In this context, renewable energy will become increasingly important.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "die Energie",
+      "immer",
+      "der Zusammenhang",
+      "werden",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Wir sollen darauf achten, dass die Gemeinschaft zufrieden ist.",
+    "english": "We should pay attention that the community is happy.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "zufrieden",
+      "achten",
+      "darauf",
+      "sollen",
+      "die Gemeinschaft"
+    ]
+  },
+  {
+    "german": "Die Brücke ist länger als die Straße.",
+    "english": "The bridge is longer than the road.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Straße",
+      "sein",
+      "Die Brücke"
+    ]
+  },
+  {
+    "german": "Die Dolmetscherinnen konnten das Interesse der Experten nicht nachweisen.",
+    "english": "The interpreters were unable to prove the interest of the experts.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "die Dolmetscherin",
+      "nicht",
+      "nachweisen",
+      "das Interesse"
+    ]
+  },
+  {
+    "german": "Der Park wird unpünktlich am Morgen geöffnet werden.",
+    "english": "The park will open late in the morning.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "unpünktlich",
+      "morgen",
+      "öffnen",
+      "Der Park",
+      "werden"
+    ]
+  },
+  {
+    "german": "Müssen wir den Reißverschluss ablösen?",
+    "english": "Must we detach the zipper?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "ablösen",
+      "müssen",
+      "Der Reißverschluss"
+    ]
+  },
+  {
+    "german": "Die Unterführung ist viel kürzer als der Weg über die Straße.",
+    "english": "The underpass is much shorter than the way across the street.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Straße",
+      "sein",
+      "weg",
+      "die Unterführung"
+    ]
+  },
+  {
+    "german": "Das Kind tippt vorsichtig auf den Bildschirm.",
+    "english": "The child taps carefully on the screen.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "vorsichtig",
+      "tippen",
+      "Das Kind",
+      "Der Bildschirm",
+      "auf"
+    ]
+  },
+  {
+    "german": "Er bedrängt sie insofern, obgleich sie widerspricht.",
+    "english": "He pressures her despite her objections.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "insofern",
+      "widersprechen",
+      "bedrängen",
+      "obgleich"
+    ]
+  },
+  {
+    "german": "Sie haben den Mentor vor dem Prozessoren-Event eingewiesen.",
+    "english": "They introduced the mentor before the processor event.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "der Mentor"
+    ]
+  },
+  {
+    "german": "Das Brot ist lecker und die Ameise mag es sehr.",
+    "english": "The bread is delicious and the ant likes it very much.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "Das Brot",
+      "sein",
+      "lecker",
+      "sehr",
+      "die Ameise",
+      "und",
+      "mögen"
+    ]
+  },
+  {
+    "german": "Er beschuldigt uns, unehrlich zu sein.",
+    "english": "He accuses us of being dishonest.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "unehrlich"
+    ]
+  },
+  {
+    "german": "Bleiben Sie im Büro?",
+    "english": "Do you stay in the office?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "Das Büro",
+      "bleiben"
+    ]
+  },
+  {
+    "german": "Wir müssen die Bedrohung berechtigterweise ernst nehmen.",
+    "english": "We must take the threat seriously, rightfully so.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "ernst",
+      "nehmen",
+      "müssen",
+      "berechtigterweise",
+      "die Bedrohung"
+    ]
+  },
+  {
+    "german": "Wir dürfen das Gummi nicht verwenden, es ist kaputt.",
+    "english": "We aren't allowed to use the rubber because it's broken.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "aufwenden",
+      "nicht",
+      "kaputt",
+      "dürfen",
+      "das Gummi"
+    ]
+  },
+  {
+    "german": "Ich möchte nichtsdestoweniger an der Kette festhalten.",
+    "english": "Nevertheless, I want to hold onto the chain.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "nichtsdestoweniger",
+      "festhalten",
+      "die Kette"
+    ]
+  },
+  {
+    "german": "Er gedenkte seiner Kindheit mit geselligen Freunden.",
+    "english": "He remembered his childhood with convivial friends.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "gesellig",
+      "gedenken",
+      "mit"
+    ]
+  },
+  {
+    "german": "Der Morgen entspringt aus einer leuchtenden Theorie, die sie akzeptabel findet.",
+    "english": "Morning arises from a brilliant theory, which she finds acceptable.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "die Theorie",
+      "finden",
+      "leuchtend",
+      "morgen",
+      "entspringen",
+      "aus",
+      "akzeptabel"
+    ]
+  },
+  {
+    "german": "Er hat die Phonetik unkritisch gewertet.",
+    "english": "He rated phonetics uncritically.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "unkritisch",
+      "haben",
+      "die Phonetik"
+    ]
+  },
+  {
+    "german": "Die Zahnpasta erfrischt den Atem ziemlich gut.",
+    "english": "The toothpaste refreshes breath pretty well.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "gut",
+      "erfrischen",
+      "Der Atem",
+      "ziemlich",
+      "Die Zahnpasta"
+    ]
+  },
+  {
+    "german": "Das Testing hat die Dynamik verändert.",
+    "english": "The testing changed the dynamics.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "die Dynamik",
+      "verändern",
+      "das Testing"
+    ]
+  },
+  {
+    "german": "Offenbaren sie die Ampulle der Ausnahme?",
+    "english": "Do they reveal the exception's flask?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Ausnahme",
+      "offenbaren",
+      "die Ampulle"
+    ]
+  },
+  {
+    "german": "Er wird morgen die Quelle inbegriffen haben.",
+    "english": "He will include the source tomorrow.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "inbegriffen",
+      "die Quelle",
+      "morgen",
+      "haben",
+      "werden"
+    ]
+  },
+  {
+    "german": "Das Problem wird sich wahrscheinlich nicht einfach lösen lassen.",
+    "english": "The problem will probably not be easily solved.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "wahrscheinlich",
+      "einlösen",
+      "nicht",
+      "zulassen",
+      "Das Problem",
+      "einfach",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Akt ist weniger interessant als der Kauf, vermutlich.",
+    "english": "The act is presumably less interesting than the purchase.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "der Akt",
+      "sein",
+      "Der Kauf",
+      "interessant",
+      "vermutlich"
+    ]
+  },
+  {
+    "german": "Der Fahrplan zeigt die Abfahrtzeit an.",
+    "english": "The timetable indicates the departure time.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Fahrplan",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Er drehte seinen Blick von der gefährlichen Situation weg.",
+    "english": "He turned his gaze away from the dangerous situation.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "weg",
+      "die Situation",
+      "gefährlich",
+      "drehen"
+    ]
+  },
+  {
+    "german": "Nachdem der Junge die Lyrik studiert hat, kann er die Größe des Problems benennen und Lösungen vornehmen.",
+    "english": "After the boy studied poetry, he can name the size of the problem and take steps to solve it.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "die Größe",
+      "benennen",
+      "jung",
+      "haben",
+      "die Lyrik",
+      "vornehm",
+      "studieren",
+      "und",
+      "können"
+    ]
+  },
+  {
+    "german": "Die Kinder unterbrechen erwartungsgemäß den Rhythmus des Ministers.",
+    "english": "The children interrupt the minister's rhythm as expected.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "erwartungsgemäß",
+      "unterbrechen",
+      "der Rhythmus"
+    ]
+  },
+  {
+    "german": "Haben Sie den Parameter anwenden können?",
+    "english": "Could you apply the parameter?",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "der Parameter",
+      "können",
+      "haben",
+      "anwenden"
+    ]
+  },
+  {
+    "german": "Was wächst ständig im Museum?",
+    "english": "What grows constantly in the museum?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "ständig",
+      "wachsen",
+      "Das Museum"
+    ]
+  },
+  {
+    "german": "Der Klempner wird den Aufwand für das Projekt einschätzen.",
+    "english": "The plumber will estimate the cost for the project.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "der Klempner",
+      "einschätzen",
+      "der Aufwand",
+      "das Projekt",
+      "werden"
+    ]
+  },
+  {
+    "german": "Du wirst gelegentlich den Test formulieren.",
+    "english": "You will occasionally formulate the test.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "gelegentlich",
+      "formulieren",
+      "werden",
+      "der Test"
+    ]
+  },
+  {
+    "german": "Die Semantiken in den Texten sind oft theoretisch und oberflächlich.",
+    "english": "The semantics in the texts are often theoretical and superficial.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "theoretisch",
+      "sein",
+      "oft",
+      "und",
+      "die Semantik",
+      "oberflächlich"
+    ]
+  },
+  {
+    "german": "Der Besucher schenkt dem Museum ein altes Gemälde.",
+    "english": "The visitor gifts the museum an old painting.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Besucher",
+      "Das Museum",
+      "alt",
+      "das Gemälde",
+      "schenken"
+    ]
+  },
+  {
+    "german": "Was blüht im Frühling besonders schön?",
+    "english": "What blooms particularly beautifully in spring?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "besonders",
+      "schön",
+      "blühen",
+      "Der Frühling"
+    ]
+  },
+  {
+    "german": "In der Tat ist die Stille üppig und hart zugleich.",
+    "english": "Indeed, the silence is both abundant and harsh at the same time.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "zugleich",
+      "üppig",
+      "und",
+      "die Stille",
+      "hart"
+    ]
+  },
+  {
+    "german": "Der Golfclub bietet ihnen einen Kongenialen Ort für Treffen an.",
+    "english": "The golf club offers them a congenial place for meetings.",
+    "type": "dative",
+    "score": 4,
+    "vocab_refs": [
+      "kongenial",
+      "aufeinandertreffen",
+      "bieten",
+      "der Ort"
+    ]
+  },
+  {
+    "german": "Die Therapie strukturierte den Lebensraum für den Angeklagten.",
+    "english": "The therapy structured the living space for the defendant.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "Die Therapie",
+      "der Lebensraum",
+      "strukturiert",
+      "die Angeklagte"
+    ]
+  },
+  {
+    "german": "Der Säugling schläft ganz leise im Obergeschoss.",
+    "english": "The baby sleeps very quietly on the top floor.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "leise",
+      "ganz",
+      "der Säugling",
+      "schlafen",
+      "das Obergeschoss"
+    ]
+  },
+  {
+    "german": "Die Fotografin neigt sich über das Bild.",
+    "english": "The photographer leans over the picture.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Bild",
+      "neigen",
+      "die Fotografin"
+    ]
+  },
+  {
+    "german": "Er hat das Problem gelöst und die Krise beendet.",
+    "english": "He solved the problem and ended the crisis.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "lösen",
+      "beenden",
+      "haben",
+      "Das Problem",
+      "die Krise",
+      "und"
+    ]
+  },
+  {
+    "german": "Er duscht ab, bevor er ins Bett geht.",
+    "english": "He showers before going to bed.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Bett",
+      "ab",
+      "abgehen",
+      "duschen"
+    ]
+  },
+  {
+    "german": "Die Medien berichten oberflächlich über das Klima.",
+    "english": "The media reports superficially about the climate.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Das Klima",
+      "oberflächlich",
+      "die Medien",
+      "berichten"
+    ]
+  },
+  {
+    "german": "Der Trockner aufwärmt die Kleidung schnell und effizient.",
+    "english": "The dryer warms up the clothes quickly and efficiently.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Trockner",
+      "die Kleidung",
+      "schnell",
+      "und",
+      "effizient"
+    ]
+  },
+  {
+    "german": "Die Bedeutung des Korans ist für viele Menschen tiefgreifend und lebenswichtig.",
+    "english": "The importance of the Koran is profound and vital for many people.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "lebenswichtig",
+      "sein",
+      "die Bedeutung"
+    ]
+  },
+  {
+    "german": "Seitdem schläft der Manager in einem neuen Hotelzimmer.",
+    "english": "Since then, the manager sleeps in a new hotel room.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "seitdem",
+      "Der Manager",
+      "schlafen"
+    ]
+  },
+  {
+    "german": "Wie benehmen Sie sich im Unterricht?",
+    "english": "How do you behave in class?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Unterricht",
+      "wie",
+      "benehmen"
+    ]
+  },
+  {
+    "german": "Wie viel Zeit benötigt die Künstliche Intelligenz für das Schreiben?",
+    "english": "How much time does artificial intelligence need for writing?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "abschreiben",
+      "wie",
+      "benötigen",
+      "die Intelligenz",
+      "künstlich",
+      "Die Zeit"
+    ]
+  },
+  {
+    "german": "Das Plugin verdoppelt den Nutzen für alle Nutzer.",
+    "english": "The plugin doubles the benefit for all users.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "verdoppeln",
+      "das Plugin",
+      "der Nutzen"
+    ]
+  },
+  {
+    "german": "Bedauerlicherweise kann ich den Auftrag nicht abschneiden.",
+    "english": "Unfortunately, I cannot cut the order short.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "der Auftrag",
+      "abschneiden",
+      "nicht",
+      "bedauerlicherweise",
+      "können"
+    ]
+  },
+  {
+    "german": "Das Verhältnis zwischen den beiden Kandidaten wird dem Journalisten erklärt, und er hilft ihnen einen besseren Plan zu entwickeln.",
+    "english": "The relationship between the two candidates is explained to the journalist, and he helps them develop a better plan.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Plan",
+      "helfen",
+      "erklären",
+      "das Verhältnis",
+      "und",
+      "werden",
+      "sich entwickeln"
+    ]
+  },
+  {
+    "german": "Die Phonetik beschäftigt den Linguisten nicht mehr.",
+    "english": "Phonetics no longer occupies the linguist.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "beschäftigt",
+      "nicht",
+      "die Phonetik"
+    ]
+  },
+  {
+    "german": "Der Ausbruch hat das Team strategisch in Gefahr gebracht.",
+    "english": "The outbreak strategically put the team at risk.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "bringen",
+      "haben",
+      "strategisch",
+      "die Gefahr",
+      "der Ausbruch",
+      "das Team"
+    ]
+  },
+  {
+    "german": "Er wird das Paket wahrscheinlich nicht mehr öffnen, da es schon lange verpackt ist.",
+    "english": "He probably won't open the package anymore because it's been wrapped for a long time.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "wahrscheinlich",
+      "verpacken",
+      "nicht",
+      "da",
+      "das Paket",
+      "öffnen",
+      "schon",
+      "lange",
+      "werden"
+    ]
+  },
+  {
+    "german": "Wo schärft der Schüler sein Werkzeug?",
+    "english": "Where does the student sharpen his tool?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "das Werkzeug",
+      "schärfen",
+      "Der Schüler"
+    ]
+  },
+  {
+    "german": "Die Buchhalterin wird sich besonders wichtig fühlen.",
+    "english": "The accountant will feel particularly important.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "fühlen",
+      "die Buchhalterin",
+      "besonders",
+      "werden",
+      "wichtig"
+    ]
+  },
+  {
+    "german": "Kann der Unternehmer den Streit ausblenden?",
+    "english": "Can the entrepreneur ignore the dispute?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "ausblenden",
+      "können",
+      "der Unternehmer",
+      "der Streit"
+    ]
+  },
+  {
+    "german": "Das Essen im Restaurant war günstiger, aber nicht so lecker wie zu Hause.",
+    "english": "The food at the restaurant was cheaper but not as tasty as at home.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "wie",
+      "nicht",
+      "lecker",
+      "Das Restaurant",
+      "Das Essen",
+      "aber"
+    ]
+  },
+  {
+    "german": "Er möchte nichtsdestotrotz den Pfirsich zurückhalten.",
+    "english": "He nonetheless wants to hold back the peach.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "zurückhalten",
+      "der Pfirsich",
+      "nichtsdestotrotz"
+    ]
+  },
+  {
+    "german": "Wenn die Telefonzelle abgebrannt wäre, wäre niemand erreichbar gewesen.",
+    "english": "If the phone booth had burned down, no one would have been reachable.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Telefonzelle",
+      "niemand"
+    ]
+  },
+  {
+    "german": "Sie verbessern den Zirkus mit neuen Ideen.",
+    "english": "They improve the circus with new ideas.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "der Zirkus",
+      "mit",
+      "verbessern"
+    ]
+  },
+  {
+    "german": "Konzentrieren Sie sich auf die traditionelle Familie.",
+    "english": "Focus on the traditional family.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "auf",
+      "die Familie",
+      "konzentrieren"
+    ]
+  },
+  {
+    "german": "Er wird den Rückschlag nicht akzeptieren und sich wieder aufarbeiten.",
+    "english": "He will not accept the setback and work his way back up again.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "wieder",
+      "der Rückschlag",
+      "akzeptieren",
+      "und",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Gurke schmeckt schlecht.",
+    "english": "The cucumber tastes bad.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "schlecht",
+      "Die Gurke",
+      "schmecken"
+    ]
+  },
+  {
+    "german": "Er kann auf dem Gebiet von Literatur überheblich sein.",
+    "english": "He can be arrogant in the field of literature.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "überheblich",
+      "auf",
+      "das Gebiet",
+      "können",
+      "die Literatur"
+    ]
+  },
+  {
+    "german": "Er fügte den industriellen Prozess hinzu.",
+    "english": "He added the industrial process.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "industriell",
+      "der Prozess"
+    ]
+  },
+  {
+    "german": "Ich helfe dir mit der Präsentation.",
+    "english": "I help you with the presentation.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "helfen",
+      "mit",
+      "die Präsentation"
+    ]
+  },
+  {
+    "german": "Wann sehnen sich die Menschen nach Urlaub?",
+    "english": "When do people yearn for vacation?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "Der Urlaub",
+      "nach",
+      "sehnen"
+    ]
+  },
+  {
+    "german": "Die Organisatoren vermitteln die Informationen in gleicher Weise an alle.",
+    "english": "The organizers convey the information in the same way to everyone.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "weise",
+      "vermitteln"
+    ]
+  },
+  {
+    "german": "Er hat das Programm installiert, jedoch abgeschaltet.",
+    "english": "He installed the program but switched it off.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "Das Programm",
+      "haben",
+      "abschalten",
+      "installieren",
+      "jedoch"
+    ]
+  },
+  {
+    "german": "Der Wissenschaftler wird die Formel genau prüfen.",
+    "english": "The scientist will check the formula carefully.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "der Wissenschaftler",
+      "genau",
+      "prüfen",
+      "die Formel",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Allee ist wahrscheinlich abwartend und beobachtet uns.",
+    "english": "The alley is probably waiting and observing us.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "beobachten",
+      "sein",
+      "wahrscheinlich",
+      "abwartend",
+      "und",
+      "Die Allee"
+    ]
+  },
+  {
+    "german": "Ärgere sich jemand über den Bundesrat?",
+    "english": "Does anyone get annoyed with the Federal Council?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "jemand",
+      "der Bundesrat"
+    ]
+  },
+  {
+    "german": "Das Schlagzeug klingt kontinuierlich, während die Gitarre sporadisch ist.",
+    "english": "The drums sound continuously, while the guitar sounds intermittently.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "während",
+      "klingen",
+      "kontinuierlich",
+      "das Schlagzeug",
+      "die Gitarre"
+    ]
+  },
+  {
+    "german": "Wir gehen los, um unsere Großmutter zu besuchen, die uns jeden Tag zum Frühstück einlädt.",
+    "english": "We're going to visit our grandmother who invites us for breakfast every day.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "los",
+      "Die Großmutter",
+      "abgehen",
+      "besuchen",
+      "um",
+      "Das Frühstück",
+      "Der Tag"
+    ]
+  },
+  {
+    "german": "Erfahren Sie mehr über die exotische Sprache!",
+    "english": "Learn more about the exotic language!",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "Die Sprache",
+      "exotisch",
+      "erfahren"
+    ]
+  },
+  {
+    "german": "Die Astronautin wird die Weltanschauung authentisch erklären.",
+    "english": "The astronaut will explain the worldview authentically.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "erklären",
+      "die Astronautin",
+      "authentisch",
+      "die Weltanschauung",
+      "werden"
+    ]
+  },
+  {
+    "german": "Merkwürdigerweise versagen die Hase manchmal ihre eigenen Versuche.",
+    "english": "Remarkably, the hares sometimes fail their own attempts.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "versuchen",
+      "merkwürdigerweise",
+      "der Hase",
+      "das Versagen",
+      "manchmal"
+    ]
+  },
+  {
+    "german": "Wir achten auf die Eigenschaft der Lavendelpflanze.",
+    "english": "We pay attention to the property of the lavender plant.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "auf",
+      "die Eigenschaft",
+      "achten"
+    ]
+  },
+  {
+    "german": "Das Szenario berührt viele Menschen.",
+    "english": "The scenario affects many people.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "berühren",
+      "das Szenario"
+    ]
+  },
+  {
+    "german": "Wir sollen die Ampelanlage vor dem neuen Monat einbauen.",
+    "english": "We should install the traffic light system before next month.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "die Ampelanlage",
+      "neu",
+      "einbauen",
+      "sollen",
+      "Der Monat"
+    ]
+  },
+  {
+    "german": "Sie entlarvt den Betrüger gründlich.",
+    "english": "She thoroughly exposes the fraudster.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "gründlich",
+      "entlarven"
+    ]
+  },
+  {
+    "german": "Das Knie wird ungemein schmerzen, wenn ich nicht aufhöre zu rennen.",
+    "english": "My knee will hurt immensely if I don't stop running.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "Das Knie",
+      "das Rennen",
+      "ungemein",
+      "werden"
+    ]
+  },
+  {
+    "german": "Voraussagen sie den Widerstand?",
+    "english": "Do you predict resistance?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "voraussagen",
+      "der Widerstand"
+    ]
+  },
+  {
+    "german": "Ich besinne mich auf die Behaglichkeit eines gemütlichen Abends zu Hause.",
+    "english": "I recall the coziness of a comfortable evening at home.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "gemütlich",
+      "auf",
+      "besinnen",
+      "abends"
+    ]
+  },
+  {
+    "german": "Er verinnerlichte die neuen Erkenntnisse aus dem Referat.",
+    "english": "He internalized the new insights from the presentation.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "das Referat",
+      "neu",
+      "verinnerlichen",
+      "aus"
+    ]
+  },
+  {
+    "german": "Wir werden die Dialektik in der Algebra entwerfen und unterbrechen.",
+    "english": "We will design and interrupt the dialectic in algebra.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "unterbrechen",
+      "die Dialektik",
+      "entwerfen",
+      "die Algebra",
+      "und",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Architekt zeigt dem Bauherren einen Plan des Hauses und erklärt ihm die Details.",
+    "english": "The architect shows the builder a plan of the house and explains the details to him.",
+    "type": "nominative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Plan",
+      "Der Architekt",
+      "erklären",
+      "und",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Die Pläne werden validieren, um die Gleichheit zu sichern.",
+    "english": "The plans will be validated to ensure equality.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "um",
+      "validieren",
+      "die Gleichheit",
+      "werden",
+      "sichern"
+    ]
+  },
+  {
+    "german": "Welchen Sinn hat die Physik?",
+    "english": "What is the point of physics?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Sinn",
+      "die Physik",
+      "haben"
+    ]
+  },
+  {
+    "german": "Lohnt sich die Kommunikation trotz der unvertrauten Lage?",
+    "english": "Is communication worthwhile despite the unfamiliar situation?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Lage",
+      "unvertraut",
+      "trotz",
+      "lohnen",
+      "Die Kommunikation"
+    ]
+  },
+  {
+    "german": "Der Hurrikan war am schwersten in seiner Geschichte.",
+    "english": "The hurricane was the most severe in its history.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "schwer",
+      "die Geschichte",
+      "der Hurrikan"
+    ]
+  },
+  {
+    "german": "Das Radfahren wird in der Stadt immer beliebter werden.",
+    "english": "Cycling will become increasingly popular in the city.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "Die Stadt",
+      "das Radfahren",
+      "beliebt",
+      "immer",
+      "werden"
+    ]
+  },
+  {
+    "german": "Die Mitarbeiter müssen den Vertrag vor dem Meeting abschließen.",
+    "english": "The employees must finalize the contract before the meeting.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "das Meeting",
+      "müssen",
+      "Der Vertrag",
+      "abschließen",
+      "Der Mitarbeiter"
+    ]
+  },
+  {
+    "german": "Arbeitet sie trotz des Feiertags?",
+    "english": "Does she work despite the holiday?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "trotz",
+      "laborieren"
+    ]
+  },
+  {
+    "german": "Sie hat die Optimierung gefördert, um bessere Ergebnisse zu erzielen.",
+    "english": "She promoted optimization to achieve better results.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "die Optimierung",
+      "haben",
+      "fördern",
+      "das Ergebnis",
+      "um"
+    ]
+  },
+  {
+    "german": "Die Ampel leitet den Verkehr.",
+    "english": "The traffic light directs traffic.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "leiten",
+      "Die Ampel"
+    ]
+  },
+  {
+    "german": "Die Untersuchung ist der kohärentesten Teil des Projekts.",
+    "english": "The investigation is the most coherent part of the project.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "Die Untersuchung",
+      "der Teil"
+    ]
+  },
+  {
+    "german": "Welche Geige passt am besten zum Stück?",
+    "english": "Which violin best suits the piece?",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Geige",
+      "passen"
+    ]
+  },
+  {
+    "german": "Die Epoche prägte den Marathon mit neuen Regeln.",
+    "english": "The era shaped the marathon with new rules.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "die Epoche",
+      "die Regel",
+      "prägen",
+      "der Marathon",
+      "mit"
+    ]
+  },
+  {
+    "german": "Ich erinnere mich an das soziologische Glossar aus der Vergangenheit.",
+    "english": "I remember the sociological glossary from the past.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "soziologisch",
+      "das Glossar",
+      "erinnern",
+      "aus",
+      "Die Vergangenheit"
+    ]
+  },
+  {
+    "german": "Die Managerin hat ihn nicht entlassen, obwohl er unberechtigt war.",
+    "english": "The manager did not fire him even though he was unjustified.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "entlassen",
+      "Die Managerin",
+      "unberechtigt",
+      "nicht",
+      "haben",
+      "obwohl"
+    ]
+  },
+  {
+    "german": "Der Mann steigert seine Muskeln vor allem.",
+    "english": "The man increases his muscles above all else.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Mann",
+      "steigern"
+    ]
+  },
+  {
+    "german": "Wer argumentiert normalerweise mit den anderen?",
+    "english": "Who usually argues with the others?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "argumentieren",
+      "mit",
+      "normalerweise"
+    ]
+  },
+  {
+    "german": "Möglicherweise entdeckte der Junge einen verlorenen Parkschein im Park.",
+    "english": "Perhaps the boy discovered a lost parking ticket in the park.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "jung",
+      "möglicherweise",
+      "entdecken",
+      "Der Park",
+      "der Parkschein"
+    ]
+  },
+  {
+    "german": "Das Bildungssystem war behäbig und veraltet.",
+    "english": "The education system was slow-moving and outdated.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "das Bildungssystem",
+      "und",
+      "behäbig",
+      "veraltet"
+    ]
+  },
+  {
+    "german": "Sie werden nachweisen, dass das Bakterium gefährlich ist.",
+    "english": "They will prove that the bacterium is dangerous.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "das Bakterium",
+      "gefährlich",
+      "nachweisen",
+      "werden"
+    ]
+  },
+  {
+    "german": "Er sagte sich verabschieden, weil er lange nicht mehr in Deutschland war und dort viele neue Freunde gefunden hatte.",
+    "english": "He said goodbye because he hadn't been back in Germany for a long time and had made many new friends there.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "finden",
+      "dort",
+      "neu",
+      "nicht",
+      "sagen",
+      "lange",
+      "weil",
+      "und",
+      "verabschieden"
+    ]
+  },
+  {
+    "german": "Der Lieferwagen aussetzt seine Ladung am Flughafen.",
+    "english": "The delivery truck unloads its cargo at the airport.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Der Flughafen",
+      "Der Lieferwagen"
+    ]
+  },
+  {
+    "german": "Wer versucht, die Umlaufbahn zu erreichen?",
+    "english": "Who tries to reach the orbit?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Umlaufbahn",
+      "erreichen",
+      "versuchen"
+    ]
+  },
+  {
+    "german": "Er hat das Zertifikat für die Arbeit bekommen.",
+    "english": "He received the certificate for the work.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "bekommen",
+      "haben",
+      "das Zertifikat"
+    ]
+  },
+  {
+    "german": "Du kannst den Terminplaner lediglich benutzen, wenn du ihn hast.",
+    "english": "You can only use the agenda if you have it.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "benutzen",
+      "der Terminplaner",
+      "haben",
+      "lediglich",
+      "können"
+    ]
+  },
+  {
+    "german": "Die duftende Blume entspannt die müde Seele.",
+    "english": "The fragrant flower relaxes the weary soul.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "die Seele",
+      "duftend",
+      "entspannt",
+      "Die Blume",
+      "müde"
+    ]
+  },
+  {
+    "german": "Die Abstraktionen wurden dezent in den Text integriert.",
+    "english": "The abstractions were integrated discreetly into the text.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "dezent",
+      "Der Text",
+      "integriert",
+      "die Abstraktion"
+    ]
+  },
+  {
+    "german": "Das Museum entspricht den modernen Sicherheitsstandards.",
+    "english": "The museum meets modern safety standards.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "entsprechen",
+      "modern",
+      "Das Museum"
+    ]
+  },
+  {
+    "german": "Vertrauenswürdig ist die Buchhalterin?",
+    "english": "Is the accountant trustworthy?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "die Buchhalterin",
+      "sein",
+      "vertrauenswürdig"
+    ]
+  },
+  {
+    "german": "Der Tourismus etabliert neue Routen neben dem Meer.",
+    "english": "Tourism establishes new routes next to the sea.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "neben",
+      "neu",
+      "der Tourismus",
+      "etablieren",
+      "Das Meer"
+    ]
+  },
+  {
+    "german": "Lesen Sie den Text aufmerksam.",
+    "english": "Read the text carefully.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "Der Text",
+      "aufmerksam",
+      "lesen"
+    ]
+  },
+  {
+    "german": "Sie möchten den Rock sofort anschaffen.",
+    "english": "They want to buy the rock immediately.",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "sofort",
+      "Der Rock",
+      "anschaffen"
+    ]
+  },
+  {
+    "german": "Wie teilen wir das Formular ein?",
+    "english": "How do we divide the form?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "das Formular",
+      "teilen",
+      "wie"
+    ]
+  },
+  {
+    "german": "Ist die Perspektive bekannt oder verborgen?",
+    "english": "Is the perspective known or hidden?",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Perspektive",
+      "verborgen",
+      "bekannt",
+      "oder"
+    ]
+  },
+  {
+    "german": "Er schaut eingehend die Situation an.",
+    "english": "He examines the situation closely.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "schauen",
+      "eingehend",
+      "die Situation"
+    ]
+  },
+  {
+    "german": "Ich möchte mitkommen, aber ich muss ungern meine Arbeit abbrechen.",
+    "english": "I would like to come along, but I am reluctant to interrupt my work.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "müssen",
+      "abbrechen",
+      "aber",
+      "mitkommen",
+      "meinen",
+      "ungern"
+    ]
+  },
+  {
+    "german": "Wir freuen uns, dass er sich umformt.",
+    "english": "We're glad that he transforms himself.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "freuen",
+      "umformen"
+    ]
+  },
+  {
+    "german": "Wir hängen die Struktur sorgfältig an die Wand.",
+    "english": "We carefully hang the structure on the wall.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Struktur",
+      "sorgfältig",
+      "Die Wand",
+      "hängen"
+    ]
+  },
+  {
+    "german": "Können Sie das System annullieren?",
+    "english": "Can you cancel the system?",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "können",
+      "Das System",
+      "annullieren"
+    ]
+  },
+  {
+    "german": "Sie kontrollieren sich selbstständig.",
+    "english": "They control themselves independently.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "kontrollieren",
+      "selbstständig"
+    ]
+  },
+  {
+    "german": "Der Fisch auslösen eine Reaktion in mir.",
+    "english": "The fish triggers a reaction in me.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "auslösen",
+      "Der Fisch"
+    ]
+  },
+  {
+    "german": "Der Daumen wird uns signalisieren, dass alles gut ist.",
+    "english": "The thumbs up will signal that everything is fine.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "gut",
+      "sein",
+      "werden",
+      "Der Daumen"
+    ]
+  },
+  {
+    "german": "Der Diplomat besuchte gleichzeitig die Töchter aus drei verschiedenen Ländern.",
+    "english": "The diplomat visited the daughters from three different countries simultaneously.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "gleichzeitig",
+      "aus",
+      "der Diplomat",
+      "besuchen"
+    ]
+  },
+  {
+    "german": "Die Voicemail tippen wir verständlicherweise nicht.",
+    "english": "We understandably don't type on the voicemail.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "die Voicemail",
+      "nicht",
+      "tippen",
+      "verständlicherweise"
+    ]
+  },
+  {
+    "german": "Ich sehe ihn, der in den Wald geht.",
+    "english": "I see him going into the forest.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "abgehen",
+      "sehen",
+      "Der Wald"
+    ]
+  },
+  {
+    "german": "Können wir das Fechten anprobieren und uns kurzfristig messen, wenn wir möchten?",
+    "english": "Can we try fencing and see who's better quickly if we want?",
+    "type": "modal",
+    "score": 5,
+    "vocab_refs": [
+      "die Messe",
+      "das Fechten",
+      "anprobieren",
+      "und",
+      "können",
+      "kurzfristig"
+    ]
+  },
+  {
+    "german": "Können die Versionierungen fein angepasst werden?",
+    "english": "Can the versions be finely adjusted?",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "sich anpassen",
+      "die Versionierung",
+      "können",
+      "fein",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Marathon begann besonders früh und endete laut den Regeln.",
+    "english": "The marathon started particularly early and ended according to the rules.",
+    "type": "preterite",
+    "score": 5,
+    "vocab_refs": [
+      "und",
+      "früh",
+      "enden",
+      "die Regel",
+      "besonders",
+      "der Marathon",
+      "laut"
+    ]
+  },
+  {
+    "german": "Wann springen wir aus dem Flugzeug?",
+    "english": "When do we jump out of the plane?",
+    "type": "w_question",
+    "score": 5,
+    "vocab_refs": [
+      "springen",
+      "Das Flugzeug",
+      "aus"
+    ]
+  },
+  {
+    "german": "Die Farbe des Autos ist unverständlich für mich.",
+    "english": "The color of the car is incomprehensible to me.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "die Farbe",
+      "unverständlich",
+      "sein"
+    ]
+  },
+  {
+    "german": "Die Programmiererin erklärt dem Kollegen die neuen Funktionen.",
+    "english": "The programmer explains the new features to the colleague.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "neu",
+      "Die Programmiererin",
+      "die Funktion",
+      "erklären"
+    ]
+  },
+  {
+    "german": "Er trägt den Traum von einer besseren Zukunft in seinem Herzen.",
+    "english": "He carries the dream of a better future in his heart.",
+    "type": "separable",
+    "score": 5,
+    "vocab_refs": [
+      "der Traum",
+      "Die Zukunft",
+      "Das Herz",
+      "tragen"
+    ]
+  },
+  {
+    "german": "Das Methan wird unter Berücksichtigung der Umwelt eingesetzt.",
+    "english": "Methane is used taking environmental factors into consideration.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Methan",
+      "die Umwelt",
+      "werden",
+      "einsetzen"
+    ]
+  },
+  {
+    "german": "Das Kind gibt einem Passanten die Blumen für seine Mutter.",
+    "english": "The child gives a passerby the flowers for his mother.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "Das Kind",
+      "geben",
+      "Die Mutter"
+    ]
+  },
+  {
+    "german": "Der Priester verehrt die Sprache des Herzens.",
+    "english": "The priest reveres the language of the heart.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "Die Sprache",
+      "der Priester",
+      "verehren"
+    ]
+  },
+  {
+    "german": "Du hast dich selbst überlistet, indem du versuchst, den Plan zu ändern.",
+    "english": "You have outsmarted yourself by trying to change the plan.",
+    "type": "reflexive",
+    "score": 5,
+    "vocab_refs": [
+      "sich ändern",
+      "Der Plan",
+      "haben",
+      "versuchen"
+    ]
+  },
+  {
+    "german": "Die Mehrheit hat die Socke anprobiert.",
+    "english": "The majority has tried on the sock.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "Die Socke",
+      "haben",
+      "die Mehrheit",
+      "anprobieren"
+    ]
+  },
+  {
+    "german": "Sogar wenn der Aal exotisch glänzt, können viele Menschen ihn nicht mögen.",
+    "english": "Even if the eel shines exotically, many people cannot like it.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sogar",
+      "nicht",
+      "der Aal",
+      "exotisch",
+      "glänzen",
+      "können",
+      "mögen"
+    ]
+  },
+  {
+    "german": "Sie werden die Prähistorisches Werk mit modernen Methoden wuchten.",
+    "english": "They will excavate the prehistoric artifact with modern methods.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "prähistorisches",
+      "modern",
+      "die Methode",
+      "das Werk",
+      "mit",
+      "werden"
+    ]
+  },
+  {
+    "german": "Der Finger zeigte auf die ungenauen Angaben im Bericht.",
+    "english": "The finger pointed to the inaccurate information in the report.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "Der Finger",
+      "ungenau",
+      "Der Bericht",
+      "auf",
+      "zeigen"
+    ]
+  },
+  {
+    "german": "Die Strafe ist kürzfristig weniger hart als erwartet.",
+    "english": "The punishment is less harsh in the short term than expected.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "hart",
+      "die Strafe",
+      "sein",
+      "erwarten"
+    ]
+  },
+  {
+    "german": "Wir transformieren die Daten einmal täglich.",
+    "english": "We transform the data once a day.",
+    "type": "plural",
+    "score": 5,
+    "vocab_refs": [
+      "einmal",
+      "transformieren",
+      "täglich",
+      "die Daten"
+    ]
+  },
+  {
+    "german": "Wir haben die Verschmutzung bedauert und versucht, sie zu reduzieren.",
+    "english": "We regretted the pollution and tried to reduce it.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "bedauern",
+      "versuchen",
+      "die Verschmutzung",
+      "und"
+    ]
+  },
+  {
+    "german": "Sie haben die Situation nicht ignoriert und protestiert.",
+    "english": "They did not ignore the situation and protested.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "nicht",
+      "haben",
+      "die Situation",
+      "ignorieren",
+      "und",
+      "protestieren"
+    ]
+  },
+  {
+    "german": "Verteilen Sie die Karten gleichmäßig.",
+    "english": "Distribute the cards evenly.",
+    "type": "imperative",
+    "score": 5,
+    "vocab_refs": [
+      "verteilen",
+      "die Karte",
+      "gleichmäßig"
+    ]
+  },
+  {
+    "german": "Müssen Sie den Sitz waschen?",
+    "english": "Must you wash the seat?",
+    "type": "yn_question",
+    "score": 5,
+    "vocab_refs": [
+      "der Sitz",
+      "müssen",
+      "waschen"
+    ]
+  },
+  {
+    "german": "Der Rücken des Mannes ist stark und gesund.",
+    "english": "The man's back is strong and healthy.",
+    "type": "genitive",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "gesund",
+      "und",
+      "stark",
+      "Der Rücken"
+    ]
+  },
+  {
+    "german": "Die Sehnsucht verändert ihre Einstellung allmählich.",
+    "english": "The yearning gradually changes her attitude.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Einstellung",
+      "allmählich",
+      "verändern",
+      "die Sehnsucht"
+    ]
+  },
+  {
+    "german": "Nachdem der Permafrost geschmolzen war, quantifizierten die Wissenschaftler den Wasserverlust ein bisschen genauer.",
+    "english": "After the permafrost melted, the scientists quantified the water loss a bit more precisely.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "der Wissenschaftler",
+      "quantifizieren",
+      "der Permafrost",
+      "ein bisschen",
+      "geschmolzen"
+    ]
+  },
+  {
+    "german": "Wenn Sie feststellen, dass der Spargel nicht frisch ist, sollten Sie ihn keinesfalls kaufen, weil es die Qualität beeinträchtigen könnte.",
+    "english": "If you notice that the asparagus isn't fresh, you should definitely not buy it because it could affect its quality.",
+    "type": "subclause",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "die Qualität",
+      "frisch",
+      "nicht",
+      "keinesfalls",
+      "feststellen",
+      "sollen",
+      "kaufen",
+      "weil",
+      "können",
+      "Der Spargel"
+    ]
+  },
+  {
+    "german": "Ich möchte die Gerechtigkeit für ihn erreichen.",
+    "english": "I want to achieve justice for him.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "die Gerechtigkeit",
+      "erreichen"
+    ]
+  },
+  {
+    "german": "Die Versicherung ist in der Regel zuverlässig, aber nicht sozial.",
+    "english": "Insurance is usually reliable but not social.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "zuverlässig",
+      "sozial",
+      "die Versicherung",
+      "nicht",
+      "die Regel",
+      "aber"
+    ]
+  },
+  {
+    "german": "Die Spülmaschine nimmt das Element ab, wenn es schmutzig ist.",
+    "english": "The dishwasher takes off the element when it's dirty.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "schmutzig",
+      "nehmen",
+      "Die Spülmaschine",
+      "das Element",
+      "ab"
+    ]
+  },
+  {
+    "german": "Ich werde den Satz begründen, weil er ausdrucksstark ist.",
+    "english": "I will justify the sentence because it is expressive.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "sein",
+      "begründen",
+      "weil",
+      "ausdrucksstark",
+      "Der Satz",
+      "werden"
+    ]
+  },
+  {
+    "german": "Das Restaurant erwartet viele Gäste am Wochenende.",
+    "english": "The restaurant expects many guests on the weekend.",
+    "type": "present",
+    "score": 5,
+    "vocab_refs": [
+      "das Wochenende",
+      "Das Restaurant",
+      "erwarten"
+    ]
+  },
+  {
+    "german": "Er hat sich mit seinem Vorgesetzten über das Projekt zusammengesetzt und ausgetauscht.",
+    "english": "He sat down with his supervisor and exchanged ideas about the project.",
+    "type": "perfect",
+    "score": 5,
+    "vocab_refs": [
+      "haben",
+      "zusammensetzen",
+      "das Projekt",
+      "austauschen",
+      "und",
+      "mit"
+    ]
+  },
+  {
+    "german": "Der Manager erklärt seine Meinung klar und prägnant.",
+    "english": "The manager explains his opinion clearly and concisely.",
+    "type": "comparative",
+    "score": 5,
+    "vocab_refs": [
+      "die Meinung",
+      "erklären",
+      "prägnant",
+      "klar",
+      "und",
+      "Der Manager"
+    ]
+  },
+  {
+    "german": "Die Funktion wird bedauerlicherweise vernachlässigt werden.",
+    "english": "The function will unfortunately be neglected.",
+    "type": "future",
+    "score": 5,
+    "vocab_refs": [
+      "bedauerlicherweise",
+      "die Funktion",
+      "werden"
+    ]
+  },
+  {
+    "german": "Sie geben mir ein Geschenk zu meinem Geburtstag.",
+    "english": "They give me a present for my birthday.",
+    "type": "dative",
+    "score": 5,
+    "vocab_refs": [
+      "geben",
+      "der Geburtstag"
+    ]
+  },
+  {
+    "german": "Sie pfeift einen exzellenten Song.",
+    "english": "She whistles an excellent song.",
+    "type": "accusative",
+    "score": 5,
+    "vocab_refs": [
+      "pfeifen"
+    ]
+  }
+]

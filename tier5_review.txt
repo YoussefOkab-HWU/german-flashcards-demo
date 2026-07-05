@@ -1,0 +1,204 @@
+Tier 5 words flagged as fake but needing manual review
+============================================================
+
+antipathetisch
+  → likely real adjective (antipathetic)
+
+astrophysikalische
+  → inflected form of astrophysikalisch
+
+ausklingen  [in grammar.json]
+  → real German separable verb (to fade out/die away)
+
+ausschmeißen  [in grammar.json]
+  → real German separable verb (to throw out)
+
+beflüstert
+  → past participle / inflected form
+
+begründungslos
+  → compound adjective, may exist
+
+bewusstseinsfähig
+  → compound, may exist
+
+branchig
+  → questionable
+
+brillen
+  → plural of Brille? listed as verb by mistake?
+
+bürgeln
+  → questionable
+
+bürgerschaftlich
+  → compound adjective, may exist
+
+das Abstrakte  [in grammar.json]
+  → nominalised adjective, may exist
+
+der Lehraufbau  [in grammar.json]
+  → compound noun, may exist
+
+die Grundlegung  [in grammar.json]
+  → compound noun, may exist (foundation)
+
+die Jargonbildung  [in grammar.json]
+  → compound noun, may exist
+
+die Thesenanalyse  [in grammar.json]
+  → compound noun, may exist
+
+dissoziieren  [in grammar.json]
+  → real German verb (to dissociate)
+
+effektiverweise
+  → adverb, may exist
+
+elendselig
+  → compound adjective, may exist
+
+ergebnisorientiert
+  → real German adjective (results-oriented)
+
+erinnerungsreich
+  → compound adjective, may exist
+
+formgebenden
+  → inflected form of formgebend
+
+friedensliebend
+  → real German compound adjective (peace-loving)
+
+früchten
+  → questionable verb form
+
+grundlegen  [in grammar.json]
+  → likely real separable verb
+
+haltern
+  → questionable
+
+hierarchisieren  [in grammar.json]
+  → real German verb, academic usage
+
+hypothetisieren  [in grammar.json]
+  → questionable — may exist in academic German
+
+idealisch
+  → should be idealistisch? may exist regionally
+
+individualistisch
+  → real German adjective (individualistic)
+
+inklusiv
+  → real German adjective (inclusive)
+
+insignifikant
+  → real German adjective (insignificant)
+
+kartentechnisch
+  → compound adjective, may exist
+
+katalysieren  [in grammar.json]
+  → real German verb (to catalyze)
+
+klarerweise
+  → real Austrian German adverb (clearly)
+
+komplexitätsreich
+  → compound adjective, may exist
+
+konkurrent
+  → may exist as adjective (competing)
+
+kontextualisieren  [in grammar.json]
+  → real German verb, academic usage
+
+konzeptionalisieren  [in grammar.json]
+  → academic German, may exist
+
+leistungssorientiert
+  → real German adjective (performance-oriented)
+
+meinungsstark
+  → compound adjective, may exist
+
+multidisziplinär
+  → real German adjective (multidisciplinary)
+
+neuordnen  [in grammar.json]
+  → real German separable verb (to reorganize)
+
+nuttig
+  → questionable / colloquial
+
+perspektivieren  [in grammar.json]
+  → academic German verb
+
+persönlichkeitszentriert
+  → compound, may exist
+
+präferenzen
+  → plural form — should be die Präferenz
+
+pseudonymieren  [in grammar.json]
+  → may exist (to pseudonymize)
+
+reinterpretieren  [in grammar.json]
+  → real German verb (to reinterpret)
+
+rekombinieren  [in grammar.json]
+  → real German verb (to recombine)
+
+rekonstruktiv
+  → may exist as adjective
+
+rezeptorientiert
+  → compound, may exist
+
+routinisieren  [in grammar.json]
+  → questionable
+
+schuldbehaftete
+  → inflected adjective form
+
+sensibilität
+  → should be die Sensibilität (missing article)
+
+sicherhaft
+  → questionable
+
+sozialisieren  [in grammar.json]
+  → real German verb (to socialize)
+
+sozialkompetent
+  → compound, may exist
+
+spekulationen
+  → plural form — should be die Spekulation
+
+stillgeboren
+  → real German adjective (stillborn)
+
+strategischerweise
+  → adverb, may exist
+
+strategisieren
+  → questionable
+
+strebenorientiert
+  → compound, questionable
+
+unzweifelbar
+  → real German adverb (undoubtedly)
+
+verbotsverachtend
+  → compound, may exist
+
+visionieren  [in grammar.json]
+  → questionable
+
+zwar...aber
+  → real German conjunction pair
+

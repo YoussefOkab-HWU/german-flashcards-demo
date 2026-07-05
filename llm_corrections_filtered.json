@@ -1,0 +1,3680 @@
+{
+  "unterbrechen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "unterbrauchst",
+        "correct": "unterbricht",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "schneien": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "schneie",
+        "correct": "schneien",
+        "reason": "Incorrect present tense conjugation for 'ich'."
+      }
+    ],
+    "type": "verb"
+  },
+  "wehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "geweht",
+        "correct": "gewehen",
+        "reason": "Incorrect Partizip II for 'wehen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "empfangen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "empfangen",
+        "correct": "er empfangen",
+        "reason": "Partizip II for regular verbs is ge- + stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "verdienen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "verdients",
+        "correct": "verdient",
+        "reason": "Partizip II of regular verbs is ge- + stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "sich langweilen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "mich langweiled",
+        "correct": "habe mich langweilen",
+        "reason": "Incorrect Partizip II for separable verbs. It should be 'ge- + prefix + stem'"
+      }
+    ],
+    "type": "verb"
+  },
+  "erfinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "erfundenst",
+        "correct": "erfindest",
+        "reason": "Incorrect conjugation for du. It should be 'erfindest'."
+      }
+    ],
+    "type": "verb"
+  },
+  "gefallen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "gefallst",
+        "correct": "fällt",
+        "reason": "Incorrect conjugation for 'du'. It should be 'fällt'."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "gefallen",
+        "correct": "fällt",
+        "reason": "Incorrect conjugation for 'er/sie/es'. It should be 'fällt'."
+      },
+      {
+        "field": "wir",
+        "current": "gefallen",
+        "correct": "fallen",
+        "reason": "Incorrect conjugation for 'wir'. It should be 'fallen'."
+      },
+      {
+        "field": "ihr",
+        "current": "gefallt",
+        "correct": "fällt",
+        "reason": "Incorrect conjugation for 'ihr'. It should be 'fällt'."
+      },
+      {
+        "field": "Sie",
+        "current": "gefallen",
+        "correct": "fallen",
+        "reason": "Incorrect conjugation for 'Sie'. It should be 'fallen'."
+      }
+    ],
+    "type": "verb"
+  },
+  "genügen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "genügt",
+        "correct": "genug",
+        "reason": "Partizip II of 'genügen' is 'genugt'"
+      }
+    ],
+    "type": "verb"
+  },
+  "geschehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "geschehe",
+        "correct": "geschieht",
+        "reason": "Strong verb, vowel change in ich"
+      }
+    ],
+    "type": "verb"
+  },
+  "misstrauen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "misstraut",
+        "correct": "gemisstraut",
+        "reason": "Irregular verb, use 'ge-' + stem + '-t'"
+      }
+    ],
+    "type": "verb"
+  },
+  "entschuldigen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "mich entschuldigt",
+        "correct": "sich entschuldigt",
+        "reason": "The reflexive pronoun 'sich' is needed in the perfect tense of 'entschuldigung'."
+      }
+    ],
+    "type": "verb"
+  },
+  "nicken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "gekniect",
+        "correct": "geknickt",
+        "reason": "Incorrect Partizip II formation for nicken."
+      }
+    ],
+    "type": "verb"
+  },
+  "anbraten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "brate an",
+        "correct": "bräute an",
+        "reason": "Strong verb, vowel change in du/er"
+      }
+    ],
+    "type": "verb"
+  },
+  "aufessen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "esse auf",
+        "correct": "ich esse auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "du",
+        "current": "isst auf",
+        "correct": "du isst auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "isst auf",
+        "correct": "er/sie/es isst auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "wir",
+        "current": "essen auf",
+        "correct": "wir essen auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "ihr",
+        "current": "esst auf",
+        "correct": "ihr esst auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "Sie",
+        "current": "essen auf",
+        "correct": "Sie essen auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      }
+    ],
+    "type": "verb"
+  },
+  "aufheben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "hebt auf",
+        "correct": "hebst auf",
+        "reason": "The separable prefix 'auf' should be attached to the end of the verb stem in the du form."
+      }
+    ],
+    "type": "verb"
+  },
+  "bedanken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "mich bedankt",
+        "correct": "sich bedankt",
+        "reason": "The reflexive pronoun 'sich' is used in the perfect tense of 'bedanken'."
+      }
+    ],
+    "type": "verb"
+  },
+  "beeinflussen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "beeinflusse",
+        "correct": "beeinflusst",
+        "reason": "Present tense conjugation error: -e ending for ich is incorrect."
+      }
+    ],
+    "type": "verb"
+  },
+  "beraten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "beraten",
+        "correct": "beratent",
+        "reason": "Partizip II of -ieren verbs is stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "bereiten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "bereitet",
+        "correct": "bereitgemacht",
+        "reason": "Partizip II of separable verbs has ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "empfinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "engempft",
+        "correct": "empfunden",
+        "reason": "Incorrect Partizip II for 'empfinden'"
+      }
+    ],
+    "type": "verb"
+  },
+  "enthalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "enthältst",
+        "correct": "enthaltst",
+        "reason": "Incorrect spelling of 'halt'"
+      },
+      {
+        "field": "ich",
+        "current": "enthalte",
+        "correct": "enthält",
+        "reason": "Present tense conjugation is incorrect"
+      }
+    ],
+    "type": "verb"
+  },
+  "entlaufen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ihr",
+        "current": "entrennt",
+        "correct": "entlaufen",
+        "reason": "Inseparable prefixes never split. It should be entlaufen."
+      }
+    ],
+    "type": "verb"
+  },
+  "erhalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "erhalten",
+        "correct": "gehalten",
+        "reason": "Partizip II of 'erhalten' is 'gehalten'"
+      }
+    ],
+    "type": "verb"
+  },
+  "funktionieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "funktioniert",
+        "correct": "hat funktioniert",
+        "reason": "Partizip II is incorrect for separable verbs"
+      }
+    ],
+    "type": "verb"
+  },
+  "stattfinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "finde statt",
+        "correct": "findet statt",
+        "reason": "Subject-verb agreement error. 'Ich' should agree with the verb 'finden'."
+      }
+    ],
+    "type": "verb"
+  },
+  "abklingen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "klingst ab",
+        "correct": "klingt ab",
+        "reason": "Strong verb, vowel change in du/er"
+      }
+    ],
+    "type": "verb"
+  },
+  "ausrechnen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "rechnen aus",
+        "correct": "rechne aus",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "ausrichten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "ausrichtende",
+        "correct": "ausgerichtet",
+        "reason": "Partizip II of separable verbs: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "berichtigen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ihr",
+        "current": "berichtet",
+        "correct": "berichtigen",
+        "reason": "ihr uses the same conjugation as Sie"
+      }
+    ],
+    "type": "verb"
+  },
+  "beteiligen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "be tertarik",
+        "correct": "beteiligt",
+        "reason": "Incorrect Partizip II for 'beteiligen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "eingeben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "gebe ein",
+        "correct": "gibst ein",
+        "reason": "Incorrect conjugation for 'du' form of the verb."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "eingegeben",
+        "correct": "einggegeben",
+        "reason": "Incorrect spelling of the past participle."
+      }
+    ],
+    "type": "verb"
+  },
+  "einplanen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "plane ein",
+        "correct": "einplanen",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "planst ein",
+        "correct": "plant ein",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "planen ein",
+        "correct": "einplanen",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "plant ein",
+        "correct": "einplant",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "planen ein",
+        "correct": "einplanen",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "einteilen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "eingeteilt",
+        "correct": "einteilt",
+        "reason": "Partizip II for inseparable prefix verbs is stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "entschließen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "entschließest",
+        "correct": "entschließt",
+        "reason": "Du/Er/Sie uses -t ending in present tense"
+      }
+    ],
+    "type": "verb"
+  },
+  "fortschreiten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "schreitest",
+        "correct": "schrittest",
+        "reason": "Strong verb, vowel change in du/er"
+      }
+    ],
+    "type": "verb"
+  },
+  "freimachen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "freimähest",
+        "correct": "freimachst",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "gemacht",
+        "correct": "aufgemacht",
+        "reason": "Separable non-ieren: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "freilassen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "gefreit",
+        "correct": "frei",
+        "reason": "Partizip II of separable verbs: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "jubeln": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "jubelt",
+        "correct": "jubelst",
+        "reason": "Incorrect conjugation for du in the present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "knipsen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "knissest",
+        "correct": "knipst",
+        "reason": "Incorrect conjugation for du. It should be 'knipst'."
+      }
+    ],
+    "type": "verb"
+  },
+  "kooperieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "kooperiert",
+        "correct": "geko cooperated",
+        "reason": "Partizip II for -ieren verbs is ge- + stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "lauschen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "gehört",
+        "correct": "gelauscht",
+        "reason": "Partizip II of lauschen is gelauscht, not gehört."
+      }
+    ],
+    "type": "verb"
+  },
+  "riechen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "geruht",
+        "correct": "geruchten",
+        "reason": "Incorrect Partizip II for 'riechen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "ruhen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "gebrochen",
+        "correct": "ruhen",
+        "reason": "The past participle of 'ruhen' is 'erruht', not 'gebrochen'."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich bedanken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "mich bedankt",
+        "correct": "hat sich bedankt",
+        "reason": "Partizip II needs auxiliary verb 'haben' in the Perfekt tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich einigen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "einige mich",
+        "correct": "einigen sich",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "einigst dich",
+        "correct": "einigt euch",
+        "reason": "The conjugation for 'ihr' is incorrect."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "geeinigt",
+        "correct": "eingestimmt",
+        "reason": "The correct Partizip II for 'sich einigen' is 'eingestimmt'."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich verspäten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "verspätete mich",
+        "correct": "verspäte mich",
+        "reason": "Incorrect conjugation of 'sich verspäten' in the present tense. It should be 'ich verspäte mich'."
+      }
+    ],
+    "type": "verb"
+  },
+  "überlegen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "überlegt",
+        "correct": "überlegen",
+        "reason": "Partizip II of 'überlegen' is 'überlegt', not 'überlegen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "umgehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "gehe um",
+        "correct": "umgehe",
+        "reason": "Incorrect conjugation for 'gehen'. It's 'umgehen' in the present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "unterhalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "unterhalten",
+        "correct": "beunterhalten",
+        "reason": "Partizip II of separable verbs: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "verändern": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "verändert",
+        "correct": "geändert",
+        "reason": "Partizip II of separable verbs has 'ge-' prefix"
+      }
+    ],
+    "type": "verb"
+  },
+  "verdoppeln": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "verdoppelt",
+        "correct": "verdoppeln",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "verdoppelt",
+        "correct": "verdoppeln",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "verschicken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "er/sie/es",
+        "current": "verschiebt",
+        "correct": "verschickt",
+        "reason": "Incorrect conjugation for 3rd person singular present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "voranschreiten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "schreiten vor",
+        "correct": "vorschritt",
+        "reason": "Incorrect conjugation of the separable prefix verb."
+      },
+      {
+        "field": "du",
+        "current": "schreitest voran",
+        "correct": "schrittest voran",
+        "reason": "Incorrect conjugation of the separable prefix verb."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "schreitet voran",
+        "correct": "schritt voran",
+        "reason": "Incorrect conjugation of the separable prefix verb."
+      }
+    ],
+    "type": "verb"
+  },
+  "vormerken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "vor merke",
+        "correct": "vormerkt",
+        "reason": "Incorrect conjugation in present tense. It should be 'vormerkt'."
+      }
+    ],
+    "type": "verb"
+  },
+  "weitergeben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "werde weitergeben",
+        "correct": "gibst weiter",
+        "reason": "Incorrect conjugation for 'weitergeben' in the present tense. It follows the pattern of strong verbs."
+      }
+    ],
+    "type": "verb"
+  },
+  "zumuten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "mute zu",
+        "correct": "zumute",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'zumute'."
+      },
+      {
+        "field": "du",
+        "current": "mutest zu",
+        "correct": "zumutest",
+        "reason": "Incorrect conjugation for 'du'. The prefix splits off."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "mutet zu",
+        "correct": "zumentiert",
+        "reason": "Incorrect conjugation for 'er/sie/es'. The prefix splits off."
+      }
+    ],
+    "type": "verb"
+  },
+  "ansparen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "spare an",
+        "correct": "spare",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "sparst an",
+        "correct": "sparst",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "spart an",
+        "correct": "spart",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "sparen an",
+        "correct": "sparen",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "spart an",
+        "correct": "spart",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "sparen an",
+        "correct": "sparen",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "aufforsten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "forste auf",
+        "correct": "ich forste auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "du",
+        "current": "forstest auf",
+        "correct": "du forst auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "forstet auf",
+        "correct": "er forstet auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      }
+    ],
+    "type": "verb"
+  },
+  "ausdehnen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "dehne aus",
+        "correct": "dehnen aus",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "einbinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "bin einbindend",
+        "correct": "binde ein",
+        "reason": "Incorrect conjugation for 'einbinden' in the present tense. It should be 'binde ein'."
+      }
+    ],
+    "type": "verb"
+  },
+  "einschleifen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "einge-",
+        "correct": "eingeschleift",
+        "reason": "Separable prefix verbs need ge- between prefix and stem in Partizip II"
+      }
+    ],
+    "type": "verb"
+  },
+  "ermahnen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "ermahnt",
+        "correct": "ermahntest",
+        "reason": "Present tense du ending should be -est, not -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "erschöpfen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "ermüdet",
+        "correct": "erschöpft",
+        "reason": "Partizip II of erschöpfen is erschöpft, not ermüdet."
+      }
+    ],
+    "type": "verb"
+  },
+  "erstaunen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "erstaunte",
+        "correct": "erstaue",
+        "reason": "Incorrect conjugation for 'ich' in present tense."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "erstaunt",
+        "correct": "erstaunert",
+        "reason": "Incorrect Partizip II form. It should be 'erstaunert'."
+      }
+    ],
+    "type": "verb"
+  },
+  "genesen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "genese",
+        "correct": "genesen",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'genesen'."
+      }
+    ],
+    "type": "verb"
+  },
+  "geraten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "geratest",
+        "correct": "gerattest",
+        "reason": "Incorrect ending for du form."
+      }
+    ],
+    "type": "verb"
+  },
+  "rechen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "rechest",
+        "correct": "rechnest",
+        "reason": "Incorrect ending for du form of regular verb."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "recht",
+        "correct": "rechnet",
+        "reason": "Incorrect ending for er/sie/es form of regular verb."
+      },
+      {
+        "field": "ihr",
+        "current": "recht",
+        "correct": "rechnet",
+        "reason": "Incorrect ending for ihr form of regular verb."
+      }
+    ],
+    "type": "verb"
+  },
+  "schweißen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "schweist",
+        "correct": "schweißt",
+        "reason": "Strong verb, vowel change in du/er"
+      }
+    ],
+    "type": "verb"
+  },
+  "schrubben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "geputzt",
+        "correct": "geschrubbt",
+        "reason": "Partizip II of schrubben is geschrubbt, not geputzt"
+      }
+    ],
+    "type": "verb"
+  },
+  "umsehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "schaue um",
+        "correct": "sehen um",
+        "reason": "Present tense conjugation incorrect. Should be 'sehen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "verheiraten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "verheiratet",
+        "correct": "geheiratet",
+        "reason": "Partizip II of separable verbs has 'ge-' prefix"
+      }
+    ],
+    "type": "verb"
+  },
+  "vortäuschen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "vortäuschend",
+        "correct": "vortäuschen",
+        "reason": "Partizip II for separable verbs is prefix + stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "zukleben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "klebe zu",
+        "correct": "zukleben",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "kleben zu",
+        "correct": "zukleben",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "kleben zu",
+        "correct": "zukleben",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "geklebt",
+        "correct": "zuglebt",
+        "reason": "Separable non-ieren: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "zusammenklappen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "klappen zusammen",
+        "correct": "klappt zusammen",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "anlasten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "laste an",
+        "correct": "anlasten",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      },
+      {
+        "field": "du",
+        "current": "lastest an",
+        "correct": "anlastest",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "lastet an",
+        "correct": "anlasten",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      },
+      {
+        "field": "wir",
+        "current": "lasten an",
+        "correct": "anlasten",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      },
+      {
+        "field": "ihr",
+        "current": "lastet an",
+        "correct": "anlasten",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      },
+      {
+        "field": "Sie",
+        "current": "lasten an",
+        "correct": "anlasten",
+        "reason": "Separable verbs: prefix stays with the verb in present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "anprobieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "probiere an",
+        "correct": "anprobiere",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "probierst an",
+        "correct": "anprobierst",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "probiert an",
+        "correct": "anprobiert",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "probieren an",
+        "correct": "anprobieren",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "probiert an",
+        "correct": "anprobieren",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "probieren an",
+        "correct": "anprobieren",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "einengen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "eingedrangenen",
+        "correct": "eingengt",
+        "reason": "Partizip II of separable verbs: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "eintauchen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "eingetankt",
+        "correct": "eingetaucht",
+        "reason": "Incorrect Partizip II for eintauchen"
+      }
+    ],
+    "type": "verb"
+  },
+  "sich eignen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "eigne mich",
+        "correct": "eigent sich",
+        "reason": "Separable prefixes split in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "eignest dich",
+        "correct": "eigent dich",
+        "reason": "Separable prefixes split in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "eigenen uns",
+        "correct": "eigent sich",
+        "reason": "Consistent conjugation for all persons."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich gewöhnen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "mich gewöhnt",
+        "correct": "sich gewöhnt",
+        "reason": "The reflexive pronoun 'sich' is used in the perfect participle of reflexive verbs."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich lohnen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "lohne mich",
+        "correct": "lohnt sich",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "lohnst dich",
+        "correct": "lohnt sich",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "lohnen uns",
+        "correct": "lohnen sich",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "lohnt euch",
+        "correct": "lohnen sich",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich verlassen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "verlassen",
+        "correct": "sich verlassen",
+        "reason": "Partizip II needs to include the reflexive pronoun 'sich'"
+      }
+    ],
+    "type": "verb"
+  },
+  "vorenthalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "enthältst vor",
+        "correct": "vorderhältst",
+        "reason": "Separable prefix, moves to the end."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "enthält vor",
+        "correct": "vorderhält",
+        "reason": "Separable prefix, moves to the end."
+      },
+      {
+        "field": "ihr",
+        "current": "enthaltet vor",
+        "correct": "vorderhaltet",
+        "reason": "Separable prefix, moves to the end."
+      },
+      {
+        "field": "Sie",
+        "current": "enthalten vor",
+        "correct": "vorderhalten",
+        "reason": "Separable prefix, moves to the end."
+      }
+    ],
+    "type": "verb"
+  },
+  "zustehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "zugestanden",
+        "correct": "zustehend",
+        "reason": "Partizip II of 'zustehen' is 'zustehend', not 'zugestanden'."
+      }
+    ],
+    "type": "verb"
+  },
+  "abdriften": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "driefe",
+        "correct": "abdrifts",
+        "reason": "Incorrect conjugation for 'abdriften' in the present tense. It should be 'abdrifts'."
+      }
+    ],
+    "type": "verb"
+  },
+  "abgehen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "gehe",
+        "correct": "abgehe",
+        "reason": "Incorrect conjugation for the infinitive 'abgehen'"
+      }
+    ],
+    "type": "verb"
+  },
+  "abkommen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "komme ab",
+        "correct": "komm ab",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'komm ab'."
+      }
+    ],
+    "type": "verb"
+  },
+  "aufbewahren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "bewaehrst auf",
+        "correct": "bewahrst auf",
+        "reason": "Incorrect spelling of 'wahrst'"
+      }
+    ],
+    "type": "verb"
+  },
+  "ausbreiten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "braithst",
+        "correct": "breitest",
+        "reason": "Incorrect spelling of 'breitest'"
+      }
+    ],
+    "type": "verb"
+  },
+  "bemessen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "gemes sen",
+        "correct": "gemeßt",
+        "reason": "Partizip II incorrect"
+      }
+    ],
+    "type": "verb"
+  },
+  "einklingen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "klingt ein",
+        "correct": "einklingt",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "klingen ein",
+        "correct": "einklingen",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "klingen ein",
+        "correct": "einklingen",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "eingeklungen",
+        "correct": "eingeklingt",
+        "reason": "Partizip II for separable verbs: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "einsparen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "spare ein",
+        "correct": "einsparst",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "sparst ein",
+        "correct": "sparstein",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "sparen ein",
+        "correct": "einsparren",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "spart ein",
+        "correct": "spartet ein",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "sparen ein",
+        "correct": "einsparren",
+        "reason": "Separable verbs: prefix splits off in conjugated forms."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "gespart",
+        "correct": "eingespart",
+        "reason": "Separable non-ieren: ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "gleichstellen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "geglichen",
+        "correct": "gleichgestellt",
+        "reason": "Partizip II of 'gleichstellen' is 'gleichgestellt', not 'geglichen'."
+      }
+    ],
+    "type": "verb"
+  },
+  "gutschreiben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "schreibe gutz",
+        "correct": "gutschreibe",
+        "reason": "Separable prefix should be at the end: gutschreiben → ich gutschreibe"
+      }
+    ],
+    "type": "verb"
+  },
+  "mindern": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ihr",
+        "current": "minderung",
+        "correct": "mindert",
+        "reason": "Incorrect conjugation for 'ihr'. It should follow the same pattern as 'er/sie/es'."
+      }
+    ],
+    "type": "verb"
+  },
+  "nieten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "genietet",
+        "correct": "genagelt",
+        "reason": "Incorrect Partizip II for 'niete' (to nail). It should be 'genagelt', not 'genietet'."
+      }
+    ],
+    "type": "verb"
+  },
+  "sich beschweren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "beschwere mich",
+        "correct": "beschwert sich",
+        "reason": "The reflexive verb 'sich beschweren' requires the reflexive pronoun 'sich' in all conjugations."
+      }
+    ],
+    "type": "verb"
+  },
+  "der Akt": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Akt is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der April": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die April",
+        "correct": "die Apríle",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Biber": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Biber is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Cent": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Cent",
+        "correct": "die Cents",
+        "reason": "Plural of 'Cent' is 'Cents'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Commit": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Commit is a feminine noun."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Deckel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Deckel is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Dezember": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Dezember",
+        "correct": "die Dezembers",
+        "reason": "The plural of 'Dezember' is 'Dezember'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Dramatiker": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Dramatiker is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Dramatikerinnen",
+        "correct": "die Dramatiker",
+        "reason": "The plural of Dramatiker should be Dramatiker, not Dramatikerinnen."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Dschungel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Dschungel",
+        "correct": "die Dschungeln",
+        "reason": "Incorrect pluralization"
+      }
+    ],
+    "type": "noun"
+  },
+  "das Eisen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Eisen",
+        "correct": "das Eisen",
+        "reason": "The plural of 'Eisen' is unchanged."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Elektriker": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Elektriker is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Elektrikerinnen",
+        "correct": "die Elektriker",
+        "reason": "The plural of Elektriker is Elektriker, not Elektrikerinnen."
+      }
+    ],
+    "type": "noun"
+  },
+  "die Ernährung": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Ernährungen",
+        "correct": "die Ernährungs",
+        "reason": "Incorrect plural formation for nouns ending in -ung."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Farmer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Farmer",
+        "correct": "die Bauern",
+        "reason": "The plural of Farmer is Bauer."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Fazit": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Fazite",
+        "correct": "die Fazit",
+        "reason": "Plural of 'Fazit' is 'Fazit'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Februar": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Februare",
+        "correct": "die Februar",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "das Feedback": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Feedbacks",
+        "correct": "kein Plural",
+        "reason": "Feedback is uncountable"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Löwenzahn": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Löwenzahn is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Mai": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Mais",
+        "correct": "die Maien",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Merge": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns starting with 'M' are usually feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Mittwoch": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Mittwoche",
+        "correct": "die Mittwochs",
+        "reason": "Plural of 'Mittwoch' is 'Mittwochs'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Montag": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Montage",
+        "correct": "die Montags",
+        "reason": "Plural of 'Montag' is 'Montags'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der MRT": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die MRTs",
+        "correct": "die MRTE",
+        "reason": "Plural of 'MRT' is 'MRTE'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Oktober": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Oktober",
+        "correct": "die Oktobers",
+        "reason": "Plural of nouns ending in -er is usually formed by adding -s"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Optiker": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Optiker is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Optikerinnen",
+        "correct": "die Optiker",
+        "reason": "The plural of Optiker should be Optiker, not Optikerinnen."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Photovoltaik": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Photovoltaik is a feminine noun."
+      },
+      {
+        "field": "plural",
+        "current": "die Photovoltaik",
+        "correct": "die Photovoltaiken",
+        "reason": "The plural of -ik nouns is usually -en"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Pinsel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Pinsel is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "die Pragmatik": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Pragmatikken",
+        "correct": "die Pragmatik",
+        "reason": "Nouns ending in -ik form their plural by adding -en."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Puder": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Puder",
+        "correct": "kein Plural",
+        "reason": "Puder is uncountable"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Rabbiner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Rabbiner is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Rauch": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Rauche",
+        "correct": "die Rauch",
+        "reason": "Plural of 'Rauch' is 'Rauch'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Reifenwechsel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Reifenwechsel",
+        "correct": "die Reifenwechsle",
+        "reason": "Incorrect pluralization"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Rentner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Rentner is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Rentnerinnen",
+        "correct": "die Rentner",
+        "reason": "The plural of 'Rentner' is 'Rentner', not 'Rentnerinnen'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Schnupfen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Noun 'Schnupfen' is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Führer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Führerinnen",
+        "correct": "die Führer",
+        "reason": "The plural of 'Führer' is 'Führer', not 'Führerinnen'."
+      }
+    ],
+    "type": "noun"
+  },
+  "die Geduld": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Gedulden",
+        "correct": "keine Plural",
+        "reason": "Geduld is uncountable"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Spieler": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Spieler is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Sport": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "kein Plural",
+        "correct": "die Sport",
+        "reason": "Sport is a masculine noun, so its plural is 'die Sport'."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Stereotyp": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Stereotype",
+        "correct": "die Stereotypen",
+        "reason": "Incorrect pluralization.  Nouns ending in -Typ usually form the plural with -e."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Gif": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Gifs",
+        "correct": "die Gifte",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Glaube": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Glauben",
+        "correct": "die Glaubens",
+        "reason": "Plural of -e ending nouns is usually -en"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Golf": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Golfe",
+        "correct": "die Golfs",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Strukturwandel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns referring to processes or changes are usually feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Hagel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Hagel is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Teiler": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "das",
+        "correct": "die",
+        "reason": "Nouns referring to female persons are feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Teilerinnen",
+        "correct": "die Teiler",
+        "reason": "The plural of 'Teiler' is formed by adding '-er' to the singular form."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Tempel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Tempel is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Tennis": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "kein Plural",
+        "correct": "die Tennisse",
+        "reason": "Nouns ending in -is usually form the plural with -e"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Terminplaner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Terminplaner is a noun ending in -er, which is typically feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Hummer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Hummer is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Hummer",
+        "correct": "die Hummern",
+        "reason": "The plural of Hummer is Hummern."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Hurrikan": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Hurrikan is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Trainer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Trainer is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Trainerinnen",
+        "correct": "die Trainer",
+        "reason": "Trainerinnen refers to female trainers, while the plural of Trainer should be Trainer."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Unterricht": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "kein Plural",
+        "correct": "die Unterrichts",
+        "reason": "Unterricht is a masculine noun, so its plural is 'die Unterrichts'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Juli": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Julis",
+        "correct": "die Juli",
+        "reason": "Months are usually pluralized by adding -e"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Kellner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Kellner is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Kellnerinnen",
+        "correct": "die Kellner",
+        "reason": "Kellnerinnen is the plural of 'female waiter', not 'waiter'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Ketchup": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Ketchup is a feminine noun."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Klempner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Klempner is a masculine noun, but the plural form uses 'die' which is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Konsens": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Konsense",
+        "correct": "die Konsensen",
+        "reason": "Plural of -ens is -en"
+      }
+    ],
+    "type": "noun"
+  },
+  "die Wirtschaft": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Wirtschaften",
+        "correct": "die Wirtschafts",
+        "reason": "Incorrect pluralization of 'Wirtschaft'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Wissenschaftler": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Wissenschaftler is masculine, but the plural form uses 'die'."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Wohlbefinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Wohlbefindens",
+        "correct": "die Wohlbefinden",
+        "reason": "Plural of nouns ending in -en/-ionen is the same as singular form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Käfer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Käfer is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "das Ladekabel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Ladekabel",
+        "correct": "die LadeKabel",
+        "reason": "Capitalization error"
+      }
+    ],
+    "type": "noun"
+  },
+  "das Cloud-Computing": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "das",
+        "correct": "die",
+        "reason": "Nouns referring to concepts are usually feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Kalkulationsfehler": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Noun referring to a feminine concept."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Igel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "The noun 'Igel' is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Cousin": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Cousin is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Fahrer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Fahrer is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Manager": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Manager is feminine."
+      },
+      {
+        "field": "plural",
+        "current": "die Managerinnen und die Manager",
+        "correct": "die Managerinnen",
+        "reason": "The plural of 'Manager' is 'Managerin'."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Forscher": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Forscher is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Gärtner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Gärtner is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Kleiderbügel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns referring to objects are feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Das Essen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Essen",
+        "correct": "das Essen",
+        "reason": "Essen is uncountable and does not have a plural form."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Käse": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Käse",
+        "correct": "die Käses",
+        "reason": "Plural of 'Käse' is 'Käse'"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Knoblauch": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Knoblauch is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Brokkoli": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Brokkoli is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Blumenkohl": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Blumenkohl is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Mais": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Mais is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Kohl": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "kein Plural",
+        "correct": "die Kohls",
+        "reason": "Kohl is a noun that takes the plural 'die Kohls'"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Spargel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Spargel is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Die Pasta": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Pastas",
+        "correct": "die Pasten",
+        "reason": "Incorrect plural form for 'Pasta'"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Schinken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Schinken is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Honig": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Honig is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Zucker": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Zucker",
+        "correct": "die Zuckers",
+        "reason": "Plural of nouns ending in -er is usually formed by adding -s"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Pfeffer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Pfeffer",
+        "correct": "die Pfeffern",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Essig": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Essig is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Kaffee": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Kaffee is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Tee": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Tee is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Das Wasser": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Wasser",
+        "correct": "das Wasser",
+        "reason": "Wasser is uncountable and does not have a plural form."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Kakao": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Kakao is a feminine noun."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Cappuccino": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Cappuccino is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Joghurt": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns referring to food are typically feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Bilderrahmen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns referring to objects are feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Tunnel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Tunnels are feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Pullover": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Pullover is feminine."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Gürtel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Gürtel is a feminine noun."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Himmel": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Himmel",
+        "correct": "die Himmels",
+        "reason": "The plural of Himmel is Himmels"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Schnee": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "kein Plural",
+        "correct": "die Schnees",
+        "reason": "Snow is a countable noun in this context"
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Donner": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Donner",
+        "correct": "die Donners",
+        "reason": "The plural of Donner is Donners."
+      }
+    ],
+    "type": "noun"
+  },
+  "Das Klima": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Klimas",
+        "correct": "die Klimata",
+        "reason": "Incorrect plural form. The noun 'Klima' has a feminine singular and plural form of 'Klimata'."
+      }
+    ],
+    "type": "noun"
+  },
+  "Der Winter": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Winter",
+        "correct": "die Winters",
+        "reason": "The plural of Winter is Winters"
+      }
+    ],
+    "type": "noun"
+  },
+  "Das Wissen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Wissen",
+        "correct": "Wissen",
+        "reason": "Nouns ending in -wissen are uncountable and do not have a plural form."
+      }
+    ],
+    "type": "noun"
+  },
+  "eingestalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "gestalte ein",
+        "correct": "eingestaltest",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingestaltest'."
+      },
+      {
+        "field": "du",
+        "current": "gestaltest ein",
+        "correct": "eingestaltst",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingestaltst'."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "gestaltet ein",
+        "correct": "eingestaltet",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingestaltet'."
+      },
+      {
+        "field": "wir",
+        "current": "gestalten ein",
+        "correct": "eingegestalten",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingegestalten'."
+      },
+      {
+        "field": "ihr",
+        "current": "gestaltest ein",
+        "correct": "eingestaltst",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingestaltst'."
+      },
+      {
+        "field": "Sie",
+        "current": "gestalten ein",
+        "correct": "eingegestalten",
+        "reason": "Incorrect conjugation for the present tense. It should be 'eingegestalten'."
+      }
+    ],
+    "type": "verb"
+  },
+  "erraten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "erraten",
+        "correct": "gerraten",
+        "reason": "Partizip II of erraten is gerät, not erraten"
+      }
+    ],
+    "type": "verb"
+  },
+  "evaluieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "evaluiert",
+        "correct": "eingevaluiert",
+        "reason": "Separable prefix, ge- between prefix and stem"
+      }
+    ],
+    "type": "verb"
+  },
+  "exploitieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "exploitiert",
+        "correct": "ausgebeutet",
+        "reason": "Exploitieren is an irregular verb with a different perfect participle."
+      }
+    ],
+    "type": "verb"
+  },
+  "laborieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "laboriert",
+        "correct": "gearbeitet",
+        "reason": "Laborieren is a separable verb, so the Partizip II should be 'gearbeitet'."
+      }
+    ],
+    "type": "verb"
+  },
+  "revolutionäre": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "revolutioniert",
+        "correct": "ge revolutioniert",
+        "reason": "Irregular verbs with separable prefixes use 'ge-' before the stem."
+      }
+    ],
+    "type": "verb"
+  },
+  "rühren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "rüre",
+        "correct": "rühre",
+        "reason": "Incorrect stem vowel in present tense ich."
+      }
+    ],
+    "type": "verb"
+  },
+  "schmücken": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "schmeckst",
+        "correct": "schmückst",
+        "reason": "Incorrect conjugation for 'du'. It should be schmückst."
+      }
+    ],
+    "type": "verb"
+  },
+  "selektieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "selektioniere",
+        "correct": "selektiere",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'selektiere'."
+      }
+    ],
+    "type": "verb"
+  },
+  "übersteuern": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "übersteuert",
+        "correct": "übergesteuert",
+        "reason": "Partizip II of regular verbs ends in -t, not -ert"
+      }
+    ],
+    "type": "verb"
+  },
+  "unterbinden": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "geunterbnden",
+        "correct": "unterbunden",
+        "reason": "Incorrect Partizip II formation for separable verbs."
+      }
+    ],
+    "type": "verb"
+  },
+  "kumulieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "kumulieren",
+        "correct": "kumuliere",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'kumuliere'."
+      }
+    ],
+    "type": "verb"
+  },
+  "logarithmieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "logarithmiert",
+        "correct": "gelogarithmiert",
+        "reason": "Partizip II for -ieren verbs: NO ge-, stem+-t"
+      }
+    ],
+    "type": "verb"
+  },
+  "sensibelisieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "sensibelisiere",
+        "correct": "sensibelisiert",
+        "reason": "Incorrect conjugation for the first person singular present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "abändern": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "ändere ab",
+        "correct": "abänder",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'abänder' not 'ändere ab'."
+      }
+    ],
+    "type": "verb"
+  },
+  "ausnutzen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "nützt aus",
+        "correct": "nutzt aus",
+        "reason": "Strong verb, vowel change in du/er"
+      }
+    ],
+    "type": "verb"
+  },
+  "ausprägen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "extremst aus",
+        "correct": "äußerst aus",
+        "reason": "Incorrect spelling of 'äußerst'"
+      }
+    ],
+    "type": "verb"
+  },
+  "brechen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "braucht",
+        "correct": "brauchst",
+        "reason": "Incorrect conjugation for 'du'. Should be 'brauchst'."
+      }
+    ],
+    "type": "verb"
+  },
+  "dikutieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "dikutiere",
+        "correct": "dikutieren",
+        "reason": "Missing 'e' before '-st/-t'"
+      }
+    ],
+    "type": "verb"
+  },
+  "grundlegen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ihr",
+        "current": "legen grund",
+        "correct": "legt grund",
+        "reason": "Missing the -e ending for ihr in the present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "heraufbeschwören": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "heraufbeschworst",
+        "correct": "heraufbeschwöre",
+        "reason": "Incorrect conjugation for du form of the verb."
+      }
+    ],
+    "type": "verb"
+  },
+  "nominieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "nomiiniere",
+        "correct": "nominieren",
+        "reason": "Incorrect spelling"
+      }
+    ],
+    "type": "verb"
+  },
+  "persiflieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "persifliert",
+        "correct": "persifliiert",
+        "reason": "Partizip II of -ieren verbs is formed with stem + -iert"
+      }
+    ],
+    "type": "verb"
+  },
+  "scharfstellen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "scharf stelle",
+        "correct": "scharfstellt",
+        "reason": "Missing the -e- before -st for verbs ending in -t/-d"
+      }
+    ],
+    "type": "verb"
+  },
+  "schlüsseln": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "schlüssle",
+        "correct": "schlüsseln",
+        "reason": "Regular -eln verbs contract in the ich form: schlüssele"
+      }
+    ],
+    "type": "verb"
+  },
+  "fortentwickeln": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "entwickelst fort",
+        "correct": "entwickelst",
+        "reason": "Separable prefixes move to the end."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "entwickelt fort",
+        "correct": "entwickelt",
+        "reason": "Separable prefixes move to the end."
+      },
+      {
+        "field": "wir",
+        "current": "entwickeln fort",
+        "correct": "entwickeln",
+        "reason": "Separable prefixes move to the end."
+      },
+      {
+        "field": "ihr",
+        "current": "entwickelt fort",
+        "correct": "entwickelt",
+        "reason": "Separable prefixes move to the end."
+      },
+      {
+        "field": "Sie",
+        "current": "entwickeln fort",
+        "correct": "entwickeln",
+        "reason": "Separable prefixes move to the end."
+      }
+    ],
+    "type": "verb"
+  },
+  "fundieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "fündiere",
+        "correct": "fundiere",
+        "reason": "Incorrect stem vowel in present tense conjugation."
+      },
+      {
+        "field": "du",
+        "current": "fündierst",
+        "correct": "fundierst",
+        "reason": "Incorrect stem vowel in present tense conjugation."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "fündiert",
+        "correct": "fundiert",
+        "reason": "Incorrect stem vowel in present tense conjugation."
+      }
+    ],
+    "type": "verb"
+  },
+  "fortpflanzen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "pflanzen fort",
+        "correct": "pflanze fort",
+        "reason": "Incorrect conjugation of the verb 'fortpflanzen' in the present tense, ich form."
+      }
+    ],
+    "type": "verb"
+  },
+  "beziffern": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "beziefe",
+        "correct": "beziffern",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'beziffern'."
+      }
+    ],
+    "type": "verb"
+  },
+  "beherrschen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "besiegt",
+        "correct": "beherrscht",
+        "reason": "The correct Partizip II for 'beherrschen' is 'beherrscht', not 'besiegt'."
+      }
+    ],
+    "type": "verb"
+  },
+  "gelten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "gelte",
+        "correct": "gilt",
+        "reason": "Present tense conjugation of 'gelten' is 'gilt' for all persons except 'wir'."
+      }
+    ],
+    "type": "verb"
+  },
+  "entsprechen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "entsprechend",
+        "correct": "entspricht",
+        "reason": "Present tense conjugation error: 'entspricht' is the correct form for du."
+      },
+      {
+        "field": "ihr",
+        "current": "entsprechend",
+        "correct": "entsprechen",
+        "reason": "Present tense conjugation error: 'entsprechen' is the correct form for ihr."
+      }
+    ],
+    "type": "verb"
+  },
+  "regredieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "regrediert",
+        "correct": "regredierst",
+        "reason": "Present tense conjugation error: -st ending is incorrect."
+      }
+    ],
+    "type": "verb"
+  },
+  "revisionieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "revisioniere",
+        "correct": "revisionieriere",
+        "reason": "Missing 'i' after 'revis'"
+      }
+    ],
+    "type": "verb"
+  },
+  "beben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "bebsts",
+        "correct": "bebst",
+        "reason": "Incorrect conjugation of 'du'. It should be 'bebst'."
+      },
+      {
+        "field": "perfekt_ich",
+        "current": "gebebt",
+        "correct": "gebben",
+        "reason": "Incorrect Partizip II. The correct form is 'gebben'."
+      }
+    ],
+    "type": "verb"
+  },
+  "betrachten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "betrachtet",
+        "correct": "begesehen",
+        "reason": "Partizip II of betrachten is 'gesehen', not 'betrachtet'."
+      }
+    ],
+    "type": "verb"
+  },
+  "beinhalten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "enthalten",
+        "correct": "enthaltend",
+        "reason": "Partizip II of -halten verbs is ge- + stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "bewachen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "bewacht",
+        "correct": "bewachtet",
+        "reason": "Partizip II of regular verbs ends in -et, not -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "wegbringen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "bringe weg",
+        "correct": "bringst weg",
+        "reason": "Incorrect conjugation for du in the present tense."
+      }
+    ],
+    "type": "verb"
+  },
+  "bedingen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "beding",
+        "correct": "bedinge",
+        "reason": "Incorrect conjugation for 'ich'. It should be 'bedinge' not 'beding'."
+      }
+    ],
+    "type": "verb"
+  },
+  "entsorgen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "entfernt",
+        "correct": "entorgt",
+        "reason": "Partizip II of entsorgen is entorgt, not entfernt."
+      }
+    ],
+    "type": "verb"
+  },
+  "bestimnmen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ihr",
+        "current": "bestimmet",
+        "correct": "bestimmt",
+        "reason": "Incorrect conjugation for 'ihr'. It should be 'bestimmt'."
+      }
+    ],
+    "type": "verb"
+  },
+  "liebhaben": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "liebhabe",
+        "correct": "lieben",
+        "reason": "Regular -en verbs in the present tense conjugate as 'ich liebe', not 'ich liebhabe'."
+      }
+    ],
+    "type": "verb"
+  },
+  "nachschaffen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "nachschchaffung",
+        "correct": "nachschchaffungst",
+        "reason": "Missing -st ending for du form"
+      }
+    ],
+    "type": "verb"
+  },
+  "bedrängen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "bedringst",
+        "correct": "bedrängst",
+        "reason": "Incorrect conjugation of the du form."
+      },
+      {
+        "field": "ihr",
+        "current": "bedrngt",
+        "correct": "bedrängt",
+        "reason": "Incorrect spelling and conjugation of the ihr form."
+      }
+    ],
+    "type": "verb"
+  },
+  "beschwören": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "beschworst",
+        "correct": "beschwörst",
+        "reason": "Incorrect conjugation of 'du'. Remember the regular -st ending."
+      }
+    ],
+    "type": "verb"
+  },
+  "reflexionieren": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "reflektiert",
+        "correct": "reflexioniert",
+        "reason": "Partizip II of -ieren verbs is formed with stem + -t"
+      }
+    ],
+    "type": "verb"
+  },
+  "abbekommen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "perfekt_ich",
+        "current": "abgekriegt",
+        "correct": "abbekommen",
+        "reason": "Incorrect Partizip II for abbekommen."
+      }
+    ],
+    "type": "verb"
+  },
+  "stifte": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "stiftest",
+        "correct": "stiftet",
+        "reason": "Present tense regular ending for du is -t, not -st"
+      }
+    ],
+    "type": "verb"
+  },
+  "auswerten": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "auswertee",
+        "correct": "auswerte",
+        "reason": "Incorrect present tense conjugation for 'ich'."
+      }
+    ],
+    "type": "verb"
+  },
+  "auskennen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "kenne aus",
+        "correct": "aus kenne",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      },
+      {
+        "field": "du",
+        "current": "kennst aus",
+        "correct": "aus kennst",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      },
+      {
+        "field": "er/sie/es",
+        "current": "kennt aus",
+        "correct": "aus kennt",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      },
+      {
+        "field": "wir",
+        "current": "kennen aus",
+        "correct": "aus kennen",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "kennt aus",
+        "correct": "aus kennt",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      },
+      {
+        "field": "Sie",
+        "current": "kennen aus",
+        "correct": "aus kennen",
+        "reason": "Separable prefixes move to the end of conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "auffassen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "fassen auf",
+        "correct": "fasste auf",
+        "reason": "Separable verbs: prefix splits off in conjugated forms and moves to the END."
+      }
+    ],
+    "type": "verb"
+  },
+  "aushändigen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "du",
+        "current": "aushändigst",
+        "correct": "aushändigt",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      },
+      {
+        "field": "ihr",
+        "current": "aushändigt",
+        "correct": "aushändigen",
+        "reason": "Separable verbs split the prefix in conjugated forms."
+      }
+    ],
+    "type": "verb"
+  },
+  "vorliegen": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "ich",
+        "current": "liegen vor",
+        "correct": "liegt vor",
+        "reason": "Subject-verb agreement error. 'Ich' requires the singular form of the verb."
+      },
+      {
+        "field": "wir",
+        "current": "liegen vor",
+        "correct": "legen vor",
+        "reason": "Incorrect conjugation for plural subject 'wir'."
+      }
+    ],
+    "type": "verb"
+  },
+  "der Friede": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Frieden",
+        "correct": "die Friedens",
+        "reason": "Plural of 'Friede' is 'Frieden'."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Bodensatz": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Bodensätze",
+        "correct": "die Bodensäntze",
+        "reason": "Incorrect pluralization"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Impetus": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Impeten",
+        "correct": "die Impulse",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Status quo": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Statu quo",
+        "correct": "die Status quo",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Fokus": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Fokusse",
+        "correct": "die Foki",
+        "reason": "Incorrect plural form"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Tod": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "plural",
+        "current": "die Tode",
+        "correct": "die Todes",
+        "reason": "Plural of 'Tod' is 'Toten'"
+      }
+    ],
+    "type": "noun"
+  },
+  "der Sieger": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Der Sieger is incorrect, it should be die Sieger."
+      }
+    ],
+    "type": "noun"
+  },
+  "der Verlierer": {
+    "verdict": "errors_found",
+    "errors": [
+      {
+        "field": "article",
+        "current": "der",
+        "correct": "die",
+        "reason": "Nouns denoting people are usually feminine."
+      }
+    ],
+    "type": "noun"
+  }
+}

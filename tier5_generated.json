@@ -1,0 +1,91 @@
+{
+  "der Bestandsaufnahme": {
+    "type": "noun",
+    "plural": "die Bestandsaufnahmen",
+    "_article_fix": "die"
+  },
+  "der Disparität": {
+    "type": "noun",
+    "plural": "die Disparitäten",
+    "_article_fix": "die"
+  },
+  "der Ethos": {
+    "type": "noun",
+    "plural": "kein Plural",
+    "_article_fix": "das"
+  },
+  "das Kapitalismus": {
+    "type": "noun",
+    "plural": "die Kapitalismen",
+    "_article_fix": "der"
+  },
+  "das Umweltschutz": {
+    "type": "noun",
+    "plural": "kein Plural",
+    "_article_fix": "der"
+  },
+  "gerechten": {
+    "_status": "parse_failed"
+  },
+  "bürgerlich werden": {
+    "_status": "not_found"
+  },
+  "pseudonym verwenden": {
+    "_status": "not_found"
+  },
+  "revisionsbedürftig sein": {
+    "_status": "not_found"
+  },
+  "bildhaft gestalten": {
+    "_status": "not_found"
+  },
+  "dramaturgisch bearbeiten": {
+    "_status": "not_found"
+  },
+  "stichwortartig erfassen": {
+    "_status": "not_found"
+  },
+  "redundanz reduzieren": {
+    "_status": "not_found"
+  },
+  "beschören": {
+    "_status": "parse_failed"
+  },
+  "fließen lassen": {
+    "_status": "not_found"
+  },
+  "künstlich gestalten": {
+    "_status": "not_found"
+  },
+  "präzise formulieren": {
+    "_status": "not_found"
+  },
+  "verantwortlich machen": {
+    "_status": "not_found"
+  },
+  "aufmerksam werden": {
+    "_status": "not_found"
+  },
+  "redundant machen": {
+    "_status": "not_found"
+  },
+  "lullen": {
+    "type": "verb",
+    "ich": "lulle",
+    "du": "lullst",
+    "er/sie/es": "lullt",
+    "wir": "lullen",
+    "ihr": "lullt",
+    "Sie": "lullen",
+    "perfekt_ich": "gelullt"
+  },
+  "genügend sein": {
+    "_status": "not_found"
+  },
+  "grundsätzliches bestimmen": {
+    "_status": "not_found"
+  },
+  "szenarien entwickeln": {
+    "_status": "not_found"
+  }
+}

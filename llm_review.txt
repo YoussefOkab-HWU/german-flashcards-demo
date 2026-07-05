@@ -1,0 +1,2122 @@
+Filtered corrections: 260 entries, 353 field changes
+Removed 301 same-value false positives
+Removed 3256 ok/api_error entries
+============================================================
+
+[verb] unterbrechen
+  field:   du
+  current: unterbrauchst
+  correct: unterbricht
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] schneien
+  field:   ich
+  current: schneie
+  correct: schneien
+  reason:  Incorrect present tense conjugation for 'ich'.
+
+[verb] wehen
+  field:   perfekt_ich
+  current: geweht
+  correct: gewehen
+  reason:  Incorrect Partizip II for 'wehen'
+
+[verb] empfangen
+  field:   perfekt_ich
+  current: empfangen
+  correct: er empfangen
+  reason:  Partizip II for regular verbs is ge- + stem + -t
+
+[verb] verdienen
+  field:   perfekt_ich
+  current: verdients
+  correct: verdient
+  reason:  Partizip II of regular verbs is ge- + stem + -t
+
+[verb] sich langweilen
+  field:   perfekt_ich
+  current: mich langweiled
+  correct: habe mich langweilen
+  reason:  Incorrect Partizip II for separable verbs. It should be 'ge- + prefix + stem'
+
+[verb] erfinden
+  field:   du
+  current: erfundenst
+  correct: erfindest
+  reason:  Incorrect conjugation for du. It should be 'erfindest'.
+
+[verb] gefallen
+  field:   du
+  current: gefallst
+  correct: fällt
+  reason:  Incorrect conjugation for 'du'. It should be 'fällt'.
+
+[verb] gefallen
+  field:   er/sie/es
+  current: gefallen
+  correct: fällt
+  reason:  Incorrect conjugation for 'er/sie/es'. It should be 'fällt'.
+
+[verb] gefallen
+  field:   wir
+  current: gefallen
+  correct: fallen
+  reason:  Incorrect conjugation for 'wir'. It should be 'fallen'.
+
+[verb] gefallen
+  field:   ihr
+  current: gefallt
+  correct: fällt
+  reason:  Incorrect conjugation for 'ihr'. It should be 'fällt'.
+
+[verb] gefallen
+  field:   Sie
+  current: gefallen
+  correct: fallen
+  reason:  Incorrect conjugation for 'Sie'. It should be 'fallen'.
+
+[verb] genügen
+  field:   perfekt_ich
+  current: genügt
+  correct: genug
+  reason:  Partizip II of 'genügen' is 'genugt'
+
+[verb] geschehen
+  field:   ich
+  current: geschehe
+  correct: geschieht
+  reason:  Strong verb, vowel change in ich
+
+[verb] misstrauen
+  field:   perfekt_ich
+  current: misstraut
+  correct: gemisstraut
+  reason:  Irregular verb, use 'ge-' + stem + '-t'
+
+[verb] entschuldigen
+  field:   perfekt_ich
+  current: mich entschuldigt
+  correct: sich entschuldigt
+  reason:  The reflexive pronoun 'sich' is needed in the perfect tense of 'entschuldigung'.
+
+[verb] nicken
+  field:   perfekt_ich
+  current: gekniect
+  correct: geknickt
+  reason:  Incorrect Partizip II formation for nicken.
+
+[verb] anbraten
+  field:   ich
+  current: brate an
+  correct: bräute an
+  reason:  Strong verb, vowel change in du/er
+
+[verb] aufessen
+  field:   ich
+  current: esse auf
+  correct: ich esse auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufessen
+  field:   du
+  current: isst auf
+  correct: du isst auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufessen
+  field:   er/sie/es
+  current: isst auf
+  correct: er/sie/es isst auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufessen
+  field:   wir
+  current: essen auf
+  correct: wir essen auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufessen
+  field:   ihr
+  current: esst auf
+  correct: ihr esst auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufessen
+  field:   Sie
+  current: essen auf
+  correct: Sie essen auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufheben
+  field:   du
+  current: hebt auf
+  correct: hebst auf
+  reason:  The separable prefix 'auf' should be attached to the end of the verb stem in the du form.
+
+[verb] bedanken
+  field:   perfekt_ich
+  current: mich bedankt
+  correct: sich bedankt
+  reason:  The reflexive pronoun 'sich' is used in the perfect tense of 'bedanken'.
+
+[verb] beeinflussen
+  field:   ich
+  current: beeinflusse
+  correct: beeinflusst
+  reason:  Present tense conjugation error: -e ending for ich is incorrect.
+
+[verb] beraten
+  field:   perfekt_ich
+  current: beraten
+  correct: beratent
+  reason:  Partizip II of -ieren verbs is stem + -t
+
+[verb] bereiten
+  field:   perfekt_ich
+  current: bereitet
+  correct: bereitgemacht
+  reason:  Partizip II of separable verbs has ge- between prefix and stem
+
+[verb] empfinden
+  field:   perfekt_ich
+  current: engempft
+  correct: empfunden
+  reason:  Incorrect Partizip II for 'empfinden'
+
+[verb] enthalten
+  field:   du
+  current: enthältst
+  correct: enthaltst
+  reason:  Incorrect spelling of 'halt'
+
+[verb] enthalten
+  field:   ich
+  current: enthalte
+  correct: enthält
+  reason:  Present tense conjugation is incorrect
+
+[verb] entlaufen
+  field:   ihr
+  current: entrennt
+  correct: entlaufen
+  reason:  Inseparable prefixes never split. It should be entlaufen.
+
+[verb] erhalten
+  field:   perfekt_ich
+  current: erhalten
+  correct: gehalten
+  reason:  Partizip II of 'erhalten' is 'gehalten'
+
+[verb] funktionieren
+  field:   perfekt_ich
+  current: funktioniert
+  correct: hat funktioniert
+  reason:  Partizip II is incorrect for separable verbs
+
+[verb] stattfinden
+  field:   ich
+  current: finde statt
+  correct: findet statt
+  reason:  Subject-verb agreement error. 'Ich' should agree with the verb 'finden'.
+
+[verb] abklingen
+  field:   ich
+  current: klingst ab
+  correct: klingt ab
+  reason:  Strong verb, vowel change in du/er
+
+[verb] ausrechnen
+  field:   ich
+  current: rechnen aus
+  correct: rechne aus
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ausrichten
+  field:   perfekt_ich
+  current: ausrichtende
+  correct: ausgerichtet
+  reason:  Partizip II of separable verbs: ge- between prefix and stem
+
+[verb] berichtigen
+  field:   ihr
+  current: berichtet
+  correct: berichtigen
+  reason:  ihr uses the same conjugation as Sie
+
+[verb] beteiligen
+  field:   perfekt_ich
+  current: be tertarik
+  correct: beteiligt
+  reason:  Incorrect Partizip II for 'beteiligen'
+
+[verb] eingeben
+  field:   ich
+  current: gebe ein
+  correct: gibst ein
+  reason:  Incorrect conjugation for 'du' form of the verb.
+
+[verb] eingeben
+  field:   perfekt_ich
+  current: eingegeben
+  correct: einggegeben
+  reason:  Incorrect spelling of the past participle.
+
+[verb] einplanen
+  field:   ich
+  current: plane ein
+  correct: einplanen
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einplanen
+  field:   du
+  current: planst ein
+  correct: plant ein
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einplanen
+  field:   wir
+  current: planen ein
+  correct: einplanen
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einplanen
+  field:   ihr
+  current: plant ein
+  correct: einplant
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einplanen
+  field:   Sie
+  current: planen ein
+  correct: einplanen
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einteilen
+  field:   perfekt_ich
+  current: eingeteilt
+  correct: einteilt
+  reason:  Partizip II for inseparable prefix verbs is stem + -t
+
+[verb] entschließen
+  field:   du
+  current: entschließest
+  correct: entschließt
+  reason:  Du/Er/Sie uses -t ending in present tense
+
+[verb] fortschreiten
+  field:   du
+  current: schreitest
+  correct: schrittest
+  reason:  Strong verb, vowel change in du/er
+
+[verb] freimachen
+  field:   du
+  current: freimähest
+  correct: freimachst
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] freimachen
+  field:   perfekt_ich
+  current: gemacht
+  correct: aufgemacht
+  reason:  Separable non-ieren: ge- between prefix and stem
+
+[verb] freilassen
+  field:   perfekt_ich
+  current: gefreit
+  correct: frei
+  reason:  Partizip II of separable verbs: ge- between prefix and stem
+
+[verb] jubeln
+  field:   du
+  current: jubelt
+  correct: jubelst
+  reason:  Incorrect conjugation for du in the present tense.
+
+[verb] knipsen
+  field:   du
+  current: knissest
+  correct: knipst
+  reason:  Incorrect conjugation for du. It should be 'knipst'.
+
+[verb] kooperieren
+  field:   perfekt_ich
+  current: kooperiert
+  correct: geko cooperated
+  reason:  Partizip II for -ieren verbs is ge- + stem + -t
+
+[verb] lauschen
+  field:   perfekt_ich
+  current: gehört
+  correct: gelauscht
+  reason:  Partizip II of lauschen is gelauscht, not gehört.
+
+[verb] riechen
+  field:   perfekt_ich
+  current: geruht
+  correct: geruchten
+  reason:  Incorrect Partizip II for 'riechen'
+
+[verb] ruhen
+  field:   perfekt_ich
+  current: gebrochen
+  correct: ruhen
+  reason:  The past participle of 'ruhen' is 'erruht', not 'gebrochen'.
+
+[verb] sich bedanken
+  field:   perfekt_ich
+  current: mich bedankt
+  correct: hat sich bedankt
+  reason:  Partizip II needs auxiliary verb 'haben' in the Perfekt tense.
+
+[verb] sich einigen
+  field:   ich
+  current: einige mich
+  correct: einigen sich
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] sich einigen
+  field:   du
+  current: einigst dich
+  correct: einigt euch
+  reason:  The conjugation for 'ihr' is incorrect.
+
+[verb] sich einigen
+  field:   perfekt_ich
+  current: geeinigt
+  correct: eingestimmt
+  reason:  The correct Partizip II for 'sich einigen' is 'eingestimmt'.
+
+[verb] sich verspäten
+  field:   ich
+  current: verspätete mich
+  correct: verspäte mich
+  reason:  Incorrect conjugation of 'sich verspäten' in the present tense. It should be 'ich verspäte mich'.
+
+[verb] überlegen
+  field:   perfekt_ich
+  current: überlegt
+  correct: überlegen
+  reason:  Partizip II of 'überlegen' is 'überlegt', not 'überlegen'
+
+[verb] umgehen
+  field:   ich
+  current: gehe um
+  correct: umgehe
+  reason:  Incorrect conjugation for 'gehen'. It's 'umgehen' in the present tense.
+
+[verb] unterhalten
+  field:   perfekt_ich
+  current: unterhalten
+  correct: beunterhalten
+  reason:  Partizip II of separable verbs: ge- between prefix and stem
+
+[verb] verändern
+  field:   perfekt_ich
+  current: verändert
+  correct: geändert
+  reason:  Partizip II of separable verbs has 'ge-' prefix
+
+[verb] verdoppeln
+  field:   du
+  current: verdoppelt
+  correct: verdoppeln
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] verdoppeln
+  field:   ihr
+  current: verdoppelt
+  correct: verdoppeln
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] verschicken
+  field:   er/sie/es
+  current: verschiebt
+  correct: verschickt
+  reason:  Incorrect conjugation for 3rd person singular present tense.
+
+[verb] voranschreiten
+  field:   ich
+  current: schreiten vor
+  correct: vorschritt
+  reason:  Incorrect conjugation of the separable prefix verb.
+
+[verb] voranschreiten
+  field:   du
+  current: schreitest voran
+  correct: schrittest voran
+  reason:  Incorrect conjugation of the separable prefix verb.
+
+[verb] voranschreiten
+  field:   er/sie/es
+  current: schreitet voran
+  correct: schritt voran
+  reason:  Incorrect conjugation of the separable prefix verb.
+
+[verb] vormerken
+  field:   ich
+  current: vor merke
+  correct: vormerkt
+  reason:  Incorrect conjugation in present tense. It should be 'vormerkt'.
+
+[verb] weitergeben
+  field:   ich
+  current: werde weitergeben
+  correct: gibst weiter
+  reason:  Incorrect conjugation for 'weitergeben' in the present tense. It follows the pattern of strong verbs.
+
+[verb] zumuten
+  field:   ich
+  current: mute zu
+  correct: zumute
+  reason:  Incorrect conjugation for 'ich'. It should be 'zumute'.
+
+[verb] zumuten
+  field:   du
+  current: mutest zu
+  correct: zumutest
+  reason:  Incorrect conjugation for 'du'. The prefix splits off.
+
+[verb] zumuten
+  field:   er/sie/es
+  current: mutet zu
+  correct: zumentiert
+  reason:  Incorrect conjugation for 'er/sie/es'. The prefix splits off.
+
+[verb] ansparen
+  field:   ich
+  current: spare an
+  correct: spare
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ansparen
+  field:   du
+  current: sparst an
+  correct: sparst
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ansparen
+  field:   er/sie/es
+  current: spart an
+  correct: spart
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ansparen
+  field:   wir
+  current: sparen an
+  correct: sparen
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ansparen
+  field:   ihr
+  current: spart an
+  correct: spart
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] ansparen
+  field:   Sie
+  current: sparen an
+  correct: sparen
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] aufforsten
+  field:   ich
+  current: forste auf
+  correct: ich forste auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufforsten
+  field:   du
+  current: forstest auf
+  correct: du forst auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aufforsten
+  field:   er/sie/es
+  current: forstet auf
+  correct: er forstet auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] ausdehnen
+  field:   ich
+  current: dehne aus
+  correct: dehnen aus
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einbinden
+  field:   ich
+  current: bin einbindend
+  correct: binde ein
+  reason:  Incorrect conjugation for 'einbinden' in the present tense. It should be 'binde ein'.
+
+[verb] einschleifen
+  field:   perfekt_ich
+  current: einge-
+  correct: eingeschleift
+  reason:  Separable prefix verbs need ge- between prefix and stem in Partizip II
+
+[verb] ermahnen
+  field:   du
+  current: ermahnt
+  correct: ermahntest
+  reason:  Present tense du ending should be -est, not -t
+
+[verb] erschöpfen
+  field:   perfekt_ich
+  current: ermüdet
+  correct: erschöpft
+  reason:  Partizip II of erschöpfen is erschöpft, not ermüdet.
+
+[verb] erstaunen
+  field:   ich
+  current: erstaunte
+  correct: erstaue
+  reason:  Incorrect conjugation for 'ich' in present tense.
+
+[verb] erstaunen
+  field:   perfekt_ich
+  current: erstaunt
+  correct: erstaunert
+  reason:  Incorrect Partizip II form. It should be 'erstaunert'.
+
+[verb] genesen
+  field:   ich
+  current: genese
+  correct: genesen
+  reason:  Incorrect conjugation for 'ich'. It should be 'genesen'.
+
+[verb] geraten
+  field:   du
+  current: geratest
+  correct: gerattest
+  reason:  Incorrect ending for du form.
+
+[verb] rechen
+  field:   du
+  current: rechest
+  correct: rechnest
+  reason:  Incorrect ending for du form of regular verb.
+
+[verb] rechen
+  field:   er/sie/es
+  current: recht
+  correct: rechnet
+  reason:  Incorrect ending for er/sie/es form of regular verb.
+
+[verb] rechen
+  field:   ihr
+  current: recht
+  correct: rechnet
+  reason:  Incorrect ending for ihr form of regular verb.
+
+[verb] schweißen
+  field:   du
+  current: schweist
+  correct: schweißt
+  reason:  Strong verb, vowel change in du/er
+
+[verb] schrubben
+  field:   perfekt_ich
+  current: geputzt
+  correct: geschrubbt
+  reason:  Partizip II of schrubben is geschrubbt, not geputzt
+
+[verb] umsehen
+  field:   ich
+  current: schaue um
+  correct: sehen um
+  reason:  Present tense conjugation incorrect. Should be 'sehen'
+
+[verb] verheiraten
+  field:   perfekt_ich
+  current: verheiratet
+  correct: geheiratet
+  reason:  Partizip II of separable verbs has 'ge-' prefix
+
+[verb] vortäuschen
+  field:   perfekt_ich
+  current: vortäuschend
+  correct: vortäuschen
+  reason:  Partizip II for separable verbs is prefix + stem + -t
+
+[verb] zukleben
+  field:   ich
+  current: klebe zu
+  correct: zukleben
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] zukleben
+  field:   wir
+  current: kleben zu
+  correct: zukleben
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] zukleben
+  field:   Sie
+  current: kleben zu
+  correct: zukleben
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] zukleben
+  field:   perfekt_ich
+  current: geklebt
+  correct: zuglebt
+  reason:  Separable non-ieren: ge- between prefix and stem
+
+[verb] zusammenklappen
+  field:   ich
+  current: klappen zusammen
+  correct: klappt zusammen
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anlasten
+  field:   ich
+  current: laste an
+  correct: anlasten
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anlasten
+  field:   du
+  current: lastest an
+  correct: anlastest
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anlasten
+  field:   er/sie/es
+  current: lastet an
+  correct: anlasten
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anlasten
+  field:   wir
+  current: lasten an
+  correct: anlasten
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anlasten
+  field:   ihr
+  current: lastet an
+  correct: anlasten
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anlasten
+  field:   Sie
+  current: lasten an
+  correct: anlasten
+  reason:  Separable verbs: prefix stays with the verb in present tense.
+
+[verb] anprobieren
+  field:   ich
+  current: probiere an
+  correct: anprobiere
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anprobieren
+  field:   du
+  current: probierst an
+  correct: anprobierst
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anprobieren
+  field:   er/sie/es
+  current: probiert an
+  correct: anprobiert
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anprobieren
+  field:   wir
+  current: probieren an
+  correct: anprobieren
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anprobieren
+  field:   ihr
+  current: probiert an
+  correct: anprobieren
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] anprobieren
+  field:   Sie
+  current: probieren an
+  correct: anprobieren
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] einengen
+  field:   perfekt_ich
+  current: eingedrangenen
+  correct: eingengt
+  reason:  Partizip II of separable verbs: ge- between prefix and stem
+
+[verb] eintauchen
+  field:   perfekt_ich
+  current: eingetankt
+  correct: eingetaucht
+  reason:  Incorrect Partizip II for eintauchen
+
+[verb] sich eignen
+  field:   ich
+  current: eigne mich
+  correct: eigent sich
+  reason:  Separable prefixes split in conjugated forms.
+
+[verb] sich eignen
+  field:   du
+  current: eignest dich
+  correct: eigent dich
+  reason:  Separable prefixes split in conjugated forms.
+
+[verb] sich eignen
+  field:   wir
+  current: eigenen uns
+  correct: eigent sich
+  reason:  Consistent conjugation for all persons.
+
+[verb] sich gewöhnen
+  field:   perfekt_ich
+  current: mich gewöhnt
+  correct: sich gewöhnt
+  reason:  The reflexive pronoun 'sich' is used in the perfect participle of reflexive verbs.
+
+[verb] sich lohnen
+  field:   ich
+  current: lohne mich
+  correct: lohnt sich
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] sich lohnen
+  field:   du
+  current: lohnst dich
+  correct: lohnt sich
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] sich lohnen
+  field:   wir
+  current: lohnen uns
+  correct: lohnen sich
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] sich lohnen
+  field:   ihr
+  current: lohnt euch
+  correct: lohnen sich
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] sich verlassen
+  field:   perfekt_ich
+  current: verlassen
+  correct: sich verlassen
+  reason:  Partizip II needs to include the reflexive pronoun 'sich'
+
+[verb] vorenthalten
+  field:   du
+  current: enthältst vor
+  correct: vorderhältst
+  reason:  Separable prefix, moves to the end.
+
+[verb] vorenthalten
+  field:   er/sie/es
+  current: enthält vor
+  correct: vorderhält
+  reason:  Separable prefix, moves to the end.
+
+[verb] vorenthalten
+  field:   ihr
+  current: enthaltet vor
+  correct: vorderhaltet
+  reason:  Separable prefix, moves to the end.
+
+[verb] vorenthalten
+  field:   Sie
+  current: enthalten vor
+  correct: vorderhalten
+  reason:  Separable prefix, moves to the end.
+
+[verb] zustehen
+  field:   perfekt_ich
+  current: zugestanden
+  correct: zustehend
+  reason:  Partizip II of 'zustehen' is 'zustehend', not 'zugestanden'.
+
+[verb] abdriften
+  field:   ich
+  current: driefe
+  correct: abdrifts
+  reason:  Incorrect conjugation for 'abdriften' in the present tense. It should be 'abdrifts'.
+
+[verb] abgehen
+  field:   ich
+  current: gehe
+  correct: abgehe
+  reason:  Incorrect conjugation for the infinitive 'abgehen'
+
+[verb] abkommen
+  field:   ich
+  current: komme ab
+  correct: komm ab
+  reason:  Incorrect conjugation for 'ich'. It should be 'komm ab'.
+
+[verb] aufbewahren
+  field:   du
+  current: bewaehrst auf
+  correct: bewahrst auf
+  reason:  Incorrect spelling of 'wahrst'
+
+[verb] ausbreiten
+  field:   du
+  current: braithst
+  correct: breitest
+  reason:  Incorrect spelling of 'breitest'
+
+[verb] bemessen
+  field:   perfekt_ich
+  current: gemes sen
+  correct: gemeßt
+  reason:  Partizip II incorrect
+
+[verb] einklingen
+  field:   ich
+  current: klingt ein
+  correct: einklingt
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] einklingen
+  field:   wir
+  current: klingen ein
+  correct: einklingen
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] einklingen
+  field:   Sie
+  current: klingen ein
+  correct: einklingen
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] einklingen
+  field:   perfekt_ich
+  current: eingeklungen
+  correct: eingeklingt
+  reason:  Partizip II for separable verbs: ge- between prefix and stem
+
+[verb] einsparen
+  field:   ich
+  current: spare ein
+  correct: einsparst
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einsparen
+  field:   du
+  current: sparst ein
+  correct: sparstein
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einsparen
+  field:   wir
+  current: sparen ein
+  correct: einsparren
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einsparen
+  field:   ihr
+  current: spart ein
+  correct: spartet ein
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einsparen
+  field:   Sie
+  current: sparen ein
+  correct: einsparren
+  reason:  Separable verbs: prefix splits off in conjugated forms.
+
+[verb] einsparen
+  field:   perfekt_ich
+  current: gespart
+  correct: eingespart
+  reason:  Separable non-ieren: ge- between prefix and stem
+
+[verb] gleichstellen
+  field:   perfekt_ich
+  current: geglichen
+  correct: gleichgestellt
+  reason:  Partizip II of 'gleichstellen' is 'gleichgestellt', not 'geglichen'.
+
+[verb] gutschreiben
+  field:   ich
+  current: schreibe gutz
+  correct: gutschreibe
+  reason:  Separable prefix should be at the end: gutschreiben → ich gutschreibe
+
+[verb] mindern
+  field:   ihr
+  current: minderung
+  correct: mindert
+  reason:  Incorrect conjugation for 'ihr'. It should follow the same pattern as 'er/sie/es'.
+
+[verb] nieten
+  field:   perfekt_ich
+  current: genietet
+  correct: genagelt
+  reason:  Incorrect Partizip II for 'niete' (to nail). It should be 'genagelt', not 'genietet'.
+
+[verb] sich beschweren
+  field:   ich
+  current: beschwere mich
+  correct: beschwert sich
+  reason:  The reflexive verb 'sich beschweren' requires the reflexive pronoun 'sich' in all conjugations.
+
+[noun] der Akt
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Akt is feminine.
+
+[noun] der April
+  field:   plural
+  current: die April
+  correct: die Apríle
+  reason:  Incorrect plural form
+
+[noun] der Biber
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Biber is feminine.
+
+[noun] der Cent
+  field:   plural
+  current: die Cent
+  correct: die Cents
+  reason:  Plural of 'Cent' is 'Cents'.
+
+[noun] der Commit
+  field:   article
+  current: der
+  correct: die
+  reason:  Commit is a feminine noun.
+
+[noun] der Deckel
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Deckel is feminine.
+
+[noun] der Dezember
+  field:   plural
+  current: die Dezember
+  correct: die Dezembers
+  reason:  The plural of 'Dezember' is 'Dezember'.
+
+[noun] der Dramatiker
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Dramatiker is feminine.
+
+[noun] der Dramatiker
+  field:   plural
+  current: die Dramatikerinnen
+  correct: die Dramatiker
+  reason:  The plural of Dramatiker should be Dramatiker, not Dramatikerinnen.
+
+[noun] der Dschungel
+  field:   plural
+  current: die Dschungel
+  correct: die Dschungeln
+  reason:  Incorrect pluralization
+
+[noun] das Eisen
+  field:   plural
+  current: die Eisen
+  correct: das Eisen
+  reason:  The plural of 'Eisen' is unchanged.
+
+[noun] der Elektriker
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Elektriker is feminine.
+
+[noun] der Elektriker
+  field:   plural
+  current: die Elektrikerinnen
+  correct: die Elektriker
+  reason:  The plural of Elektriker is Elektriker, not Elektrikerinnen.
+
+[noun] die Ernährung
+  field:   plural
+  current: die Ernährungen
+  correct: die Ernährungs
+  reason:  Incorrect plural formation for nouns ending in -ung.
+
+[noun] der Farmer
+  field:   plural
+  current: die Farmer
+  correct: die Bauern
+  reason:  The plural of Farmer is Bauer.
+
+[noun] das Fazit
+  field:   plural
+  current: die Fazite
+  correct: die Fazit
+  reason:  Plural of 'Fazit' is 'Fazit'
+
+[noun] der Februar
+  field:   plural
+  current: die Februare
+  correct: die Februar
+  reason:  Incorrect plural form
+
+[noun] das Feedback
+  field:   plural
+  current: die Feedbacks
+  correct: kein Plural
+  reason:  Feedback is uncountable
+
+[noun] der Löwenzahn
+  field:   article
+  current: der
+  correct: die
+  reason:  Löwenzahn is feminine.
+
+[noun] der Mai
+  field:   plural
+  current: die Mais
+  correct: die Maien
+  reason:  Incorrect plural form
+
+[noun] der Merge
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns starting with 'M' are usually feminine.
+
+[noun] der Mittwoch
+  field:   plural
+  current: die Mittwoche
+  correct: die Mittwochs
+  reason:  Plural of 'Mittwoch' is 'Mittwochs'
+
+[noun] der Montag
+  field:   plural
+  current: die Montage
+  correct: die Montags
+  reason:  Plural of 'Montag' is 'Montags'
+
+[noun] der MRT
+  field:   plural
+  current: die MRTs
+  correct: die MRTE
+  reason:  Plural of 'MRT' is 'MRTE'
+
+[noun] der Oktober
+  field:   plural
+  current: die Oktober
+  correct: die Oktobers
+  reason:  Plural of nouns ending in -er is usually formed by adding -s
+
+[noun] der Optiker
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Optiker is feminine.
+
+[noun] der Optiker
+  field:   plural
+  current: die Optikerinnen
+  correct: die Optiker
+  reason:  The plural of Optiker should be Optiker, not Optikerinnen.
+
+[noun] der Photovoltaik
+  field:   article
+  current: der
+  correct: die
+  reason:  Photovoltaik is a feminine noun.
+
+[noun] der Photovoltaik
+  field:   plural
+  current: die Photovoltaik
+  correct: die Photovoltaiken
+  reason:  The plural of -ik nouns is usually -en
+
+[noun] der Pinsel
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Pinsel is feminine.
+
+[noun] die Pragmatik
+  field:   plural
+  current: die Pragmatikken
+  correct: die Pragmatik
+  reason:  Nouns ending in -ik form their plural by adding -en.
+
+[noun] das Puder
+  field:   plural
+  current: die Puder
+  correct: kein Plural
+  reason:  Puder is uncountable
+
+[noun] der Rabbiner
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Rabbiner is feminine.
+
+[noun] der Rauch
+  field:   plural
+  current: die Rauche
+  correct: die Rauch
+  reason:  Plural of 'Rauch' is 'Rauch'.
+
+[noun] der Reifenwechsel
+  field:   plural
+  current: die Reifenwechsel
+  correct: die Reifenwechsle
+  reason:  Incorrect pluralization
+
+[noun] der Rentner
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Rentner is feminine.
+
+[noun] der Rentner
+  field:   plural
+  current: die Rentnerinnen
+  correct: die Rentner
+  reason:  The plural of 'Rentner' is 'Rentner', not 'Rentnerinnen'.
+
+[noun] der Schnupfen
+  field:   article
+  current: der
+  correct: die
+  reason:  Noun 'Schnupfen' is feminine.
+
+[noun] der Führer
+  field:   plural
+  current: die Führerinnen
+  correct: die Führer
+  reason:  The plural of 'Führer' is 'Führer', not 'Führerinnen'.
+
+[noun] die Geduld
+  field:   plural
+  current: die Gedulden
+  correct: keine Plural
+  reason:  Geduld is uncountable
+
+[noun] der Spieler
+  field:   article
+  current: der
+  correct: die
+  reason:  Spieler is feminine.
+
+[noun] der Sport
+  field:   plural
+  current: kein Plural
+  correct: die Sport
+  reason:  Sport is a masculine noun, so its plural is 'die Sport'.
+
+[noun] das Stereotyp
+  field:   plural
+  current: die Stereotype
+  correct: die Stereotypen
+  reason:  Incorrect pluralization.  Nouns ending in -Typ usually form the plural with -e.
+
+[noun] das Gif
+  field:   plural
+  current: die Gifs
+  correct: die Gifte
+  reason:  Incorrect plural form
+
+[noun] der Glaube
+  field:   plural
+  current: die Glauben
+  correct: die Glaubens
+  reason:  Plural of -e ending nouns is usually -en
+
+[noun] der Golf
+  field:   plural
+  current: die Golfe
+  correct: die Golfs
+  reason:  Incorrect plural form
+
+[noun] der Strukturwandel
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns referring to processes or changes are usually feminine.
+
+[noun] der Hagel
+  field:   article
+  current: der
+  correct: die
+  reason:  Hagel is feminine.
+
+[noun] das Teiler
+  field:   article
+  current: das
+  correct: die
+  reason:  Nouns referring to female persons are feminine.
+
+[noun] das Teiler
+  field:   plural
+  current: die Teilerinnen
+  correct: die Teiler
+  reason:  The plural of 'Teiler' is formed by adding '-er' to the singular form.
+
+[noun] der Tempel
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Tempel is feminine.
+
+[noun] der Tennis
+  field:   plural
+  current: kein Plural
+  correct: die Tennisse
+  reason:  Nouns ending in -is usually form the plural with -e
+
+[noun] der Terminplaner
+  field:   article
+  current: der
+  correct: die
+  reason:  Terminplaner is a noun ending in -er, which is typically feminine.
+
+[noun] der Hummer
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Hummer is feminine.
+
+[noun] der Hummer
+  field:   plural
+  current: die Hummer
+  correct: die Hummern
+  reason:  The plural of Hummer is Hummern.
+
+[noun] der Hurrikan
+  field:   article
+  current: der
+  correct: die
+  reason:  Hurrikan is feminine.
+
+[noun] der Trainer
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Trainer is feminine.
+
+[noun] der Trainer
+  field:   plural
+  current: die Trainerinnen
+  correct: die Trainer
+  reason:  Trainerinnen refers to female trainers, while the plural of Trainer should be Trainer.
+
+[noun] der Unterricht
+  field:   plural
+  current: kein Plural
+  correct: die Unterrichts
+  reason:  Unterricht is a masculine noun, so its plural is 'die Unterrichts'.
+
+[noun] der Juli
+  field:   plural
+  current: die Julis
+  correct: die Juli
+  reason:  Months are usually pluralized by adding -e
+
+[noun] der Kellner
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Kellner is feminine.
+
+[noun] der Kellner
+  field:   plural
+  current: die Kellnerinnen
+  correct: die Kellner
+  reason:  Kellnerinnen is the plural of 'female waiter', not 'waiter'.
+
+[noun] der Ketchup
+  field:   article
+  current: der
+  correct: die
+  reason:  Ketchup is a feminine noun.
+
+[noun] der Klempner
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Klempner is a masculine noun, but the plural form uses 'die' which is feminine.
+
+[noun] der Konsens
+  field:   plural
+  current: die Konsense
+  correct: die Konsensen
+  reason:  Plural of -ens is -en
+
+[noun] die Wirtschaft
+  field:   plural
+  current: die Wirtschaften
+  correct: die Wirtschafts
+  reason:  Incorrect pluralization of 'Wirtschaft'
+
+[noun] der Wissenschaftler
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Wissenschaftler is masculine, but the plural form uses 'die'.
+
+[noun] das Wohlbefinden
+  field:   plural
+  current: die Wohlbefindens
+  correct: die Wohlbefinden
+  reason:  Plural of nouns ending in -en/-ionen is the same as singular form
+
+[noun] der Käfer
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Käfer is feminine.
+
+[noun] das Ladekabel
+  field:   plural
+  current: die Ladekabel
+  correct: die LadeKabel
+  reason:  Capitalization error
+
+[noun] das Cloud-Computing
+  field:   article
+  current: das
+  correct: die
+  reason:  Nouns referring to concepts are usually feminine.
+
+[noun] der Kalkulationsfehler
+  field:   article
+  current: der
+  correct: die
+  reason:  Noun referring to a feminine concept.
+
+[noun] Der Igel
+  field:   article
+  current: der
+  correct: die
+  reason:  The noun 'Igel' is feminine.
+
+[noun] Der Cousin
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Cousin is feminine.
+
+[noun] Der Fahrer
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Fahrer is feminine.
+
+[noun] Der Manager
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Manager is feminine.
+
+[noun] Der Manager
+  field:   plural
+  current: die Managerinnen und die Manager
+  correct: die Managerinnen
+  reason:  The plural of 'Manager' is 'Managerin'.
+
+[noun] Der Forscher
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Forscher is feminine.
+
+[noun] Der Gärtner
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Gärtner is feminine.
+
+[noun] Der Kleiderbügel
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns referring to objects are feminine.
+
+[noun] Das Essen
+  field:   plural
+  current: die Essen
+  correct: das Essen
+  reason:  Essen is uncountable and does not have a plural form.
+
+[noun] Der Käse
+  field:   plural
+  current: die Käse
+  correct: die Käses
+  reason:  Plural of 'Käse' is 'Käse'
+
+[noun] Der Knoblauch
+  field:   article
+  current: der
+  correct: die
+  reason:  Knoblauch is feminine.
+
+[noun] Der Brokkoli
+  field:   article
+  current: der
+  correct: die
+  reason:  Brokkoli is feminine.
+
+[noun] Der Blumenkohl
+  field:   article
+  current: der
+  correct: die
+  reason:  Blumenkohl is feminine.
+
+[noun] Der Mais
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Mais is feminine.
+
+[noun] Der Kohl
+  field:   plural
+  current: kein Plural
+  correct: die Kohls
+  reason:  Kohl is a noun that takes the plural 'die Kohls'
+
+[noun] Der Spargel
+  field:   article
+  current: der
+  correct: die
+  reason:  Spargel is feminine.
+
+[noun] Die Pasta
+  field:   plural
+  current: die Pastas
+  correct: die Pasten
+  reason:  Incorrect plural form for 'Pasta'
+
+[noun] Der Schinken
+  field:   article
+  current: der
+  correct: die
+  reason:  Schinken is feminine.
+
+[noun] Der Honig
+  field:   article
+  current: der
+  correct: die
+  reason:  Honig is feminine.
+
+[noun] Der Zucker
+  field:   plural
+  current: die Zucker
+  correct: die Zuckers
+  reason:  Plural of nouns ending in -er is usually formed by adding -s
+
+[noun] Der Pfeffer
+  field:   plural
+  current: die Pfeffer
+  correct: die Pfeffern
+  reason:  Incorrect plural form
+
+[noun] Der Essig
+  field:   article
+  current: der
+  correct: die
+  reason:  Essig is feminine.
+
+[noun] Der Kaffee
+  field:   article
+  current: der
+  correct: die
+  reason:  Kaffee is feminine.
+
+[noun] Der Tee
+  field:   article
+  current: der
+  correct: die
+  reason:  Tee is feminine.
+
+[noun] Das Wasser
+  field:   plural
+  current: die Wasser
+  correct: das Wasser
+  reason:  Wasser is uncountable and does not have a plural form.
+
+[noun] Der Kakao
+  field:   article
+  current: der
+  correct: die
+  reason:  Kakao is a feminine noun.
+
+[noun] Der Cappuccino
+  field:   article
+  current: der
+  correct: die
+  reason:  Cappuccino is feminine.
+
+[noun] Der Joghurt
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns referring to food are typically feminine.
+
+[noun] Der Bilderrahmen
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns referring to objects are feminine.
+
+[noun] Der Tunnel
+  field:   article
+  current: der
+  correct: die
+  reason:  Tunnels are feminine.
+
+[noun] Der Pullover
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Pullover is feminine.
+
+[noun] Der Gürtel
+  field:   article
+  current: der
+  correct: die
+  reason:  Gürtel is a feminine noun.
+
+[noun] Der Himmel
+  field:   plural
+  current: die Himmel
+  correct: die Himmels
+  reason:  The plural of Himmel is Himmels
+
+[noun] Der Schnee
+  field:   plural
+  current: kein Plural
+  correct: die Schnees
+  reason:  Snow is a countable noun in this context
+
+[noun] Der Donner
+  field:   plural
+  current: die Donner
+  correct: die Donners
+  reason:  The plural of Donner is Donners.
+
+[noun] Das Klima
+  field:   plural
+  current: die Klimas
+  correct: die Klimata
+  reason:  Incorrect plural form. The noun 'Klima' has a feminine singular and plural form of 'Klimata'.
+
+[noun] Der Winter
+  field:   plural
+  current: die Winter
+  correct: die Winters
+  reason:  The plural of Winter is Winters
+
+[noun] Das Wissen
+  field:   plural
+  current: die Wissen
+  correct: Wissen
+  reason:  Nouns ending in -wissen are uncountable and do not have a plural form.
+
+[verb] eingestalten
+  field:   ich
+  current: gestalte ein
+  correct: eingestaltest
+  reason:  Incorrect conjugation for the present tense. It should be 'eingestaltest'.
+
+[verb] eingestalten
+  field:   du
+  current: gestaltest ein
+  correct: eingestaltst
+  reason:  Incorrect conjugation for the present tense. It should be 'eingestaltst'.
+
+[verb] eingestalten
+  field:   er/sie/es
+  current: gestaltet ein
+  correct: eingestaltet
+  reason:  Incorrect conjugation for the present tense. It should be 'eingestaltet'.
+
+[verb] eingestalten
+  field:   wir
+  current: gestalten ein
+  correct: eingegestalten
+  reason:  Incorrect conjugation for the present tense. It should be 'eingegestalten'.
+
+[verb] eingestalten
+  field:   ihr
+  current: gestaltest ein
+  correct: eingestaltst
+  reason:  Incorrect conjugation for the present tense. It should be 'eingestaltst'.
+
+[verb] eingestalten
+  field:   Sie
+  current: gestalten ein
+  correct: eingegestalten
+  reason:  Incorrect conjugation for the present tense. It should be 'eingegestalten'.
+
+[verb] erraten
+  field:   perfekt_ich
+  current: erraten
+  correct: gerraten
+  reason:  Partizip II of erraten is gerät, not erraten
+
+[verb] evaluieren
+  field:   perfekt_ich
+  current: evaluiert
+  correct: eingevaluiert
+  reason:  Separable prefix, ge- between prefix and stem
+
+[verb] exploitieren
+  field:   perfekt_ich
+  current: exploitiert
+  correct: ausgebeutet
+  reason:  Exploitieren is an irregular verb with a different perfect participle.
+
+[verb] laborieren
+  field:   perfekt_ich
+  current: laboriert
+  correct: gearbeitet
+  reason:  Laborieren is a separable verb, so the Partizip II should be 'gearbeitet'.
+
+[verb] revolutionäre
+  field:   perfekt_ich
+  current: revolutioniert
+  correct: ge revolutioniert
+  reason:  Irregular verbs with separable prefixes use 'ge-' before the stem.
+
+[verb] rühren
+  field:   ich
+  current: rüre
+  correct: rühre
+  reason:  Incorrect stem vowel in present tense ich.
+
+[verb] schmücken
+  field:   du
+  current: schmeckst
+  correct: schmückst
+  reason:  Incorrect conjugation for 'du'. It should be schmückst.
+
+[verb] selektieren
+  field:   ich
+  current: selektioniere
+  correct: selektiere
+  reason:  Incorrect conjugation for 'ich'. It should be 'selektiere'.
+
+[verb] übersteuern
+  field:   perfekt_ich
+  current: übersteuert
+  correct: übergesteuert
+  reason:  Partizip II of regular verbs ends in -t, not -ert
+
+[verb] unterbinden
+  field:   perfekt_ich
+  current: geunterbnden
+  correct: unterbunden
+  reason:  Incorrect Partizip II formation for separable verbs.
+
+[verb] kumulieren
+  field:   ich
+  current: kumulieren
+  correct: kumuliere
+  reason:  Incorrect conjugation for 'ich'. It should be 'kumuliere'.
+
+[verb] logarithmieren
+  field:   perfekt_ich
+  current: logarithmiert
+  correct: gelogarithmiert
+  reason:  Partizip II for -ieren verbs: NO ge-, stem+-t
+
+[verb] sensibelisieren
+  field:   ich
+  current: sensibelisiere
+  correct: sensibelisiert
+  reason:  Incorrect conjugation for the first person singular present tense.
+
+[verb] abändern
+  field:   ich
+  current: ändere ab
+  correct: abänder
+  reason:  Incorrect conjugation for 'ich'. It should be 'abänder' not 'ändere ab'.
+
+[verb] ausnutzen
+  field:   du
+  current: nützt aus
+  correct: nutzt aus
+  reason:  Strong verb, vowel change in du/er
+
+[verb] ausprägen
+  field:   du
+  current: extremst aus
+  correct: äußerst aus
+  reason:  Incorrect spelling of 'äußerst'
+
+[verb] brechen
+  field:   du
+  current: braucht
+  correct: brauchst
+  reason:  Incorrect conjugation for 'du'. Should be 'brauchst'.
+
+[verb] dikutieren
+  field:   ich
+  current: dikutiere
+  correct: dikutieren
+  reason:  Missing 'e' before '-st/-t'
+
+[verb] grundlegen
+  field:   ihr
+  current: legen grund
+  correct: legt grund
+  reason:  Missing the -e ending for ihr in the present tense.
+
+[verb] heraufbeschwören
+  field:   du
+  current: heraufbeschworst
+  correct: heraufbeschwöre
+  reason:  Incorrect conjugation for du form of the verb.
+
+[verb] nominieren
+  field:   ich
+  current: nomiiniere
+  correct: nominieren
+  reason:  Incorrect spelling
+
+[verb] persiflieren
+  field:   perfekt_ich
+  current: persifliert
+  correct: persifliiert
+  reason:  Partizip II of -ieren verbs is formed with stem + -iert
+
+[verb] scharfstellen
+  field:   ich
+  current: scharf stelle
+  correct: scharfstellt
+  reason:  Missing the -e- before -st for verbs ending in -t/-d
+
+[verb] schlüsseln
+  field:   ich
+  current: schlüssle
+  correct: schlüsseln
+  reason:  Regular -eln verbs contract in the ich form: schlüssele
+
+[verb] fortentwickeln
+  field:   du
+  current: entwickelst fort
+  correct: entwickelst
+  reason:  Separable prefixes move to the end.
+
+[verb] fortentwickeln
+  field:   er/sie/es
+  current: entwickelt fort
+  correct: entwickelt
+  reason:  Separable prefixes move to the end.
+
+[verb] fortentwickeln
+  field:   wir
+  current: entwickeln fort
+  correct: entwickeln
+  reason:  Separable prefixes move to the end.
+
+[verb] fortentwickeln
+  field:   ihr
+  current: entwickelt fort
+  correct: entwickelt
+  reason:  Separable prefixes move to the end.
+
+[verb] fortentwickeln
+  field:   Sie
+  current: entwickeln fort
+  correct: entwickeln
+  reason:  Separable prefixes move to the end.
+
+[verb] fundieren
+  field:   ich
+  current: fündiere
+  correct: fundiere
+  reason:  Incorrect stem vowel in present tense conjugation.
+
+[verb] fundieren
+  field:   du
+  current: fündierst
+  correct: fundierst
+  reason:  Incorrect stem vowel in present tense conjugation.
+
+[verb] fundieren
+  field:   er/sie/es
+  current: fündiert
+  correct: fundiert
+  reason:  Incorrect stem vowel in present tense conjugation.
+
+[verb] fortpflanzen
+  field:   ich
+  current: pflanzen fort
+  correct: pflanze fort
+  reason:  Incorrect conjugation of the verb 'fortpflanzen' in the present tense, ich form.
+
+[verb] beziffern
+  field:   ich
+  current: beziefe
+  correct: beziffern
+  reason:  Incorrect conjugation for 'ich'. It should be 'beziffern'.
+
+[verb] beherrschen
+  field:   perfekt_ich
+  current: besiegt
+  correct: beherrscht
+  reason:  The correct Partizip II for 'beherrschen' is 'beherrscht', not 'besiegt'.
+
+[verb] gelten
+  field:   ich
+  current: gelte
+  correct: gilt
+  reason:  Present tense conjugation of 'gelten' is 'gilt' for all persons except 'wir'.
+
+[verb] entsprechen
+  field:   du
+  current: entsprechend
+  correct: entspricht
+  reason:  Present tense conjugation error: 'entspricht' is the correct form for du.
+
+[verb] entsprechen
+  field:   ihr
+  current: entsprechend
+  correct: entsprechen
+  reason:  Present tense conjugation error: 'entsprechen' is the correct form for ihr.
+
+[verb] regredieren
+  field:   du
+  current: regrediert
+  correct: regredierst
+  reason:  Present tense conjugation error: -st ending is incorrect.
+
+[verb] revisionieren
+  field:   ich
+  current: revisioniere
+  correct: revisionieriere
+  reason:  Missing 'i' after 'revis'
+
+[verb] beben
+  field:   du
+  current: bebsts
+  correct: bebst
+  reason:  Incorrect conjugation of 'du'. It should be 'bebst'.
+
+[verb] beben
+  field:   perfekt_ich
+  current: gebebt
+  correct: gebben
+  reason:  Incorrect Partizip II. The correct form is 'gebben'.
+
+[verb] betrachten
+  field:   perfekt_ich
+  current: betrachtet
+  correct: begesehen
+  reason:  Partizip II of betrachten is 'gesehen', not 'betrachtet'.
+
+[verb] beinhalten
+  field:   perfekt_ich
+  current: enthalten
+  correct: enthaltend
+  reason:  Partizip II of -halten verbs is ge- + stem + -t
+
+[verb] bewachen
+  field:   perfekt_ich
+  current: bewacht
+  correct: bewachtet
+  reason:  Partizip II of regular verbs ends in -et, not -t
+
+[verb] wegbringen
+  field:   ich
+  current: bringe weg
+  correct: bringst weg
+  reason:  Incorrect conjugation for du in the present tense.
+
+[verb] bedingen
+  field:   ich
+  current: beding
+  correct: bedinge
+  reason:  Incorrect conjugation for 'ich'. It should be 'bedinge' not 'beding'.
+
+[verb] entsorgen
+  field:   perfekt_ich
+  current: entfernt
+  correct: entorgt
+  reason:  Partizip II of entsorgen is entorgt, not entfernt.
+
+[verb] bestimnmen
+  field:   ihr
+  current: bestimmet
+  correct: bestimmt
+  reason:  Incorrect conjugation for 'ihr'. It should be 'bestimmt'.
+
+[verb] liebhaben
+  field:   ich
+  current: liebhabe
+  correct: lieben
+  reason:  Regular -en verbs in the present tense conjugate as 'ich liebe', not 'ich liebhabe'.
+
+[verb] nachschaffen
+  field:   du
+  current: nachschchaffung
+  correct: nachschchaffungst
+  reason:  Missing -st ending for du form
+
+[verb] bedrängen
+  field:   du
+  current: bedringst
+  correct: bedrängst
+  reason:  Incorrect conjugation of the du form.
+
+[verb] bedrängen
+  field:   ihr
+  current: bedrngt
+  correct: bedrängt
+  reason:  Incorrect spelling and conjugation of the ihr form.
+
+[verb] beschwören
+  field:   du
+  current: beschworst
+  correct: beschwörst
+  reason:  Incorrect conjugation of 'du'. Remember the regular -st ending.
+
+[verb] reflexionieren
+  field:   perfekt_ich
+  current: reflektiert
+  correct: reflexioniert
+  reason:  Partizip II of -ieren verbs is formed with stem + -t
+
+[verb] abbekommen
+  field:   perfekt_ich
+  current: abgekriegt
+  correct: abbekommen
+  reason:  Incorrect Partizip II for abbekommen.
+
+[verb] stifte
+  field:   du
+  current: stiftest
+  correct: stiftet
+  reason:  Present tense regular ending for du is -t, not -st
+
+[verb] auswerten
+  field:   ich
+  current: auswertee
+  correct: auswerte
+  reason:  Incorrect present tense conjugation for 'ich'.
+
+[verb] auskennen
+  field:   ich
+  current: kenne aus
+  correct: aus kenne
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auskennen
+  field:   du
+  current: kennst aus
+  correct: aus kennst
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auskennen
+  field:   er/sie/es
+  current: kennt aus
+  correct: aus kennt
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auskennen
+  field:   wir
+  current: kennen aus
+  correct: aus kennen
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auskennen
+  field:   ihr
+  current: kennt aus
+  correct: aus kennt
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auskennen
+  field:   Sie
+  current: kennen aus
+  correct: aus kennen
+  reason:  Separable prefixes move to the end of conjugated forms.
+
+[verb] auffassen
+  field:   ich
+  current: fassen auf
+  correct: fasste auf
+  reason:  Separable verbs: prefix splits off in conjugated forms and moves to the END.
+
+[verb] aushändigen
+  field:   du
+  current: aushändigst
+  correct: aushändigt
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] aushändigen
+  field:   ihr
+  current: aushändigt
+  correct: aushändigen
+  reason:  Separable verbs split the prefix in conjugated forms.
+
+[verb] vorliegen
+  field:   ich
+  current: liegen vor
+  correct: liegt vor
+  reason:  Subject-verb agreement error. 'Ich' requires the singular form of the verb.
+
+[verb] vorliegen
+  field:   wir
+  current: liegen vor
+  correct: legen vor
+  reason:  Incorrect conjugation for plural subject 'wir'.
+
+[noun] der Friede
+  field:   plural
+  current: die Frieden
+  correct: die Friedens
+  reason:  Plural of 'Friede' is 'Frieden'.
+
+[noun] der Bodensatz
+  field:   plural
+  current: die Bodensätze
+  correct: die Bodensäntze
+  reason:  Incorrect pluralization
+
+[noun] der Impetus
+  field:   plural
+  current: die Impeten
+  correct: die Impulse
+  reason:  Incorrect plural form
+
+[noun] der Status quo
+  field:   plural
+  current: die Statu quo
+  correct: die Status quo
+  reason:  Incorrect plural form
+
+[noun] der Fokus
+  field:   plural
+  current: die Fokusse
+  correct: die Foki
+  reason:  Incorrect plural form
+
+[noun] der Tod
+  field:   plural
+  current: die Tode
+  correct: die Todes
+  reason:  Plural of 'Tod' is 'Toten'
+
+[noun] der Sieger
+  field:   article
+  current: der
+  correct: die
+  reason:  Der Sieger is incorrect, it should be die Sieger.
+
+[noun] der Verlierer
+  field:   article
+  current: der
+  correct: die
+  reason:  Nouns denoting people are usually feminine.

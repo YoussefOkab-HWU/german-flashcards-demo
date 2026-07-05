@@ -1,0 +1,5614 @@
+{
+  "werden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spielen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "antworten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "präsentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verhandeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "investieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "finanzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leihen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verkaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bezahlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "holen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zeigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erklären": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schulden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wechseln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "duschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versuchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vergessen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verstehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erinnern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beginnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rasieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kämmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bügeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nähen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stricken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "enden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "planen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entscheiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "glauben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hoffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klettern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kriechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schwimmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tauchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "steigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "springen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rudern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "segeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fliegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schießen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kämpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "drücken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "heben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "werfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fangen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verteidigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "flüchten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verstecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "suchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verlieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "folgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "führen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betreten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "landen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gewinnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "scheitern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wachsen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "blühen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "parken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "drehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stoppen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sterben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ernten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "pflanzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gießen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "säen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verlangsamen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschleunigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "meinen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "jagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wandern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "frieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "brennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vermuten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erkennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erzählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leuchten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "regnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schneien": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erschüttern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "berichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "diskutieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begründen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vergleichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "analysieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hochladen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "installieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "speichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "löschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "senden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "prüfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kontrollieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "informieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "warnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "empfehlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "empfangen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tippen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "drucken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "scannen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fotografieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mieten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "liefern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kochen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "backen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "filmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "streamen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "teilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kommentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abonnieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schneiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "waschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "putzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reparieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sparen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sein": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "haben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "machen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verdienen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kündigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewerben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "studieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "geben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "finden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fürchten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich freuen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich ärgern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich wundern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich fühlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "denken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bleiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "arbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lernen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lieben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich erinnern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich interessieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich langweilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "genießen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "laufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "essen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trinken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "träumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zweifeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "setzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schlafen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "halten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "behaupten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schweigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "flüstern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "helfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "brauchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wollen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "können": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schreien": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bitten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "müssen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dürfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sollen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mögen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "treffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "grüßen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestätigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erwähnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betonen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "untersuchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wissen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wohnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "öffnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "atmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "forschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beobachten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entdecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erfinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lösen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beantworten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "benutzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "berühren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "berechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "messen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wiegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "testen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bezweifeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bieten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "deuten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dienen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erholen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schätzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "notieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "markieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterstreichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erlauben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erscheinen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erzeugen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "existieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fehlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "üben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weinen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lächeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gefallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gehören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gelingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "genügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "geschehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trösten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterstützen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vertrauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "misstrauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "respektieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gewöhnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "liegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "meistern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beleidigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entschuldigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "danken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gratulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "feiern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nutzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "passen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reagieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "retten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "besuchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umarmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "küssen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "heiraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich trennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schützen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sitzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sorgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spüren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stimmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gründen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "organisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verwalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beauftragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schweben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zittern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "winken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befördern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "staunen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbiegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abduschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abfahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abhängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abholen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abkühlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ablegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ablehnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abmachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abmelden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abnehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abräumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abreisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschneiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "absetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abstimmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwaschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abzählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "achten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ändern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anbieten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anbraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anfangen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anfassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ankommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ankreuzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anmachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anmelden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "annehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anpassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anrufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ansehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ansprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anzünden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufbauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufbleiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufessen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufhängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufhören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufklären": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufmachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufpassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufräumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufregen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufstehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufwachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufwärmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufzählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausdrucken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auskommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausleihen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausmachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausruhen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschlafen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aussehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aussteigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "austauschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auswählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beachten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beantragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedanken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedienen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beeinflussen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befolgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begegnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begleiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begrüßen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "behalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bemerken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bereiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betreffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betrügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bevorzugen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewohnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bezeichnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "borgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "buchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dauern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "decken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "drängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "drohen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchsuchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einkaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einladen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einpacken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einschalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einschlafen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einsteigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eintragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eintreten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einverstanden sein": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "einzahlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "empfinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "enthalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entlaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entspannen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entwickeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erleben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ermöglichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erreichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erschrecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erwarten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "feststellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fortsetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fördern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fühlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "funktionieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gestalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "greifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "handeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinzufügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klären": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klopfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kontaktieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "laufen lassen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "melden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitfahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitnehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitspielen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachdenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachfragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachholen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachschauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "packen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "regeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reinigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stattfinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "steigern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "teilnehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verbinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vereinbaren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vergeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verhindern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorhaben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorlesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorbereiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorschlagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wahrnehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weitermachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weitergehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wiederholen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zuhören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zumachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zunehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenfassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abdecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abfragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abfüllen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abhaken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abkaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abklingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ablaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abliefern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abmessen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abrechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "absagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abspeichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwarten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abzeichnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anfertigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "angeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "angehören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "angehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "angreifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ankündigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anleiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anmerken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anordnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anpacken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anreden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anregen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anreisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anstecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anstreben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "antreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anzahlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auffordern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufgreifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufkleben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufladen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auflösen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufnehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufteilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auftreten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufzeigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausdrücken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausfüllen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auslassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auspacken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausrechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausrichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aussprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "austeilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auswandern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausweichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bearbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedauern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedrohen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befehlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befreien": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begrenzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "behandeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beklagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bekommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "belegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beliefern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bemühen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "benötigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "benachrichtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bereisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "berichtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beruhigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "besitzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "besorgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "besprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestimmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beteiligen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beurteilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewältigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bilden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "binden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "braten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "darlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dazugeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dazukommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "delegieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dokumentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchlesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchmachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einatmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einbauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eingeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einlesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einordnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einplanen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einreichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einrichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einschätzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einteilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einwilligen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entgegennehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entstehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ergänzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erkranken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ermitteln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ersetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erweitern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fertigstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "festhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "festlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fordern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "formulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fortschreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "freimachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "freilassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "glänzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gleiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hämmern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "heizen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herausfinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herausgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herankommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hereinkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herunterladen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herunterlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinausgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hineingehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hüpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ignorieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "improvisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "interpretieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "joggen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "jubeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klingeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "knipsen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kooperieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "korrigieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kreieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kritisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kümmern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "laden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lagern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lauschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leeren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "legen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "leisten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "loben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "losfahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "losgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "loslassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "malen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitdenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mithelfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitlesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitreden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitteilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "möblieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "motivieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachahmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nacharbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachgeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachlesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachprüfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachrechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachschlagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachvollziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nummerieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ordnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "passieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "pflegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "plaudern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "probieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "produzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "programmieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "protestieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "raten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reservieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "richtig stellen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "riechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ruhen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sammeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schieben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schmecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schnell machen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "schwingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich bedanken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich bewerben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich einigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich entscheiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich erholen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich irren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich kümmern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich melden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich setzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich trauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich verabschieden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich verhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich verspäten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich vorstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sortieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spazieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stärken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stempeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stoßen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "strecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "strukturieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stützen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tanzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "transportieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übergeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übernehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überprüfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übersetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übertragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überzeugen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterrichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verabschieden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verändern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verbessern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verbreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verdoppeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vereinfachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vergrößern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verkürzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verlängern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vermeiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "veröffentlichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschweigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verstärken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verteilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verzögern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verzichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "voranschreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorbeigehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vormerken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vornehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorsehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vortragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorzeigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weglassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weglegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterbilden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weitergeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterhelfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterleiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "widersprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "widmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wünschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zerbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zerlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zerstören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zubereiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zugreifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zukommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zulassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zumuten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückkehren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurücklegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückrufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückschicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenpassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zustimmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abreißen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abtrocknen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ahnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ansagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ansparen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufforsten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufmuntern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufwachsen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausatmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausbilden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausdehnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auflisten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschneiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "basteln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beeilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beeindrucken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "benehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "diktieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einbinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einblenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einfügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einklemmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einlösen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einreihen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einschleifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einwandern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entfalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entwöhnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erfrischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ergeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erleichtern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ermahnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ernennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erschöpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erstaunen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erwerben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "experimentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "färben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "filtern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "flackern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fressen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "genesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "geraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "grillen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herrschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hindeuten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinfallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hüten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "identifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "knoten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kombinieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kürzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lockern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lohnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mucken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "multiplizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachbilden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachbestellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nacherzählen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "niesen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nützen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "pfeifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "quälen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "räumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reißen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "richten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rollen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rutschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schaben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schaden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schleifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schlucken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schmelzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schnappen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schweißen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schrubben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schwitzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "senken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "siegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "singen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sinken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "skizzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stampfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stinken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "strafen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "streichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "streiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stürzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tauschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "täuschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trainieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "treten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "triefen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trocknen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tropfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tun": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umbauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umfassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umformen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umrechnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umsehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umsteigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umtauschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterliegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterscheiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vereinen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verheiraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verpacken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschmutzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "versinken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verspotten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verstoßen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vertragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verursachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vollenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "voranmachen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "vorbeifahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorleben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vortäuschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wachhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wegfahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weggehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weglaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wegwerfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wirken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wuchern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zahlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zeichnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zerschneiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zögern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zudecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zufügen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zugeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zukleben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenklappen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zuschauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zuschicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abgrenzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abkürzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ablösen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschwächen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abtrennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwägen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "andeuten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anfeuern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anklagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anlasten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anprobieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anrichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anschnallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "antasten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anwerben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufdecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auffrischen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufschieben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausblenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auseinandernehmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auslösen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschöpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auswirken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beabsichtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beaufsichtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beleuchten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschädigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschäftigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beseitigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bezwingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "differenzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchdringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einengen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einschränken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einstecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eintauchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einwirken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entgegenwirken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entschärfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "enttäuschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erbitten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erfassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erfüllen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eröffnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erregen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ertragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erzwingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "festigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fortführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gebrauchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gefährden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gegenüberstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hemmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hervorrufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hervorheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "koordinieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "langweilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "loslegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nähern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "niederlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "offenbaren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "offenhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "prägen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rechtfertigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rückgängig machen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "sich abheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich abwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich anpassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich ausbreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich beziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich eignen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich entwickeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich ergeben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich gewöhnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich herausstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich konzentrieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich lohnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich nähern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich niederlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich verlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "tilgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überschreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umschalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verbrennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verfassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vernichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschlechtern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschwinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorankommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorausgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorbeugen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorenthalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "weiterentwickeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "widerspiegeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zuordnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückblicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückweisen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammenhängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zusammensetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zustehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abdriften": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abfallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abgehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abmontieren": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "abschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abzweigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anheben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anklicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anlassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anliegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anlocken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anpflanzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anreichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ansteigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anstrengen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anwachsen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufbewahren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufblühen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufeinandertreffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufhellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufkommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufmerksam machen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "ausbreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auseinandergehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aushelfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auslaufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausrutschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aussortieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausweiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auszahlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beanspruchen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beibringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beitreten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bemessen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bereitstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "berücksichtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "blenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bremsen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "dazugehören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einfallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einfließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einklingen": {
+    "verdict": "not_found",
+    "errors": []
+  },
+  "einsparen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einwenden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ergreifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ermüden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erwidern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "festsetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "freilegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gähnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gleichstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "grenzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gutschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herausfordern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hochhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kennenlernen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mindern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "misslingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitfühlen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nahelegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "neigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nieten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "orientieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "quittieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reizen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich auskennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich beschweren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abarbeiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbilden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "absichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschärfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschleppen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausbauen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aushandeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auftragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anzugießen": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "anknüpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "annullieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "austreten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "befassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewerten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eingrenzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entgegenhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ernähren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "evaluieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "exploitieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "freihalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "generieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gravieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herbeiführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hinterfragen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "implizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "interessieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "laborieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "modernisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "modifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "optimieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "partizipieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "repräsentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "revolutionäre": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "rühren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schmücken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "selektieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stimulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übersteuern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterbinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestreiten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "etablieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einsetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erforschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "extrapolieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gedenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "globalisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "implementieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kumulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "komprimieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kommunizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "konstruieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "korrelieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "logarithmieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "normalisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "präzisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "quantifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rationalisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reflektieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "reproduzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stapeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "summieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "systematisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "validieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verankern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschieben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "visualisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorantreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vollziehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abändern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abrufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "akzeptieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anbahnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschreiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auslegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausnutzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausprägen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschulen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "blättern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "brechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "buddeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "diskontieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einstufen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "elaborieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erörtern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "extrahieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "feilen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fertigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "heraufbeschwören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hypnotisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "integrieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kultivieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "liquidieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mutieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "narren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nominieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "persiflieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "provozieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "revidieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "scharfstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "standardisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "steuern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "strudeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überdenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "veranschaulichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vordringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verinnerlichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rekapitulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spezialisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "generalisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abstrahieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schlüsseln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vermitteln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "argumentieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "substantivieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verallgemeinern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "spezifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "adaptieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "darstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erläutern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fortentwickeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fundieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "modellieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "rekonstruieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "simulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "theoretisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "überblicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verantworten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "voranstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschränken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "benennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bezeugen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "eindringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "exportieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "imitieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "induzieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "infizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "interagieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "manipulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einbehalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entspringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "prognostizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufrichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erkunden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "exekutieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "fortpflanzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "meditieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "minimieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "neutralisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "propagieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "synthetisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "exponieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "formalisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "konstituieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begreifen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschätzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beziffern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "konzentrieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "synchronisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vertiefen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zielen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwandeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beherrschen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entwerfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "garantieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "realisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "regulieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "schärfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bereichern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begünstigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "exkludieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "gelten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "intensivieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitwirken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "periodisieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entsprechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kodifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kompensieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "qualifizieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "regredieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "scheiden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "starken": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "verdrehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verknüpfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vereinigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufführen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auseinanderbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufsteigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchsetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aushalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschirmen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "betrachten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "behindern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beinhalten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bekennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bewachen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "besinnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begeistern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verdächtigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verzweifeln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschmelzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wegbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wehren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedingen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "voraussagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vollstrecken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "widerlegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "übermitteln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verfolgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entsorgen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurechtfinden": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vermissen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sehnen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "liebhaben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "nachschaffen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "transformieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "sich ändern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bestreben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "lehren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verbieten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "trauern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "freuen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "bedrängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entmutigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verehren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "verschmähen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abschieben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aufbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beschwören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "klammern": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "legitimieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausschließen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aussetzen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "demonstrieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "kompromittieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "mitteln": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "ausbrechen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbekommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abbringen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abraten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "absehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auffallen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anzugreifen": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "anschlagen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "umdenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "wegführen": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "zurücklassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "unterstellen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "stifte": {
+    "verdict": "no_verb_block",
+    "errors": []
+  },
+  "vervollständigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auswerten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "erträumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "entlarven": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abhören": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "beichten": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auskennen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auffassen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "aushändigen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "abwerfen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "anhängen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "begleichen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "amüsieren": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "durchblicken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "einräumen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "zurückbleiben": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "herauskommen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "hintergehen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorliegen": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "vorausdenken": {
+    "verdict": "ok",
+    "errors": []
+  },
+  "auflockern": {
+    "verdict": "ok",
+    "errors": []
+  }
+}

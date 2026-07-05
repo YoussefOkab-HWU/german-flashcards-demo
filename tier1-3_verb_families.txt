@@ -1,0 +1,1549 @@
+TIER 1-3 VERB FAMILIES
+============================================================
+(220 families  |  348 standalone verbs)
+
+── achten ──
+  [2] achten                            to pay attention
+  [2] beachten                          to observe/note
+  [2] beobachten                        to observe
+
+── ahnen ──
+  [3] ahnen                             to suspect/sense
+  [3] nachahmen                         to imitate
+
+── arbeiten ──
+  [1] arbeiten                          to work
+  [3] bearbeiten                        to work on/process
+  [3] einarbeiten                       to work in/train
+  [3] erarbeiten                        to work out/earn
+  [3] mitarbeiten                       to participate / contribute
+  [3] nacharbeiten                      to work overtime/redo
+  [3] verarbeiten                       to process
+  [3] zusammenarbeiten                  to collaborate / work together
+  [3] überarbeiten                      to revise/overwork
+
+── atmen ──
+  [3] atmen                             to breathe
+  [3] ausatmen                          to exhale
+  [3] einatmen                          to inhale
+
+── bauen ──
+  [2] bauen                             to build
+  [2] aufbauen                          to build up
+  [3] einbauen                          to install/build in
+  [3] umbauen                           to rebuild/convert
+
+── bessern ──
+  [1] bessern                           to improve / make better
+  [2] verbessern                        to improve
+
+── biegen ──
+  [1] biegen                            to bend / curve
+  [3] abbiegen                          to take a turn
+
+── bieten ──
+  [2] bieten                            to offer
+  [2] anbieten                          to offer
+
+── bilden ──
+  [2] bilden                            to form/educate
+  [3] ausbilden                         to train/educate
+  [3] nachbilden                        to replicate/copy
+  [3] weiterbilden                      to further educate
+
+── binden ──
+  [3] binden                            to bind/tie
+  [2] verbinden                         to connect/combine
+  [3] einbinden                         to integrate/bind in
+
+── bitten ──
+  [2] bitten                            to ask / request
+  [3] erbitten                          to request
+
+── bleiben ──
+  [1] bleiben                           to stay
+  [3] aufbleiben                        to stay up
+
+── blicken ──
+  [1] blicken                           to look / glance
+  [3] zurückblicken                     to look back
+
+── braten ──
+  [3] braten                            to fry/roast
+  [3] anbraten                          to sear/brown
+
+── brauchen ──
+  [1] brauchen                          to need
+  [3] gebrauchen                        to use
+  [3] verbrauchen                       to consume / use up
+
+── brechen ──
+  [3] brechen                           to break
+  [3] abbrechen                         to break off
+  [3] unterbrechen                      to interrupt
+  [3] zerbrechen                        to break apart
+
+── brennen ──
+  [3] brennen                           to burn (intransitive: be on fire)
+  [3] verbrennen                        to burn up / incinerate
+
+── bringen ──
+  [1] bringen                           to bring
+  [3] einbringen                        to bring in/contribute
+  [3] mitbringen                        to bring along
+  [3] verbringen                        to spend (time)
+  [3] zusammenbringen                   to bring together
+
+── danken ──
+  [2] danken                            to thank
+  [3] sich bedanken                     to thank
+
+── dauern ──
+  [2] dauern                            to last/take time
+  [3] bedauern                          to regret
+
+── decken ──
+  [2] decken                            to cover/set (table)
+  [2] entdecken                         to discover
+  [3] abdecken                          to cover/uncover
+  [3] zudecken                          to cover up
+
+── dehnen ──
+  [1] dehnen                            to stretch (elastically — lengthen something, e.g. muscles, rubber, time)
+  [3] ausdehnen                         to expand / stretch (physically or over time)
+
+── denken ──
+  [1] denken                            to think
+  [2] bedenken                          to consider
+  [2] nachdenken                        to think about
+  [3] mitdenken                         to think along
+
+── deuten ──
+  [3] deuten                            to interpret / indicate / suggest
+  [3] andeuten                          to hint/indicate
+  [3] hindeuten                         to point to/indicate
+
+── dienen ──
+  [2] dienen                            to serve
+  [2] bedienen                          to serve/operate
+  [2] verdienen                         to earn
+
+── drohen ──
+  [3] drohen                            to threaten verbally (+ dative)
+  [3] bedrohen                          to endanger / pose a threat to (+ accusative)
+
+── drucken ──
+  [3] drucken                           to print
+  [3] ausdrucken                        to print out
+  [3] beeindrucken                      to impress
+
+── drücken ──
+  [2] drücken                           to push
+  [3] ausdrücken                        to express
+
+── duschen ──
+  [3] duschen                           to shower
+  [3] abduschen                         to shower off
+
+── enden ──
+  [2] enden                             to end
+  [2] beenden                           to finish
+
+── erinnern ──
+  [2] erinnern                          to remind (someone)
+  [2] sich erinnern                     to remember
+
+── essen ──
+  [1] essen                             to eat
+  [3] aufessen                          to eat up
+
+── fahren ──
+  [1] fahren                            to drive / go
+  [3] abfahren                          to depart
+  [3] losfahren                         to set off
+  [3] mitfahren                         to ride along
+  [3] vorbeifahren                      to drive past
+  [3] wegfahren                         to drive away
+
+── fallen ──
+  [1] fallen                            to fall
+  [1] gefallen                          to like / please
+  [3] einfallen                         to come to mind
+  [3] hinfallen                         to fall down
+
+── falten ──
+  [1] falten                            to fold
+  [3] entfalten                         to unfold/develop
+
+── fangen ──
+  [2] fangen                            to catch
+  [2] anfangen                          to start/begin
+  [2] empfangen                         to receive
+
+── fassen ──
+  [2] fassen                            to grasp/hold
+  [3] anfassen                          to touch/grab
+  [3] umfassen                          to encompass
+  [3] verfassen                         to write/compose
+  [3] zusammenfassen                    to summarize
+
+── fehlen ──
+  [2] fehlen                            to be missing
+  [2] empfehlen                         to recommend
+  [3] befehlen                          to command/order
+
+── feuern ──
+  [1] feuern                            to fire (dismiss or shoot)
+  [3] anfeuern                          to cheer on
+
+── finden ──
+  [1] finden                            to find
+  [2] befinden                          to be located (formally)
+  [3] empfinden                         to feel/perceive
+  [3] erfinden                          to invent
+  [3] herausfinden                      to find out
+
+── folgen ──
+  [1] folgen                            to follow
+  [3] befolgen                          to follow (instructions)
+
+── fordern ──
+  [2] fordern                           to demand
+  [3] auffordern                        to request/demand
+
+── fragen ──
+  [1] fragen                            to ask
+  [3] abfragen                          to query/test
+  [3] anfragen                          to make an inquiry / formally request
+  [3] befragen                          to question/survey
+  [3] nachfragen                        to follow up / inquire further
+
+── freuen ──
+  [3] freuen                            to please / delight (someone)
+  [1] sich freuen                       to be happy
+
+── fördern ──
+  [2] fördern                           to promote/support
+  [3] befördern                         to promote
+
+── fügen ──
+  [3] einfügen                          to insert
+  [3] hinzufügen                        to add
+  [3] zufügen                           to add/cause
+
+── fühlen ──
+  [2] fühlen                            to feel
+  [2] sich fühlen                       to feel
+
+── führen ──
+  [1] führen                            to lead
+  [3] anführen                          to lead/cite
+  [3] ausführen                         to carry out / execute (a task or order)
+  [3] durchführen                       to carry out / conduct (a process or project, start to finish)
+  [3] einführen                         to introduce/import
+  [3] weiterführen                      to continue/carry on
+
+── füllen ──
+  [2] erfüllen                          to fulfill
+  [3] abfüllen                          to fill/bottle
+  [3] ausfüllen                         to fill in/out
+
+── geben ──
+  [1] geben                             to give
+  [2] abgeben                           to hand in
+  [2] aufgeben                          to give up
+  [2] ergeben                           to result in/yield
+  [2] vergeben                          to forgive/assign
+  [2] übergeben                         to hand over
+  [3] angeben                           to state/show off
+  [3] ausgeben                          to spend (money)
+  [3] dazugeben                         to add to
+  [3] eingeben                          to enter (data)
+  [3] herausgeben                       to publish/give out
+  [3] nachgeben                         to give in
+  [3] weitergeben                       to pass on
+  [3] zugeben                           to admit
+  [3] zurückgeben                       to give back
+  [2] sich ergeben                      to result/surrender
+
+── gehen ──
+  [1] gehen                             to go
+  [2] ausgehen                          to go out
+  [2] umgehen                           to deal with/bypass
+  [2] vorgehen                          to proceed
+  [3] angehen                           to concern/approach
+  [3] hinausgehen                       to go outside
+  [3] hineingehen                       to go inside
+  [3] losgehen                          to set off/start
+  [3] mitgehen                          to go along
+  [3] nachgehen                         to follow up on
+  [3] vorausgehen                       to precede
+  [3] vorbeigehen                       to pass by
+  [3] weggehen                          to go away
+  [3] weitergehen                       to move on
+  [3] zugehen                           to approach / be closing
+  [3] zurückgehen                       to go back
+
+── gleichen ──
+  [1] gleichen                          to resemble / be alike
+  [2] vergleichen                       to compare
+
+── gleiten ──
+  [3] gleiten                           to glide/slide
+  [2] begleiten                         to accompany
+
+── greifen ──
+  [2] greifen                           to grab/reach
+  [3] angreifen                         to attack
+  [3] aufgreifen                        to pick up/address
+  [3] zugreifen                         to reach for / to help yourself / to seize
+
+── grenzen ──
+  [1] grenzen                           to border
+  [3] abgrenzen                         to delimit/distance
+  [3] begrenzen                         to limit
+
+── gründen ──
+  [1] gründen                           to found
+  [3] begründen                         to justify / give reasons for (factual, neutral)
+
+── grüßen ──
+  [3] grüßen                            to greet
+  [2] begrüßen                          to welcome/greet
+
+── haben ──
+  [1] haben                             to have
+  [2] vorhaben                          to plan/intend
+
+── haken ──
+  [1] haken                             to hook
+  [3] abhaken                           to tick off
+
+── halten ──
+  [1] halten                            to hold
+  [1] erhalten                          to receive/preserve
+  [2] behalten                          to keep
+  [2] enthalten                         to contain
+  [2] unterhalten                       to entertain/maintain
+  [3] anhalten                          to stop
+  [3] aufhalten                         to stop/delay
+  [3] durchhalten                       to persevere
+  [3] einhalten                         to comply with/keep
+  [3] vorenthalten                      to withhold
+  [3] zurückhalten                      to hold back
+  [1] sich verhalten                    to behave
+
+── handeln ──
+  [2] handeln                           to act/trade
+  [2] behandeln                         to treat/handle
+  [3] verhandeln                        to negotiate
+
+── heben ──
+  [3] heben                             to lift
+  [3] abheben                           to withdraw (money)
+  [3] aufheben                          to pick up/keep
+  [3] erheben                           to raise/levy
+  [3] sich abheben                      to stand out
+
+── heiraten ──
+  [2] heiraten                          to marry
+  [3] verheiraten                       to marry off
+
+── helfen ──
+  [1] helfen                            to help
+  [3] mithelfen                         to pitch in / help out
+  [3] weiterhelfen                      to help further
+
+── hindern ──
+  [1] hindern                           to hinder / obstruct
+  [2] verhindern                        to prevent
+
+── holen ──
+  [2] holen                             to fetch
+  [3] abholen                           to pick up
+  [3] erholen                           to recover
+  [3] nachholen                         to make up for
+  [3] sich erholen                      to recover/rest
+
+── hängen ──
+  [2] hängen                            to hang
+  [3] abhängen                          to depend on
+  [3] aufhängen                         to hang up
+  [3] zusammenhängen                    to be connected
+
+── hören ──
+  [1] hören                             to hear
+  [1] gehören                           to belong
+  [2] aufhören                          to stop/quit
+  [3] angehören                         to be a member of / be affiliated with
+  [3] zuhören                           to listen
+
+── kaufen ──
+  [1] kaufen                            to buy
+  [2] einkaufen                         to go shopping
+  [2] verkaufen                         to sell
+  [3] abkaufen                          to buy from
+
+── kehren ──
+  [1] kehren                            to sweep / turn
+  [3] zurückkehren                      to return
+
+── kennen ──
+  [1] kennen                            to know (person)
+  [1] erkennen                          to recognize
+  [3] anerkennen                        to recognize / acknowledge
+
+── klagen ──
+  [2] klagen                            to complain / lament (formal); to sue
+  [3] anklagen                          to accuse/charge
+  [3] beklagen                          to complain about
+
+── klappen ──
+  [3] klappen                           to work out / fold
+  [3] zusammenklappen                   to fold up
+
+── kleben ──
+  [3] kleben                            to stick / glue
+  [3] aufkleben                         to stick on
+  [3] zukleben                          to seal/glue shut
+
+── klemmen ──
+  [1] klemmen                           to clamp / be jammed
+  [3] einklemmen                        to clamp/trap
+
+── klicken ──
+  [3] klicken                           to click
+  [3] anklicken                         to click on
+
+── klingen ──
+  [2] klingen                           to sound
+  [3] abklingen                         to fade away
+  [3] einklingen                        to fade in (sound gradually becoming audible)
+
+── klären ──
+  [2] klären                            to clarify
+  [1] erklären                          to explain
+  [3] aufklären                         to clarify/educate
+
+── kommen ──
+  [1] kommen                            to come
+  [1] bekommen                          to receive/get
+  [2] abkommen                          to deviate/get away
+  [3] ankommen                          to arrive
+  [3] aufkommen                         to arise/come up
+  [3] auskommen                         to get by/manage
+  [3] dazukommen                        to join/be added
+  [3] herankommen                       to approach/get close
+  [3] hereinkommen                      to come in
+  [3] mitkommen                         to come along
+  [3] vorkommen                         to occur / happen / seem
+  [3] zukommen                          to approach/come to
+  [3] zurückkommen                      to come back
+  [3] zusammenkommen                    to come together
+
+── kranken ──
+  [1] kranken                           to be ailing / suffer from
+  [3] erkranken                         to fall ill
+
+── kreuzen ──
+  [1] kreuzen                           to cross
+  [3] ankreuzen                         to mark with a cross
+
+── kühlen ──
+  [1] kühlen                            to cool / chill
+  [3] abkühlen                          to cool down
+
+── kümmern ──
+  [2] kümmern                           to concern / to bother
+  [2] sich kümmern                      to take care of
+
+── kündigen ──
+  [3] kündigen                          to quit
+  [3] ankündigen                        to announce (in advance / give notice of)
+
+── kürzen ──
+  [3] kürzen                            to shorten/cut
+  [3] abkürzen                          to abbreviate/take a shortcut
+  [3] verkürzen                         to shorten
+
+── laden ──
+  [2] laden                             to load/charge
+  [3] aufladen                          to charge (battery)
+  [3] einladen                          to invite
+  [3] herunterladen                     to download
+
+── langweilen ──
+  [3] langweilen                        to bore
+  [3] sich langweilen                   to be bored
+
+── lassen ──
+  [1] lassen                            to let/leave
+  [1] verlassen                         to leave
+  [2] entlassen                         to fire
+  [3] auslassen                         to leave out/omit
+  [3] herunterlassen                    to lower
+  [3] loslassen                         to let go
+  [3] nachlassen                        to decrease/let up
+  [3] weglassen                         to leave out
+  [3] zulassen                          to allow/admit
+  [1] sich verlassen                    to rely on
+
+── laufen ──
+  [1] laufen                            to run / walk
+  [3] ablaufen                          to expire/run off
+  [3] entlaufen                         to run away / escape (from confinement)
+  [3] weglaufen                         to run away (from a place or person)
+  [3] sich verlaufen                    to get lost (on foot)
+
+── leben ──
+  [1] leben                             to live
+  [2] erleben                           to experience
+  [3] vorleben                          to model/live by example
+
+── legen ──
+  [2] legen                             to lay/place
+  [2] belegen                           to prove/occupy
+  [2] überlegen                         to consider/think over
+  [3] ablegen                           to put down
+  [3] anlegen                           to create/invest
+  [3] hinlegen                          to lay down
+  [3] vorlegen                          to present/submit
+  [3] weglegen                          to put aside
+  [3] zerlegen                          to disassemble
+  [3] zurücklegen                       to put back/cover distance
+  [3] zusammenlegen                     to combine/merge
+
+── lehnen ──
+  [1] lehnen                            to lean
+
+── leihen ──
+  [3] leihen                            to lend / borrow
+  [3] ausleihen                         to lend/borrow
+
+── leiten ──
+  [3] leiten                            to manage / lead
+  [3] anleiten                          to instruct/guide
+  [3] weiterleiten                      to forward/redirect
+
+── lesen ──
+  [1] lesen                             to read
+  [3] durchlesen                        to read through
+  [3] einlesen                          to scan/read in
+  [3] mitlesen                          to read along
+  [3] nachlesen                         to read up on
+  [3] vorlesen                          to read aloud
+
+── lieben ──
+  [1] lieben                            to love
+  [3] sich verlieben                    to fall in love
+
+── liefern ──
+  [2] liefern                           to deliver / supply
+  [3] abliefern                         to hand over / submit / drop off
+  [3] beliefern                         to supply
+
+── liegen ──
+  [1] liegen                            to lie / be located
+  [2] anliegen                          to be pending/fit closely
+  [3] unterliegen                       to be subject to / to lose to
+
+── lohnen ──
+  [3] lohnen                            to be worth it
+  [3] sich lohnen                       to be worth it
+
+── lösen ──
+  [2] lösen                             to solve
+  [3] ablösen                           to replace/detach
+  [3] auflösen                          to dissolve/cancel
+  [3] einlösen                          to redeem/cash in
+
+── machen ──
+  [1] machen                            to do / make
+  [3] abmachen                          to arrange/remove
+  [3] anmachen                          to turn on (informal)
+  [3] aufmachen                         to open
+  [3] ausmachen                         to turn off/agree
+  [3] durchmachen                       to go through
+  [3] voranmachen                       to get moving
+  [3] weitermachen                      to keep going / carry on (casual)
+  [3] zumachen                          to close
+
+── mahnen ──
+  [1] mahnen                            to urge / warn
+  [3] ermahnen                          to admonish/warn
+
+── meiden ──
+  [1] meiden                            to avoid / shun
+  [2] vermeiden                         to avoid
+
+── melden ──
+  [2] melden                            to report/register
+  [2] anmelden                          to register/log in
+  [3] abmelden                          to deregister/log out
+  [2] sich melden                       to get in touch
+
+── merken ──
+  [3] merken                            to realize / become aware of
+  [3] anmerken                          to note/remark
+  [3] bemerken                          to notice / observe (consciously)
+  [3] vormerken                         to note down/reserve
+
+── messen ──
+  [2] messen                            to measure
+  [3] abmessen                          to measure off
+
+── muntern ──
+  [1] muntern                           to liven up
+  [3] aufmuntern                        to cheer up
+
+── nehmen ──
+  [1] nehmen                            to take
+  [2] abnehmen                          to lose weight/take off
+  [2] annehmen                          to accept
+  [2] aufnehmen                         to record/absorb
+  [2] mitnehmen                         to take along
+  [2] übernehmen                        to take over
+  [3] benehmen                          to behave
+  [3] einnehmen                         to take (medicine) / occupy
+  [3] vornehmen                         to undertake/plan
+  [3] zunehmen                          to gain weight/increase
+  [3] entgegennehmen                    to accept/receive
+
+── nennen ──
+  [1] nennen                            to name / call
+  [3] ernennen                          to appoint/name
+
+── nutzen ──
+  [1] nutzen                            to use / benefit
+  [2] benutzen                          to use
+
+── nötigen ──
+  [1] nötigen                           to coerce / compel
+  [3] benötigen                         to need/require
+
+── ordnen ──
+  [3] ordnen                            to order/arrange
+  [3] anordnen                          to arrange/order
+  [3] einordnen                         to categorize/classify
+
+── packen ──
+  [2] packen                            to pack/grab
+  [3] anpacken                          to tackle/grab
+  [3] auspacken                         to unpack
+  [3] einpacken                         to pack up / wrap up
+  [3] verpacken                         to pack/wrap
+
+── passen ──
+  [2] passen                            to fit / suit
+  [3] anpassen                          to adapt/adjust
+  [3] aufpassen                         to pay attention/watch out
+  [3] verpassen                         to miss (a bus, opportunity)
+  [3] zusammenpassen                    to match/fit together
+
+── pflanzen ──
+  [2] pflanzen                          to plant
+  [3] anpflanzen                        to plant
+
+── planen ──
+  [2] planen                            to plan
+  [3] einplanen                         to plan in
+
+── prüfen ──
+  [2] prüfen                            to check
+  [2] überprüfen                        to check/verify
+  [3] nachprüfen                        to verify
+
+── raten ──
+  [2] raten                             to advise/guess
+  [2] beraten                           to advise
+  [2] geraten                           to get into/turn out
+
+── rechnen ──
+  [2] rechnen                           to calculate / do math
+  [3] abrechnen                         to settle accounts
+  [3] ausrechnen                        to work out / figure out (a result)
+  [3] berechnen                         to compute / calculate (formally)
+  [3] nachrechnen                       to recalculate
+  [3] umrechnen                         to convert
+
+── reden ──
+  [1] reden                             to talk/speak
+  [3] anreden                           to address by title/name (formal form of address)
+  [3] mitreden                          to have a say
+  [3] überreden                         to persuade / talk into
+
+── regen ──
+  [3] anregen                           to stimulate/suggest
+  [3] aufregen                          to upset/excite
+  [3] erregen                           to excite/arouse
+
+── reichen ──
+  [2] reichen                           to reach/suffice
+  [1] erreichen                         to reach/achieve
+  [3] einreichen                        to submit
+
+── reihen ──
+  [1] reihen                            to arrange in a row
+  [3] einreihen                         to line up
+
+── reisen ──
+  [2] reisen                            to travel
+  [3] abreisen                          to depart/travel away
+  [3] anreisen                          to travel to
+  [3] bereisen                          to travel through
+
+── reiten ──
+  [3] reiten                            to ride (horse)
+  [2] bereiten                          to prepare
+  [3] vorbereiten                       to prepare
+  [3] zubereiten                        to prepare (food)
+
+── reißen ──
+  [3] reißen                            to tear/rip
+  [3] abreißen                          to tear off/demolish
+
+── richten ──
+  [2] richten                           to direct/prepare
+  [2] berichten                         to report
+  [3] ausrichten                        to align/convey
+  [3] benachrichtigen                   to notify
+  [3] berichtigen                       to rectify / correct officially (records, statements)
+  [3] einrichten                        to set up/furnish
+  [3] unterrichten                      to teach
+
+── rufen ──
+  [2] rufen                             to call
+  [2] anrufen                           to call (phone)
+  [3] zurückrufen                       to call back
+
+── ruhen ──
+  [3] ruhen                             to be at rest / lie still
+  [3] ausruhen                          to rest / recuperate
+
+── rutschen ──
+  [3] rutschen                          to slide/slip
+  [3] ausrutschen                       to slip
+
+── räumen ──
+  [2] räumen                            to clear/vacate
+  [3] abräumen                          to clear away
+  [3] aufräumen                         to tidy up
+
+── sagen ──
+  [1] sagen                             to say
+  [3] absagen                           to cancel
+  [3] ansagen                           to announce / call out (in the moment)
+  [3] versagen                          to fail
+
+── schaffen ──
+  [1] schaffen                          to manage / achieve
+  [3] anschaffen                        to acquire/purchase
+
+── schalten ──
+  [3] schalten                          to switch
+  [3] abschalten                        to switch off / unwind / disconnect
+  [3] anschalten                        to turn on (formal)
+  [3] ausschalten                       to switch off / turn off (device)
+  [3] einschalten                       to switch on
+  [3] umschalten                        to switch over
+
+── schauen ──
+  [1] schauen                           to look (active, intentional)
+  [2] anschauen                         to look at / watch (colloquial)
+  [3] nachschauen                       to check/look up
+  [3] zuschauen                         to watch
+
+── scheiden ──
+  [1] entscheiden                       to decide
+  [2] unterscheiden                     to differentiate
+  [1] sich entscheiden                  to decide
+  [3] verabschieden                     to pass/say goodbye
+  [3] sich verabschieden                to say goodbye
+
+── scheinen ──
+  [1] scheinen                          to shine / seem
+  [2] erscheinen                        to appear
+
+── schicken ──
+  [2] schicken                          to send
+  [3] verschicken                       to send out
+  [3] zurückschicken                    to send back
+  [3] zuschicken                        to send to
+
+── schlafen ──
+  [2] schlafen                          to sleep
+  [3] ausschlafen                       to sleep in
+  [3] einschlafen                       to fall asleep
+
+── schlagen ──
+  [3] schlagen                          to hit / beat / strike
+  [3] nachschlagen                      to look up (in a reference)
+  [3] vorschlagen                       to suggest
+
+── schleifen ──
+  [3] schleifen                         to grind/drag
+  [3] einschleifen                      to grind in/train in
+
+── schließen ──
+  [2] schließen                         to close
+  [3] abschließen                       to lock/conclude
+  [3] anschließen                       to connect
+  [3] entschließen                      to decide/resolve
+  [3] zusammenschließen                 to merge/join
+
+── schnallen ──
+  [1] schnallen                         to buckle
+  [3] anschnallen                       to buckle up
+
+── schneiden ──
+  [2] schneiden                         to cut
+  [3] abschneiden                       to cut off
+  [3] ausschneiden                      to cut out
+  [3] zerschneiden                      to cut up
+
+── schrecken ──
+  [1] schrecken                         to startle / frighten
+  [3] erschrecken                       to frighten/be startled
+
+── schreiben ──
+  [1] schreiben                         to write
+  [2] beschreiben                       to describe
+  [3] abschreiben                       to copy/write off
+  [3] anschreiben                       to write to
+  [3] aufschreiben                      to write down
+  [3] mitschreiben                      to take notes
+  [3] umschreiben                       to rewrite/paraphrase
+  [3] unterschreiben                    to sign
+  [3] verschreiben                      to prescribe
+  [3] vorschreiben                      to prescribe/dictate
+  [3] weiterschreiben                   to continue writing
+
+── schreiten ──
+  [3] fortschreiten                     to progress
+  [3] voranschreiten                    to advance
+
+── schweigen ──
+  [2] schweigen                         to be silent
+  [3] verschweigen                      to conceal/keep secret
+
+── schwinden ──
+  [1] schwinden                         to dwindle / fade
+  [2] verschwinden                      to disappear
+
+── schwächen ──
+  [1] schwächen                         to weaken
+  [3] abschwächen                       to weaken/tone down
+
+── schätzen ──
+  [2] schätzen                          to estimate
+  [3] einschätzen                       to assess/estimate
+
+── schöpfen ──
+  [1] schöpfen                          to scoop / create
+  [3] erschöpfen                        to exhaust
+
+── sehen ──
+  [1] sehen                             to see (passive perception)
+  [2] ansehen                           to watch / look at (something specific)
+  [2] aussehen                          to look/appear
+  [2] versehen                          to provide/equip
+  [3] umsehen                           to look around
+  [3] vorsehen                          to plan/provide for
+  [3] zusehen                           to watch/observe
+
+── senden ──
+  [2] senden                            to send
+  [3] versenden                         to dispatch/send
+
+── setzen ──
+  [1] setzen                            to set
+  [2] ersetzen                          to replace
+  [3] absetzen                          to put down/deduct
+  [3] besetzen                          to occupy / take up
+  [3] fortsetzen                        to continue / resume (formal)
+  [3] übersetzen                        to translate
+  [1] sich setzen                       to sit down
+
+── sichern ──
+  [3] sichern                           to secure / save / protect
+  [3] versichern                        to insure
+
+── sinken ──
+  [3] sinken                            to sink
+  [3] versinken                         to sink into
+
+── sitzen ──
+  [1] sitzen                            to sit
+  [2] besitzen                          to own/possess
+
+── sorgen ──
+  [1] sorgen                            to care / worry
+  [3] besorgen                          to get/procure
+  [3] entsorgen                         dispose of
+
+── spannen ──
+  [1] spannen                           to stretch / tense
+  [3] entspannen                        to relax
+
+── sparen ──
+  [2] sparen                            to save (money/resources)
+  [3] ansparen                          to save up
+
+── speichern ──
+  [3] speichern                         to save (a file/data)
+  [3] abspeichern                       to save (data)
+
+── spielen ──
+  [1] spielen                           to play
+  [3] mitspielen                        to play along
+
+── spotten ──
+  [1] spotten                           to mock / jeer
+  [3] verspotten                        to mock
+
+── sprechen ──
+  [1] sprechen                          to speak
+  [2] versprechen                       to promise
+  [3] ansprechen                        to approach / bring up (a topic or person)
+  [3] aussprechen                       to pronounce/express
+  [3] besprechen                        to talk through / go over together
+  [3] widersprechen                     to contradict
+
+── staunen ──
+  [3] staunen                           to be amazed
+  [3] erstaunen                         to astonish
+
+── stecken ──
+  [3] stecken                           to put / stick / be stuck
+  [2] verstecken                        to hide
+  [3] anstecken                         to infect/pin on
+
+── stehen ──
+  [1] stehen                            to stand
+  [1] verstehen                         to understand
+  [2] aufstehen                         to get up/stand up
+  [2] bestehen                          to pass / exist
+  [2] entstehen                         to arise/originate
+
+── steigen ──
+  [2] steigen                           to rise / to go up
+  [3] aussteigen                        to get off/exit
+  [3] einsteigen                        to get in/board
+  [3] umsteigen                         to transfer/change (transport)
+
+── stellen ──
+  [1] stellen                           to place
+  [1] vorstellen                        to introduce/imagine
+  [2] bestellen                         to order
+  [2] einstellen                        to hire/set/adjust
+  [2] erstellen                         to create (a document/file/plan)
+  [3] abstellen                         to park/turn off
+  [3] anstellen                         to hire/switch on
+  [3] ausstellen                        to exhibit/issue
+  [3] herstellen                        to produce/manufacture
+  [3] hinstellen                        to put down/place
+  [3] nachbestellen                     to reorder
+  [3] zusammenstellen                   to compile/assemble
+  [1] sich vorstellen                   to introduce oneself
+
+── stimmen ──
+  [1] stimmen                           to be correct / vote
+  [2] bestimmen                         to determine/decide
+  [3] abstimmen                         to vote/coordinate
+  [3] zustimmen                         to agree/consent
+
+── stoßen ──
+  [3] stoßen                            to push/bump
+  [3] verstoßen                         to violate/expel
+
+── strafen ──
+  [3] strafen                           to punish
+  [3] bestrafen                         to punish
+
+── streben ──
+  [1] streben                           to strive / aspire
+  [3] anstreben                         to strive for
+
+── streiben ──
+  [2] betreiben                         to operate/run
+  [3] antreiben                         to drive/motivate
+  [3] übertreiben                       to exaggerate
+
+── streichen ──
+  [3] streichen                         to paint/stroke/cross out
+  [3] unterstreichen                    to underline
+
+── stärken ──
+  [2] stärken                           to strengthen
+  [3] verstärken                        to strengthen/amplify
+
+── stören ──
+  [2] stören                            to disturb
+  [2] zerstören                         to destroy
+
+── stützen ──
+  [3] stützen                           to support/prop
+  [2] unterstützen                      to support
+
+── suchen ──
+  [1] suchen                            to search
+  [1] versuchen                         to try
+  [2] besuchen                          to visit
+  [2] untersuchen                       to examine
+  [3] durchsuchen                       to search through
+
+── tauschen ──
+  [3] tauschen                          to swap / to trade
+  [3] austauschen                       to exchange
+  [3] umtauschen                        to exchange / return (in a shop)
+
+── teilen ──
+  [1] teilen                            to share
+  [2] verteilen                         to distribute
+  [3] aufteilen                         to divide up
+  [3] austeilen                         to hand out/distribute
+  [3] einteilen                         to divide/schedule
+  [3] mitteilen                         to inform/communicate
+
+── tragen ──
+  [1] tragen                            to carry
+  [2] ertragen                          to endure/bear
+  [2] übertragen                        to transfer/broadcast
+  [3] beantragen                        to apply for
+  [3] beauftragen                       to commission
+  [3] betragen                          to amount to
+  [3] eintragen                         to enter/register
+  [3] vertragen                         to tolerate/get along
+  [3] vortragen                         to present/perform
+
+── trauen ──
+  [3] trauen                            to trust/dare
+  [2] vertrauen                         to trust
+  [3] misstrauen                        to distrust
+  [3] sich trauen                       to dare
+
+── treffen ──
+  [1] treffen                           to meet / hit
+  [3] betreffen                         to concern/affect
+
+── trennen ──
+  [3] abtrennen                         to separate/detach
+  [2] sich trennen                      to separate
+
+── treten ──
+  [2] treten                            to step/kick
+  [2] auftreten                         to appear/occur
+  [2] betreten                          to enter
+  [3] eintreten                         to enter/join
+  [3] vertreten                         to represent / substitute
+
+── trocknen ──
+  [3] trocknen                          to dry
+  [3] abtrocknen                        to dry off
+
+── täuschen ──
+  [3] täuschen                          to deceive
+  [3] enttäuschen                       to disappoint
+  [3] vortäuschen                       to pretend/feign
+
+── urteilen ──
+  [3] beurteilen                        to judge/assess
+  [3] verurteilen                       to condemn / sentence
+
+── wachen ──
+  [1] wachen                            to watch over / be awake
+  [3] aufwachen                         to wake up
+  [3] wachhalten                        to keep awake
+
+── wachsen ──
+  [2] wachsen                           to grow
+  [3] aufwachsen                        to grow up
+
+── wandern ──
+  [2] wandern                           to hike
+  [3] auswandern                        to emigrate
+  [3] einwandern                        to immigrate
+
+── warten ──
+  [1] erwarten                          to expect
+  [3] abwarten                          to wait and see
+
+── waschen ──
+  [2] waschen                           to wash
+  [3] abwaschen                         to wash up
+
+── wechseln ──
+  [2] wechseln                          to exchange / change
+  [3] verwechseln                       to mix up / confuse
+
+── weichen ──
+  [1] weichen                           to yield / give way
+  [3] ausweichen                        to evade/avoid
+
+── weisen ──
+  [2] beweisen                          to prove
+  [3] anweisen                          to instruct/direct
+  [3] hinweisen                         to point out/refer
+  [3] nachweisen                        to prove/demonstrate
+  [3] zurückweisen                      to reject/refer back
+  [3] überweisen                        to transfer (money)
+
+── wenden ──
+  [2] wenden                            to turn around / reverse / flip
+  [2] verwenden                         to use/employ
+  [3] abwenden                          to avert/turn away
+  [3] anwenden                          to apply/use
+
+── werben ──
+  [3] bewerben                          to apply
+  [3] erwerben                          to acquire/earn
+  [3] sich bewerben                     to apply (for a job)
+
+── werfen ──
+  [2] werfen                            to throw
+  [3] wegwerfen                         to throw away
+
+── wickeln ──
+  [2] entwickeln                        to develop
+  [2] sich entwickeln                   to develop
+
+── wirken ──
+  [2] wirken                            to work/have effect
+  [3] einwirken                         to influence/act on
+
+── wischen ──
+  [3] wischen                           to wipe
+  [3] abwischen                         to wipe off
+
+── wohnen ──
+  [2] wohnen                            to live / reside
+  [3] bewohnen                          to inhabit
+
+── wägen ──
+  [1] wägen                             to weigh up (consider carefully)
+  [3] abwägen                           to weigh up/consider
+
+── wählen ──
+  [1] wählen                            to choose / vote
+  [3] auswählen                         to select/choose
+
+── wärmen ──
+  [1] wärmen                            to warm
+  [3] aufwärmen                         to warm up
+
+── wöhnen ──
+  [3] entwöhnen                         to wean
+  [3] gewöhnen                          to accustom someone (else) to
+  [3] sich gewöhnen                     to get used to (something)
+
+── zahlen ──
+  [1] zahlen                            to pay
+  [2] bezahlen                          to pay
+  [3] anzahlen                          to make a down payment
+  [3] auszahlen                         to pay out
+  [3] einzahlen                         to deposit (money)
+
+── zeichnen ──
+  [2] zeichnen                          to draw
+  [2] bezeichnen                        to label/designate
+  [3] abzeichnen                        to trace/sign off
+
+── zeigen ──
+  [1] zeigen                            to show
+  [3] aufzeigen                         to demonstrate/show
+  [3] vorzeigen                         to show/present
+
+── zeugen ──
+  [2] erzeugen                          to generate/create
+  [2] überzeugen                        to convince
+
+── ziehen ──
+  [1] ziehen                            to pull
+  [3] anziehen                          to put on (clothes)
+  [3] ausziehen                         to move out/take off
+  [3] einziehen                         to move in
+  [3] erziehen                          to raise / educate / bring up
+  [3] umziehen                          to move (home)/change clothes
+  [2] sich beziehen                     to refer to
+
+── zweifeln ──
+  [3] zweifeln                          to doubt / be uncertain (general state of doubt)
+  [3] bezweifeln                        to doubt something (express skepticism about a specific claim)
+
+── zählen ──
+  [2] zählen                            to count
+  [2] erzählen                          to tell
+  [3] abzählen                          to count off
+  [3] aufzählen                         to list/enumerate
+  [3] nacherzählen                      to retell
+
+── zögern ──
+  [3] zögern                            to hesitate
+  [3] verzögern                         to delay
+
+── zünden ──
+  [1] zünden                            to ignite
+  [3] anzünden                          to light/ignite
+
+── ändern ──
+  [1] ändern                            to change
+  [2] verändern                         to change/alter
+  [3] sich ändern                       to change (on its own)
+
+── öffnen ──
+  [2] öffnen                            to open
+  [3] eröffnen                          to open/launch
+
+
+============================================================
+STANDALONE VERBS (no family in tier 1-3)
+============================================================
+
+  [3] ablehnen                          to reject
+  [3] abonnieren                        to subscribe
+  [3] akzeptieren                       to accept
+  [3] analysieren                       to analyze
+  [3] anfertigen                        to produce/make
+  [3] anstrengen                        to make an effort/strain
+  [3] aufforsten                        to reforest
+  [3] auflisten                         to list
+  [2] aufmerksam machen                 to draw attention
+  [3] backen                            to bake
+  [3] basteln                           to craft/tinker
+  [3] beeilen                           to hurry
+  [2] beeinflussen                      to influence
+  [2] befreien                          to free/liberate
+  [3] begegnen                          to encounter/meet
+  [2] beginnen                          to begin
+  [2] behaupten                         to claim
+  [3] beleidigen                        to insult
+  [3] bemühen                           to endeavour
+  [3] beruhigen                         to calm down
+  [3] berücksichtigen                   to consider/take into account
+  [3] berühren                          to touch
+  [3] beschleunigen                     to accelerate
+  [2] beschäftigen                      to employ/occupy
+  [3] beseitigen                        to remove/eliminate
+  [3] besichtigen                       to visit / view (a place)
+  [2] bestätigen                        to confirm
+  [3] beteiligen                        to involve/participate
+  [3] beten                             to pray
+  [3] betonen                           to emphasize
+  [3] betrügen                          to cheat/deceive
+  [3] bevorzugen                        to prefer
+  [2] bewegen                           to move
+  [3] bewältigen                        to cope with/manage
+  [3] blühen                            to bloom
+  [3] borgen                            to borrow/lend
+  [3] bremsen                           to brake/slow down
+  [3] buchen                            to book
+  [3] buchstabieren                     to spell
+  [3] bügeln                            to iron
+  [3] darlegen                          to present/explain
+  [3] darstellen                        to depict / portray / show
+  [3] delegieren                        to delegate
+  [3] differenzieren                    to differentiate
+  [3] diktieren                         to dictate
+  [2] diskutieren                       to debate (back and forth)
+  [3] dokumentieren                     to document
+  [2] drehen                            to turn / rotate / spin
+  [3] drängen                           to push/urge
+  [1] dürfen                            to be allowed
+  [3] einblenden                        to fade in (visually)
+  [2] einverstanden sein                to be in agreement / to consent
+  [3] einwilligen                       to consent
+  [3] entschuldigen                     to apologize
+  [3] erfrischen                        to refresh
+  [3] ergänzen                          to supplement/add
+  [2] erlauben                          to allow
+  [3] erleichtern                       to ease/facilitate
+  [2] ermitteln                         to investigate/determine
+  [2] ermöglichen                       to enable
+  [3] ernten                            to harvest
+  [3] erschüttern                       to shake
+  [3] erweitern                         to expand / broaden (scope, range, capacity)
+  [2] erwähnen                          to mention
+  [2] existieren                        to exist
+  [3] experimentieren                   to experiment
+  [2] feiern                            to celebrate
+  [3] fernsehen                         to watch TV
+  [3] fertigstellen                     to complete/finish
+  [3] festhalten                        to hold on/record
+  [3] festlegen                         to determine/fix
+  [3] festsetzen                        to set/fix
+  [3] feststehen                        to be certain / be settled
+  [2] feststellen                       to determine/establish
+  [2] filmen                            to film
+  [3] filtern                           to filter
+  [3] finanzieren                       to finance
+  [3] fischen                           to fish
+  [3] flackern                          to flicker
+  [2] fliegen                           to fly
+  [3] fliehen                           to flee / escape
+  [3] fließen                           to flow
+  [3] flüchten                          to flee
+  [3] flüstern                          to whisper
+  [3] formulieren                       to formulate
+  [3] forschen                          to research
+  [3] fotografieren                     to photograph
+  [3] freilassen                        to release/free
+  [3] freimachen                        to stamp/clear
+  [3] fressen                           to eat (animal)
+  [3] frieren                           to freeze
+  [2] funktionieren                     to function/work
+  [3] färben                            to dye/color
+  [3] fürchten                          to fear
+  [3] füttern                           to feed (animals)
+  [3] garantieren                       to guarantee
+  [3] gelingen                          to succeed
+  [3] gelten                            to apply / be valid (rules, laws)
+  [3] genehmigen                        to approve / permit
+  [3] genesen                           to recover from illness
+  [2] genießen                          to enjoy
+  [3] genügen                           to suffice
+  [2] geschehen                         to happen
+  [2] gestalten                         to design/shape
+  [1] gewinnen                          to win
+  [3] gießen                            to water
+  [1] glauben                           to believe
+  [3] glänzen                           to shine/glitter
+  [3] gratulieren                       to congratulate
+  [3] grillen                           to grill/barbecue
+  [3] hageln                            to hail
+  [2] hassen                            to hate
+  [3] heizen                            to heat
+  [3] heißen                            to be called / mean
+  [3] herrschen                         to rule/prevail
+  [3] hetzen                            to rush/chase
+  [3] hochladen                         to upload
+  [2] hoffen                            to hope
+  [3] hupen                             to honk
+  [3] hämmern                           to hammer
+  [3] hüpfen                            to hop/jump
+  [3] hüten                             to guard/watch over
+  [3] identifizieren                    to identify
+  [3] ignorieren                        to ignore
+  [3] improvisieren                     to improvise
+  [2] informieren                       to inform
+  [3] installieren                      to install
+  [3] interpretieren                    to interpret (formally / analyse)
+  [2] investieren                       to invest
+  [3] jagen                             to hunt
+  [3] joggen                            to jog
+  [3] jubeln                            to cheer/rejoice
+  [2] kennenlernen                      to get to know
+  [3] klettern                          to climb (physically)
+  [3] klingeln                          to ring (doorbell)
+  [3] klopfen                           to knock
+  [3] knipsen                           to snap a photo
+  [3] knoten                            to knot
+  [2] kochen                            to cook
+  [3] kombinieren                       to combine
+  [3] kommentieren                      to comment
+  [3] kontaktieren                      to contact
+  [2] kontrollieren                     to control
+  [3] kooperieren                       to cooperate
+  [3] korrigieren                       to correct (errors, homework)
+  [3] kosten                            to cost
+  [3] kreieren                          to create (design/fashion/culinary context)
+  [3] kriechen                          to crawl
+  [3] kritisieren                       to criticize
+  [3] kämmen                            to comb
+  [2] kämpfen                           to fight
+  [1] können                            to be able to
+  [3] küssen                            to kiss
+  [2] lachen                            to laugh
+  [3] lagern                            to store
+  [2] landen                            to land
+  [1] laufen lassen                     to let run
+  [3] lauschen                          to listen/eavesdrop
+  [3] leeren                            to empty
+  [2] leiden                            to suffer
+  [2] leisten                           to achieve/afford
+  [3] lenken                            to steer/direct
+  [1] lernen                            to learn
+  [3] leuchten                          to shine / glow
+  [3] loben                             to praise
+  [3] lockern                           to loosen/relax
+  [2] lächeln                           to smile
+  [2] löschen                           to delete
+  [2] lügen                             to lie
+  [3] malen                             to paint/draw
+  [3] markieren                         to mark
+  [1] meinen                            to mean
+  [3] meistern                          to master
+  [2] mieten                            to rent
+  [3] mischen                           to mix
+  [3] motivieren                        to motivate
+  [3] mucken                            to grumble
+  [3] multiplizieren                    to multiply
+  [3] möblieren                         to furnish
+  [2] mögen                             to like
+  [1] müssen                            must
+  [3] nachvollziehen                    to understand/follow
+  [3] nagen                             to gnaw
+  [3] nicken                            to nod
+  [3] niesen                            to sneeze
+  [3] notieren                          to note down
+  [3] nummerieren                       to number
+  [3] nähen                             to sew
+  [3] nützen                            to be useful
+  [3] organisieren                      to organize
+  [3] orientieren                       to orient
+  [3] parken                            to park
+  [2] passieren                         to happen/pass
+  [3] pfeifen                           to whistle
+  [3] pflegen                           to care for/maintain
+  [3] plaudern                          to chat
+  [2] probieren                         to try/taste
+  [2] produzieren                       to manufacture / produce (goods)
+  [3] programmieren                     to program
+  [3] protestieren                      to protest
+  [2] präsentieren                      to present
+  [3] putzen                            to clean
+  [3] quälen                            to torment
+  [3] rasieren                          to shave
+  [2] reagieren                         to react
+  [3] realisieren                       to realize
+  [3] rechen                            to rake
+  [3] rechtfertigen                     to justify / vindicate (defending an action as right)
+  [2] regeln                            to regulate/settle
+  [3] regnen                            to rain
+  [3] reiben                            to rub/grate
+  [3] reinigen                          to clean
+  [2] rennen                            to run
+  [3] reparieren                        to repair
+  [3] reservieren                       to reserve
+  [3] respektieren                      to respect
+  [2] retten                            to rescue / save
+  [1] richtig stellen                   to correct/rectify
+  [3] riechen                           to smell
+  [2] rollen                            to roll
+  [3] rudern                            to row
+  [3] rückgängig machen                 to undo/reverse
+  [2] sammeln                           to collect
+  [3] scannen                           to scan
+  [3] schaben                           to scrape
+  [2] schaden                           to harm
+  [2] scheitern                         to fail
+  [2] schenken                          to give (as gift)
+  [3] schieben                          to push/slide
+  [2] schießen                          to shoot
+  [3] schimpfen                         to scold / grumble
+  [3] schlucken                         to swallow
+  [3] schmecken                         to taste
+  [3] schmelzen                         to melt
+  [3] schnappen                         to snap/grab
+  [3] schneien                          to snow
+  [1] schnell machen                    to hurry up
+  [2] schreien                          to shout
+  [3] schrubben                         to scrub
+  [2] schulden                          to owe
+  [3] schweben                          to float / hover
+  [3] schweißen                         to weld
+  [2] schwimmen                         to swim
+  [3] schwingen                         to swing
+  [3] schwitzen                         to sweat
+  [2] schützen                          to protect
+  [3] segeln                            to sail
+  [1] sein                              to be
+  [3] senken                            to lower/reduce
+  [3] sich beschweren                   to complain (to someone, about something)
+  [3] sich eignen                       to be suitable
+  [1] sich einigen                      to reach an agreement / to come to terms
+  [3] sich erkundigen                   to inquire / ask around
+  [3] sich erkälten                     to catch a cold
+  [2] sich interessieren                to be interested
+  [3] sich irren                        to be mistaken
+  [2] sich konzentrieren                to concentrate
+  [3] sich vergnügen                    to enjoy oneself / have fun
+  [3] sich verspäten                    to be late
+  [3] sich weigern                      to refuse
+  [3] sich wundern                      to wonder
+  [3] sich ärgern                       to be annoyed
+  [2] siegen                            to win/triumph
+  [2] singen                            to sing
+  [3] skizzieren                        to sketch
+  [1] sollen                            should
+  [3] sortieren                         to sort
+  [3] spazieren                         to stroll/walk
+  [2] spenden                           to donate
+  [2] springen                          to jump
+  [2] spüren                            to feel / sense
+  [3] stampfen                          to stamp/stomp
+  [2] stattfinden                       to take place
+  [3] stechen                           to sting/stab
+  [3] stehlen                           to steal
+  [3] steigern                          to increase/improve
+  [3] stempeln                          to stamp
+  [2] sterben                           to die
+  [3] stinken                           to stink
+  [2] stoppen                           to stop
+  [3] streamen                          to stream
+  [2] strecken                          to stretch
+  [2] streiten                          to argue/dispute
+  [3] stricken                          to knit
+  [3] strukturieren                     to structure
+  [2] studieren                         to study
+  [3] stürzen                           to fall/rush
+  [3] säen                              to sow
+  [2] tanzen                            to dance
+  [3] tauchen                           to dive
+  [2] teilnehmen                        to participate
+  [3] telefonieren                      to phone / make a call
+  [2] testen                            to test
+  [3] tippen                            to type
+  [3] trainieren                        to train
+  [3] transportieren                    to transport
+  [3] triefen                           to drip
+  [2] trinken                           to drink
+  [3] tropfen                           to drip
+  [2] träumen                           to dream
+  [3] trösten                           to comfort
+  [1] tun                               to do
+  [3] umarmen                           to hug
+  [3] umformen                          to reshape
+  [2] verbieten                         to forbid
+  [2] verbreiten                        to spread
+  [3] verdoppeln                        to double
+  [3] vereinbaren                       to arrange/agree
+  [3] vereinen                          to unite
+  [3] vereinfachen                      to simplify
+  [1] vergessen                         to forget
+  [3] vergrößern                        to enlarge
+  [3] verlangsamen                      to slow
+  [2] verlieren                         to lose
+  [3] verlängern                        to extend/lengthen
+  [3] vermissen                         to miss (someone/something)
+  [3] verschlechtern                    to worsen
+  [3] verschmutzen                      to pollute/dirty
+  [2] verteidigen                       to defend
+  [3] verursachen                       to cause
+  [3] verwalten                         to administrate
+  [2] verzichten                        to give up/do without
+  [3] veröffentlichen                   to publish
+  [3] vollenden                         to complete
+  [2] wagen                             to dare/risk
+  [3] wahrnehmen                        to perceive/notice
+  [3] warnen                            to warn
+  [3] wehen                             to blow (wind)
+  [3] wehtun                            to hurt / be painful
+  [2] weinen                            to cry
+  [1] werden                            to become
+  [3] wetten                            to bet / wager
+  [3] widerspiegeln                     to reflect
+  [3] widmen                            to dedicate
+  [2] wiederholen                       to repeat
+  [3] wiegen                            to weigh
+  [3] winken                            to wave
+  [1] wissen                            to know (fact)
+  [1] wollen                            to want
+  [3] wuchern                           to overgrow/proliferate
+  [3] wähnen                            to suppose / believe wrongly
+  [2] wünschen                          to wish
+  [3] zelten                            to go camping
+  [3] zittern                           to tremble / shake
+  [2] üben                              to practice
+  [3] übernachten                       to stay overnight
+  [3] überqueren                        to cross (a road / street)
+  [3] überraschen                       to surprise
