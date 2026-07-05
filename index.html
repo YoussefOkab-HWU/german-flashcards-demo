@@ -991,13 +991,13 @@ function getQatarDate() { return new Date(Date.now() + 3*3600*1000).toISOString(
 // Load daily count from localStorage — resets automatically when date changes
 function loadDailyCount() {
   try {
-    const stored = JSON.parse(localStorage.getItem('gfc_daily') || 'null');
+    const stored = JSON.parse(localStorage.getItem('gfc_demo_daily') || 'null');
     if (stored && stored.date === getQatarDate()) return stored.count || 0;
   } catch {}
   return 0;
 }
 function saveDailyCount() {
-  try { localStorage.setItem('gfc_daily', JSON.stringify({ date: getQatarDate(), count: dailyMasteredCount })); } catch {}
+  try { localStorage.setItem('gfc_demo_daily', JSON.stringify({ date: getQatarDate(), count: dailyMasteredCount })); } catch {}
 }
 let dailyMasteredCount = loadDailyCount();
 let _dailyCardCounted = false;
@@ -1301,22 +1301,22 @@ async function pullFromCloud() {
 // key = german word (unique enough across categories)
 function loadProgress() {
   try {
-    const p = decompressProgress(localStorage.getItem('gfc_progress') || '{}');
+    const p = decompressProgress(localStorage.getItem('gfc_demo_progress') || '{}');
     return p || {};
   } catch { return {}; }
 }
 function saveProgressLocal(p) {
   const data = compressProgress(p);
   try {
-    localStorage.setItem('gfc_progress', data);
+    localStorage.setItem('gfc_demo_progress', data);
   } catch(e) {
     // Quota exceeded — free space by clearing non-critical cached data, then retry.
     // Never delete gfc_mf_accuracy or gfc_mg_accuracy — those are hard to rebuild
     // and losing them corrupts Firebase on the next push.
-    try { localStorage.removeItem('gfc_synonyms'); } catch {}
-    try { localStorage.removeItem('gfc_mastered_streak'); } catch {}
-    try { localStorage.removeItem('gfc_accuracy'); } catch {}
-    try { localStorage.setItem('gfc_progress', data); } catch {}
+    try { localStorage.removeItem('gfc_demo_synonyms'); } catch {}
+    try { localStorage.removeItem('gfc_demo_mastered_streak'); } catch {}
+    try { localStorage.removeItem('gfc_demo_accuracy'); } catch {}
+    try { localStorage.setItem('gfc_demo_progress', data); } catch {}
   }
 }
 function saveProgress(p) {
@@ -1348,11 +1348,11 @@ function getPersonGender(word) {
 // grammarProgress[key] = { consecutive: 0..3, learned: false }
 // key = german word (verb infinitive or full noun e.g. "der Aal")
 function loadGrammarProgress() {
-  try { return JSON.parse(localStorage.getItem('gfc_grammar_progress') || '{}'); }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_grammar_progress') || '{}'); }
   catch { return {}; }
 }
 function saveGrammarProgressLocal() {
-  try { localStorage.setItem('gfc_grammar_progress', JSON.stringify(grammarProgress)); } catch {}
+  try { localStorage.setItem('gfc_demo_grammar_progress', JSON.stringify(grammarProgress)); } catch {}
 }
 function saveGrammarProgress() {
   saveGrammarProgressLocal();
@@ -1374,14 +1374,14 @@ function markGrammarWrong(key) {
 }
 
 function loadSynonyms() {
-  try { return JSON.parse(localStorage.getItem('gfc_synonyms') || '{}'); }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_synonyms') || '{}'); }
   catch { return {}; }
 }
 
 // ── Accuracy tracking (per mastered-mode review) ──────────────────────────────
 // accuracy[word] = { shown: N, correct: N }
 function loadAccuracy() {
-  try { return JSON.parse(localStorage.getItem('gfc_accuracy') || '{}'); }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_accuracy') || '{}'); }
   catch { return {}; }
 }
 function saveAccuracy(sync = true) {
@@ -1389,7 +1389,7 @@ function saveAccuracy(sync = true) {
   for (const k of Object.keys(accuracy)) {
     if (accuracy[k].correct > accuracy[k].shown) accuracy[k].correct = accuracy[k].shown;
   }
-  try { localStorage.setItem('gfc_accuracy', JSON.stringify(accuracy)); } catch {}
+  try { localStorage.setItem('gfc_demo_accuracy', JSON.stringify(accuracy)); } catch {}
   if (sync) scheduleCloudSync();
 }
 function getAccuracy(word) {
@@ -1420,10 +1420,10 @@ function getAccuracyLabel(word) {
 // ── Mastered-flashcard accuracy (separate from regular-mode accuracy) ─────────
 // Only records attempts made inside Mastered/Mastered-All mode
 function loadMasteredFlashAccuracy() {
-  try { return JSON.parse(localStorage.getItem('gfc_mf_accuracy') || '{}'); } catch { return {}; }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_mf_accuracy') || '{}'); } catch { return {}; }
 }
 function saveMasteredFlashAccuracy() {
-  try { localStorage.setItem('gfc_mf_accuracy', JSON.stringify(masteredFlashAccuracy)); } catch {}
+  try { localStorage.setItem('gfc_demo_mf_accuracy', JSON.stringify(masteredFlashAccuracy)); } catch {}
   scheduleCloudSync();
 }
 function getMFAccuracy(word) {
@@ -1492,32 +1492,32 @@ function isInRedemption(word) {
 }
 
 function saveSynonyms(s) {
-  try { localStorage.setItem('gfc_synonyms', JSON.stringify(s)); } catch {}
+  try { localStorage.setItem('gfc_demo_synonyms', JSON.stringify(s)); } catch {}
 }
 
 // ── State ────────────────────────────────────────────────────────────────────
 let progress = loadProgress();
 // One-time fix: mark Das Haus as mastered
-if (!localStorage.getItem('fix_dashaus')) {
+if (!localStorage.getItem('demo_fix_dashaus')) {
   progress['Das Haus'] = { consecutive: 5, learned: true, attempted: true };
   saveProgressLocal(progress);
-  localStorage.setItem('fix_dashaus', '1');
+  localStorage.setItem('demo_fix_dashaus', '1');
 }
 // One-time fix: mark zudem as mastered
-if (!localStorage.getItem('fix_zudem')) {
+if (!localStorage.getItem('demo_fix_zudem')) {
   progress['zudem'] = { consecutive: 5, learned: true, attempted: true };
   saveProgressLocal(progress);
-  localStorage.setItem('fix_zudem', '1');
+  localStorage.setItem('demo_fix_zudem', '1');
 }
 // One-time fix: mark der Moment as mastered (v2 — correct lowercase key)
-if (!localStorage.getItem('fix_dermoment2')) {
+if (!localStorage.getItem('demo_fix_dermoment2')) {
   progress['der Moment'] = { consecutive: 5, learned: true, attempted: true };
   saveProgressLocal(progress);
-  localStorage.setItem('fix_dermoment2', '1');
+  localStorage.setItem('demo_fix_dermoment2', '1');
 }
 let grammarProgress = loadGrammarProgress();
 // One-time migration: flashcard mastery threshold lowered from 5 to 3
-if (!localStorage.getItem('fix_mastery_threshold_3')) {
+if (!localStorage.getItem('demo_fix_mastery_threshold_3')) {
   let changed = false;
   for (const k of Object.keys(progress)) {
     if ((progress[k].consecutive || 0) >= 3 && !progress[k].learned) {
@@ -1526,10 +1526,10 @@ if (!localStorage.getItem('fix_mastery_threshold_3')) {
     }
   }
   if (changed) saveProgressLocal(progress);
-  localStorage.setItem('fix_mastery_threshold_3', '1');
+  localStorage.setItem('demo_fix_mastery_threshold_3', '1');
 }
 // One-time migration: grammar mastery threshold changed from 3 to 1
-if (!localStorage.getItem('fix_grammar_mastery_1')) {
+if (!localStorage.getItem('demo_fix_grammar_mastery_1')) {
   let changed = false;
   for (const k of Object.keys(grammarProgress)) {
     if ((grammarProgress[k].consecutive || 0) >= 1 && !grammarProgress[k].learned) {
@@ -1538,26 +1538,26 @@ if (!localStorage.getItem('fix_grammar_mastery_1')) {
     }
   }
   if (changed) saveGrammarProgressLocal();
-  localStorage.setItem('fix_grammar_mastery_1', '1');
+  localStorage.setItem('demo_fix_grammar_mastery_1', '1');
 }
 let synonyms = loadSynonyms();
 // One-time wipe: accuracy data collected before the trackShown-on-display bug was fixed
-if (!localStorage.getItem('fix_accuracy_wipe')) {
-  localStorage.removeItem('gfc_accuracy');
-  localStorage.setItem('fix_accuracy_wipe', '1');
+if (!localStorage.getItem('demo_fix_accuracy_wipe')) {
+  localStorage.removeItem('gfc_demo_accuracy');
+  localStorage.setItem('demo_fix_accuracy_wipe', '1');
 }
 let accuracy = loadAccuracy();
 // One-time fix: cap any correct > shown from the sibling double-count bug
-if (!localStorage.getItem('fix_accuracy_cap')) {
+if (!localStorage.getItem('demo_fix_accuracy_cap')) {
   let fixed = false;
   for (const k of Object.keys(accuracy)) {
     if (accuracy[k].correct > accuracy[k].shown) { accuracy[k].correct = accuracy[k].shown; fixed = true; }
   }
-  if (fixed) localStorage.setItem('gfc_accuracy', JSON.stringify(accuracy));
-  localStorage.setItem('fix_accuracy_cap', '1');
+  if (fixed) localStorage.setItem('gfc_demo_accuracy', JSON.stringify(accuracy));
+  localStorage.setItem('demo_fix_accuracy_cap', '1');
 }
 // One-time fix: reset accuracy for multi-answer siblings (trackCorrect was never called for them)
-if (!localStorage.getItem('fix_sibling_accuracy')) {
+if (!localStorage.getItem('demo_fix_sibling_accuracy')) {
   const englishMap = {};
   for (const [cat, items] of Object.entries(DATA)) {
     for (const item of items) {
@@ -1573,8 +1573,8 @@ if (!localStorage.getItem('fix_sibling_accuracy')) {
       }
     }
   }
-  localStorage.setItem('gfc_accuracy', JSON.stringify(accuracy));
-  localStorage.setItem('fix_sibling_accuracy', '1');
+  localStorage.setItem('gfc_demo_accuracy', JSON.stringify(accuracy));
+  localStorage.setItem('demo_fix_sibling_accuracy', '1');
 }
 let isMasteredMode = false;
 let isMasteredGrammarMode = false;
@@ -1727,10 +1727,10 @@ const lastShownAt = {}; // german -> cardCount when last shown
 const retryCooldownFor = {}; // german -> assigned cooldown (15-50)
 const RECENT_COOLDOWN = 6; // min cards before a word can repeat
 function loadMasteredStreak() {
-  try { return JSON.parse(localStorage.getItem('gfc_mastered_streak') || '{}'); } catch { return {}; }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_mastered_streak') || '{}'); } catch { return {}; }
 }
 function saveMasteredStreak() {
-  try { localStorage.setItem('gfc_mastered_streak', JSON.stringify(masteredSessionStreak)); } catch {}
+  try { localStorage.setItem('gfc_demo_mastered_streak', JSON.stringify(masteredSessionStreak)); } catch {}
 }
 const masteredSessionStreak = loadMasteredStreak(); // german -> consecutive correct overall
 
@@ -2949,7 +2949,7 @@ let currentMasteredGrammarCard = null;
 let masteredGrammarAccuracy = {}; // key → {shown, correct}
 let masteredFlashAccuracy = loadMasteredFlashAccuracy(); // word → {shown, correct} — mastered mode only
 // One-time migration: seed masteredFlashAccuracy from accuracy for words that have data
-if (!localStorage.getItem('fix_mf_seed')) {
+if (!localStorage.getItem('demo_fix_mf_seed')) {
   let seeded = 0;
   for (const word of Object.keys(accuracy)) {
     if (!masteredFlashAccuracy[word] && accuracy[word] && accuracy[word].shown > 0) {
@@ -2958,12 +2958,12 @@ if (!localStorage.getItem('fix_mf_seed')) {
     }
   }
   if (seeded > 0) saveMasteredFlashAccuracy();
-  localStorage.setItem('fix_mf_seed', '1');
+  localStorage.setItem('demo_fix_mf_seed', '1');
 }
 // One-time fix: restore mfAccuracy for mastered words that lost their data
 // (quota-exceeded bug wiped gfc_mf_accuracy from localStorage, then pushToCloud
 // wrote empty data to Firebase — re-seed from regular accuracy as best estimate).
-if (!localStorage.getItem('fix_mf_reseed_v1')) {
+if (!localStorage.getItem('demo_fix_mf_reseed_v1')) {
   let reseeded = 0;
   for (const word of Object.keys(accuracy)) {
     const mf = masteredFlashAccuracy[word];
@@ -2974,10 +2974,10 @@ if (!localStorage.getItem('fix_mf_reseed_v1')) {
     }
   }
   if (reseeded > 0) saveMasteredFlashAccuracy();
-  localStorage.setItem('fix_mf_reseed_v1', '1');
+  localStorage.setItem('demo_fix_mf_reseed_v1', '1');
 }
 // One-time fix: cap correct <= shown for all mastered flash entries
-if (!localStorage.getItem('gfc_fix_mf_cap')) {
+if (!localStorage.getItem('gfc_demo_fix_mf_cap')) {
   let fixed = false;
   for (const w of Object.keys(masteredFlashAccuracy)) {
     if (masteredFlashAccuracy[w].correct > masteredFlashAccuracy[w].shown) {
@@ -2986,15 +2986,15 @@ if (!localStorage.getItem('gfc_fix_mf_cap')) {
     }
   }
   if (fixed) saveMasteredFlashAccuracy();
-  localStorage.setItem('gfc_fix_mf_cap', '1');
+  localStorage.setItem('gfc_demo_fix_mf_cap', '1');
 }
 // One-time reset: besprechen and diskutieren definitions were clarified
-if (!localStorage.getItem('gfc_reset_discuss2')) {
+if (!localStorage.getItem('gfc_demo_reset_discuss2')) {
   ['besprechen', 'diskutieren'].forEach(w => {
     masteredFlashAccuracy[w] = { shown: 0, correct: 0, streak: 0 };
   });
   saveMasteredFlashAccuracy();
-  localStorage.setItem('gfc_reset_discuss2', '1');
+  localStorage.setItem('gfc_demo_reset_discuss2', '1');
 }
 let mgCardCount = 0;
 const mgLastShownAt = {}; // grammarKey → mgCardCount when last shown
@@ -3022,10 +3022,10 @@ function pickMasteredGrammarCard(deck) {
 }
 
 function loadMasteredGrammarAccuracy() {
-  try { return JSON.parse(localStorage.getItem('gfc_mg_accuracy') || '{}'); } catch { return {}; }
+  try { return JSON.parse(localStorage.getItem('gfc_demo_mg_accuracy') || '{}'); } catch { return {}; }
 }
 function saveMasteredGrammarAccuracy() {
-  try { localStorage.setItem('gfc_mg_accuracy', JSON.stringify(masteredGrammarAccuracy)); } catch {}
+  try { localStorage.setItem('gfc_demo_mg_accuracy', JSON.stringify(masteredGrammarAccuracy)); } catch {}
   scheduleCloudSync();
 }
 function trackMGShown(key) {
@@ -3597,7 +3597,7 @@ function checkGrammarAnswer() {
 // ── Language direction ────────────────────────────────────────────────────────
 // ── Password gate ─────────────────────────────────────────────────────────────
 const PASSWORD = "guest";
-const AUTH_KEY = "gfc_auth";
+const AUTH_KEY = "gfc_demo_auth";
 
 function checkPassword() {
   const input = document.getElementById('pw-input').value;
@@ -3845,40 +3845,40 @@ function startApp(dir) {
   loadBreakdowns(); // fire and forget — available before first card is answered
   pullFromCloud().finally(() => {
     // One-time post-cloud fixes (run after Firebase overwrites local)
-    if (!localStorage.getItem('fix_weise_cloud3')) {
+    if (!localStorage.getItem('demo_fix_weise_cloud3')) {
       progress['weise'] = { consecutive: 5, learned: true, attempted: true };
       saveProgressLocal(progress);
       // Push directly and immediately — don't use the debounced timer
       // which would get overwritten by onSnapshot before it fires
       CLOUD_DOC.set({ progress: compressProgress(progress) }, { merge: true })
-        .then(() => localStorage.setItem('fix_weise_cloud3', '1'))
+        .then(() => localStorage.setItem('demo_fix_weise_cloud3', '1'))
         .catch(() => {});
     }
-    if (!localStorage.getItem('fix_zudem_cloud')) {
+    if (!localStorage.getItem('demo_fix_zudem_cloud')) {
       progress['zudem'] = { consecutive: 5, learned: true, attempted: true };
       saveProgressLocal(progress);
       CLOUD_DOC.set({ progress: compressProgress(progress) }, { merge: true })
-        .then(() => localStorage.setItem('fix_zudem_cloud', '1'))
+        .then(() => localStorage.setItem('demo_fix_zudem_cloud', '1'))
         .catch(() => {});
     }
-    if (!localStorage.getItem('fix_dermoment_cloud')) {
+    if (!localStorage.getItem('demo_fix_dermoment_cloud')) {
       progress['Der Moment'] = { consecutive: 5, learned: true, attempted: true };
       saveProgressLocal(progress);
       CLOUD_DOC.set({ progress: compressProgress(progress) }, { merge: true })
-        .then(() => localStorage.setItem('fix_dermoment_cloud', '1'))
+        .then(() => localStorage.setItem('demo_fix_dermoment_cloud', '1'))
         .catch(() => {});
     }
     // Restore senden/schicken streak lost to Math.min merge bug
-    if (!localStorage.getItem('fix_senden_streak')) {
+    if (!localStorage.getItem('demo_fix_senden_streak')) {
       progress['senden']   = { consecutive: 3, learned: false, attempted: true };
       progress['schicken'] = { consecutive: 3, learned: false, attempted: true };
       saveProgressLocal(progress);
       CLOUD_DOC.set({ progress: compressProgress(progress) }, { merge: true })
-        .then(() => localStorage.setItem('fix_senden_streak', '1'))
+        .then(() => localStorage.setItem('demo_fix_senden_streak', '1'))
         .catch(() => {});
     }
     // One-time fix: mark all remaining tier-1 words as mastered
-    if (!localStorage.getItem('fix_tier1_complete')) {
+    if (!localStorage.getItem('demo_fix_tier1_complete')) {
       let changed = false;
       for (const [word, tier] of Object.entries(TIERS)) {
         if (tier === 1 && !getWordState(word).learned) {
@@ -3889,10 +3889,10 @@ function startApp(dir) {
       if (changed) {
         saveProgressLocal(progress);
         CLOUD_DOC.set({ progress: compressProgress(progress) }, { merge: true })
-          .then(() => localStorage.setItem('fix_tier1_complete', '1'))
+          .then(() => localStorage.setItem('demo_fix_tier1_complete', '1'))
           .catch(() => {});
       } else {
-        localStorage.setItem('fix_tier1_complete', '1');
+        localStorage.setItem('demo_fix_tier1_complete', '1');
       }
     }
     // Refresh mastered count on tier select screen if still visible
